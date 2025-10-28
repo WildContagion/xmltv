@@ -1,4 +1,4 @@
-name: Build EPG UK
+name: Gracenote XMLTV Generator
 
 on:
   schedule:
