@@ -4,9 +4,6 @@
     <display-name>Programming Unavailable (PRGNOT)</display-name>
     <url>https://tvlistings.gracenote.com</url>
   </channel>
-  <programme start="20251028100000 +0000" stop="20251028140000 +0000" channel="15218">
-    <title lang="en">Programming Unavailable</title>
-  </programme>
   <programme start="20251028140000 +0000" stop="20251028180000 +0000" channel="15218">
     <title lang="en">Programming Unavailable</title>
   </programme>
@@ -17,9 +14,6 @@
     <title lang="en">Programming Unavailable</title>
   </programme>
   <programme start="20251029020000 +0000" stop="20251029060000 +0000" channel="15218">
-    <title lang="en">Programming Unavailable</title>
-  </programme>
-  <programme start="20251029100000 +0000" stop="20251029140000 +0000" channel="15218">
     <title lang="en">Programming Unavailable</title>
   </programme>
   <programme start="20251029140000 +0000" stop="20251029180000 +0000" channel="15218">
