@@ -26,7 +26,7 @@ jobs:
       - name: execute py script
         run: |
           mkdir guide
-          python ./gracenote/gracenote.py -i ./gracenote/channels.json -o ./guide/gracenote.xml
+          python ./gracenote/gracenote.py
           gzip -c ./guide/gracenote.xml > ./guide/gracenote.xml.gz
         
       - uses: JamesIves/github-pages-deploy-action@v4
