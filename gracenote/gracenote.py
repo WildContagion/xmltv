@@ -11,6 +11,7 @@ import datetime
 from datetime import timedelta
 import xml.etree.ElementTree as ET
 from xml.dom import minidom
+import sys
 
 def get_timestamp_for_hour(hours_ahead=0):
     """Get Unix timestamp for the start of current hour + specified hours"""
@@ -167,54 +168,53 @@ def prettify_xml(elem):
     return reparsed.toprettyxml(indent="  ")
 
 def main():
+    # Default file paths
+    channels_file = './gracenote/channels.json'
+    output_filename = './guide/gracenote.xml'
+
+    # Handle command-line arguments
+    if len(sys.argv) > 1:
+        channels_file = sys.argv[1]
+    if len(sys.argv) > 2:
+        output_filename = sys.argv[2]
+
     # Load channels from JSON file
     try:
-        with open('./gracenote/channels.json', 'r') as f:
+        with open(channels_file, 'r') as f:
             channels = json.load(f)
     except FileNotFoundError:
-        print("Error: channels.json file not found")
+        print(f"Error: channels file not found at {channels_file}")
         return
     except json.JSONDecodeError as e:
-        print(f"Error parsing channels.json: {e}")
+        print(f"Error parsing channels file: {e}")
         return
-    
+
     print(f"Loaded {len(channels)} channels")
-    
+
     all_xmltv_data = []
-    
+
     for channel in channels:
         print(f"\nProcessing channel: {channel.get('name', 'Unknown')}")
-        
+
         # Fetch program data for 3 days
         programs = fetch_gracenote_data(channel, days=3)
         print(f"Retrieved {len(programs)} programs for {channel['name']}")
-        
+
         # Create XMLTV structure
         xmltv_root = create_xmltv_output(channel, programs)
         all_xmltv_data.append(xmltv_root)
-    
+
     # Combine all channel data into one XMLTV file
     if all_xmltv_data:
-        # Use first TV element as base
         combined_tv = all_xmltv_data[0]
-        
-        # Add channels and programmes from other TV elements
         for tv_element in all_xmltv_data[1:]:
             for child in tv_element:
                 combined_tv.append(child)
-        
-        # Generate pretty XML
         xml_output = prettify_xml(combined_tv)
-        
-        # Save to file
-        output_filename = f"./guide/gracenote.xml"
         with open(output_filename, 'w', encoding='utf-8') as f:
             f.write(xml_output)
-        
         print(f"\nXMLTV file generated: {output_filename}")
         print(f"Total channels: {len(channels)}")
-        
-        # Count total programs
         total_programs = sum(1 for elem in combined_tv.iter() if elem.tag == 'programme')
         print(f"Total programs: {total_programs}")
     else:
