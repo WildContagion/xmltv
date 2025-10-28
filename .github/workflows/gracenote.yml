@@ -25,7 +25,6 @@ jobs:
           
       - name: execute py script
         run: |
-          mkdir ./guide
           python ./gracenote/gracenote.py
           gzip -c ./guide/gracenote.xml > ./guide/gracenote.xml.gz
                 
