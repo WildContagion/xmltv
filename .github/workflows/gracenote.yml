@@ -33,12 +33,13 @@ jobs:
       - name: execute py script
         run: |
           python ./gracenote/gracenote.py
+          python ./gracenote/gracenote.py ./gracenote/USA-GNSTR-DEFAULT.json ./guide/USA-GNSTR-DEFAULT.xml
           gzip -c ./guide/gracenote.xml > ./guide/gracenote.xml.gz
                 
       - name: Commit and Push Changes
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add --force ./guide/gracenote.xml ./guide/gracenote.xml.gz
+          git add --force ./guide
           git commit -m "Update Gracenote XMLTV"
           git push && break
