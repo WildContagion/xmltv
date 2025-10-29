@@ -5,10 +5,10 @@ on:
     - cron: "0 4 * * *"
   workflow_dispatch:
   push:
-  branches:
-    - main # Optional: Run when the script itself is updated on the main branch
-  paths:
-    - './gracenote/gracenote.py'
+    branches:
+      - main 
+    paths:
+      - './gracenote/gracenote.py'
   
 jobs:
   load:
