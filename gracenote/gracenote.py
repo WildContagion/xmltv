@@ -13,17 +13,20 @@ import xml.etree.ElementTree as ET
 from xml.dom import minidom
 import sys
 
-def get_timestamp_for_hour(hours_ahead=0):
-    """Get Unix timestamp for the start of current hour + specified hours"""
-    now = datetime.datetime.now()
-    target_time = now.replace(minute=0, second=0, microsecond=0) + timedelta(hours=hours_ahead)
+def get_timestamp_for_4am_gmt():
+    """Get Unix timestamp for 04:00:00 GMT (UTC) of the current day"""
+    now = datetime.datetime.utcnow()
+    target_time = now.replace(hour=4, minute=0, second=0, microsecond=0)
+    # If current UTC hour is past 4, use tomorrow's 4am
+    if now.hour >= 4:
+        target_time += datetime.timedelta(days=1)
     return int(target_time.timestamp())
 
 def unix_to_datetime(unix_timestamp):
     """Convert Unix timestamp to XMLTV datetime format"""
     return datetime.datetime.fromtimestamp(unix_timestamp).strftime('%Y%m%d%H%M%S')
 
-def fetch_gracenote_data(channel_data, days=3):
+def fetch_gracenote_data(channel_data, days=1):
     """Fetch program data from Gracenote API for multiple days"""
     all_programs = []
     
@@ -35,7 +38,7 @@ def fetch_gracenote_data(channel_data, days=3):
             "lineupId": channel_data['lineup_id'],
             "IsSSLinkNavigation": True,
             "timespan": 336,  # 14 days in hours
-            "timestamp": timestamp,
+            "timestamp": get_timestamp_for_4am_gmt,
             "prgsvcid": channel_data['site_id'],
             "headendId": channel_data['headend_id'],
             "countryCode": channel_data['country'],
