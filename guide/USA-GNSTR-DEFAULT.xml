@@ -44,40 +44,88 @@
     <display-name>AccuWeather NOW</display-name>
     <url>https://tvlistings.gracenote.com</url>
   </channel>
-  <programme start="20251029060000 +0000" stop="20251029100000 +0000" channel="120551">
-    <title lang="en">Programming Unavailable</title>
+  <programme start="20251029040000 +0000" stop="20251029100000 +0000" channel="120551">
+    <title lang="en">AccuWeather All Night</title>
+    <desc lang="en">For the AccuWeather All Night owls and early morning risers, get the first look at what to expect for the day and the week ahead.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
   </programme>
-  <programme start="20251029100000 +0000" stop="20251029140000 +0000" channel="120551">
-    <title lang="en">Programming Unavailable</title>
+  <programme start="20251029100000 +0000" stop="20251029160000 +0000" channel="120551">
+    <title lang="en">AccuWeather Early</title>
+    <desc lang="en">Kick start your morning with AccuWeather Early forecast and coverage from our expert meteorologists.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
   </programme>
-  <programme start="20251029140000 +0000" stop="20251029180000 +0000" channel="120551">
-    <title lang="en">Programming Unavailable</title>
+  <programme start="20251029160000 +0000" stop="20251029170000 +0000" channel="120551">
+    <title lang="en">Ask the Experts</title>
+    <desc lang="en">Goes beyond the forecast to give you the how and why about stuff you wanted to ask about weather, space and science.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
   </programme>
-  <programme start="20251029180000 +0000" stop="20251029220000 +0000" channel="120551">
-    <title lang="en">Programming Unavailable</title>
+  <programme start="20251029170000 +0000" stop="20251029200000 +0000" channel="120551">
+    <title lang="en">AccuWeather Presents</title>
+    <desc lang="en">Featuring the most interesting, intense and awe-inspiring weather, space and science videos and stories.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
   </programme>
-  <programme start="20251029220000 +0000" stop="20251030020000 +0000" channel="120551">
-    <title lang="en">Programming Unavailable</title>
+  <programme start="20251029200000 +0000" stop="20251030000000 +0000" channel="120551">
+    <title lang="en">AccuWeather Ahead</title>
+    <desc lang="en">End your day with AccuWeather Ahead, giving you more in-depth expert interviews and deep analysis of the top weather news stories of the evening.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
   </programme>
-  <programme start="20251030020000 +0000" stop="20251030060000 +0000" channel="120551">
-    <title lang="en">Programming Unavailable</title>
+  <programme start="20251030000000 +0000" stop="20251030040000 +0000" channel="120551">
+    <title lang="en">Ask the Experts</title>
+    <desc lang="en">Goes beyond the forecast to give you the how and why about stuff you wanted to ask about weather, space and science.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
   </programme>
-  <programme start="20251030060000 +0000" stop="20251030100000 +0000" channel="120551">
-    <title lang="en">Programming Unavailable</title>
+  <programme start="20251030040000 +0000" stop="20251030100000 +0000" channel="120551">
+    <title lang="en">AccuWeather All Night</title>
+    <desc lang="en">For the AccuWeather All Night owls and early morning risers, get the first look at what to expect for the day and the week ahead.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
   </programme>
-  <programme start="20251030100000 +0000" stop="20251030140000 +0000" channel="120551">
-    <title lang="en">Programming Unavailable</title>
+  <programme start="20251030100000 +0000" stop="20251030160000 +0000" channel="120551">
+    <title lang="en">AccuWeather Early</title>
+    <desc lang="en">Kick start your morning with AccuWeather Early forecast and coverage from our expert meteorologists.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
   </programme>
-  <programme start="20251030140000 +0000" stop="20251030180000 +0000" channel="120551">
-    <title lang="en">Programming Unavailable</title>
+  <programme start="20251030160000 +0000" stop="20251030170000 +0000" channel="120551">
+    <title lang="en">Invisible Iceberg</title>
+    <desc lang="en">Discovering the impactful ways climate and weather shaped world events throughout history.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
   </programme>
-  <programme start="20251030180000 +0000" stop="20251030220000 +0000" channel="120551">
-    <title lang="en">Programming Unavailable</title>
+  <programme start="20251030170000 +0000" stop="20251030200000 +0000" channel="120551">
+    <title lang="en">AccuWeather Presents</title>
+    <desc lang="en">Featuring the most interesting, intense and awe-inspiring weather, space and science videos and stories.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
   </programme>
-  <programme start="20251030220000 +0000" stop="20251031020000 +0000" channel="120551">
-    <title lang="en">Programming Unavailable</title>
+  <programme start="20251030200000 +0000" stop="20251031000000 +0000" channel="120551">
+    <title lang="en">AccuWeather Ahead</title>
+    <desc lang="en">End your day with AccuWeather Ahead, giving you more in-depth expert interviews and deep analysis of the top weather news stories of the evening.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
   </programme>
-  <programme start="20251031020000 +0000" stop="20251031060000 +0000" channel="120551">
-    <title lang="en">Programming Unavailable</title>
+  <programme start="20251031000000 +0000" stop="20251031040000 +0000" channel="120551">
+    <title lang="en">Ask the Experts</title>
+    <desc lang="en">Goes beyond the forecast to give you the how and why about stuff you wanted to ask about weather, space and science.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
   </programme>
 </tv>
