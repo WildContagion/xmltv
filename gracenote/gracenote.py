@@ -13,16 +13,16 @@ import xml.etree.ElementTree as ET
 from xml.dom import minidom
 import sys
 
-def get_timestamp_for_4am_gmt():
+def get_timestamp_for_4am_gmt(days_ahead=0):
     """Get Unix timestamp for 04:00:00 GMT at days_ahead"""
     target_time = datetime.datetime.utcnow().replace(hour=4, minute=0, second=0, microsecond=0) + timedelta(days=days_ahead)
     return int(target_time.timestamp())
 
 def unix_to_datetime(unix_timestamp):
-    """Convert Unix timestamp to XMLTV datetime format"""
-    return datetime.datetime.fromtimestamp(unix_timestamp).strftime('%Y%m%d%H%M%S')
+    """Convert Unix timestamp to XMLTV datetime format (UTC)"""
+    return datetime.datetime.utcfromtimestamp(unix_timestamp).strftime('%Y%m%d%H%M%S')
 
-def fetch_gracenote_data(channel_data, days=1):
+def fetch_gracenote_data(channel_data, days=3):
     """Fetch program data from Gracenote API for multiple days"""
     all_programs = []
     
