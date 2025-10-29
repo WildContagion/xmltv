@@ -14,12 +14,8 @@ from xml.dom import minidom
 import sys
 
 def get_timestamp_for_4am_gmt():
-    """Get Unix timestamp for 04:00:00 GMT (UTC) of the current day"""
-    now = datetime.datetime.utcnow()
-    target_time = now.replace(hour=4, minute=0, second=0, microsecond=0)
-    # If current UTC hour is past 4, use tomorrow's 4am
-    if now.hour >= 4:
-        target_time += datetime.timedelta(days=1)
+    """Get Unix timestamp for 04:00:00 GMT at days_ahead"""
+    target_time = datetime.datetime.utcnow().replace(hour=4, minute=0, second=0, microsecond=0) + timedelta(days=days_ahead)
     return int(target_time.timestamp())
 
 def unix_to_datetime(unix_timestamp):
@@ -32,7 +28,7 @@ def fetch_gracenote_data(channel_data, days=1):
     
     for day_offset in range(days):
         # Calculate timestamp for each day at 00:00
-        timestamp = get_timestamp_for_4am_gmt(day_offset * 24)
+        timestamp = get_timestamp_for_4am_gmt(day_offset)
         
         payload = {
             "lineupId": channel_data['lineup_id'],
