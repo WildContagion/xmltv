@@ -32,13 +32,13 @@ def fetch_gracenote_data(channel_data, days=1):
     
     for day_offset in range(days):
         # Calculate timestamp for each day at 00:00
-        timestamp = get_timestamp_for_hour(day_offset * 24)
+        timestamp = get_timestamp_for_4am_gmt(day_offset * 24)
         
         payload = {
             "lineupId": channel_data['lineup_id'],
             "IsSSLinkNavigation": True,
             "timespan": 336,  # 14 days in hours
-            "timestamp": get_timestamp_for_4am_gmt,
+            "timestamp": timestamp,
             "prgsvcid": channel_data['site_id'],
             "headendId": channel_data['headend_id'],
             "countryCode": channel_data['country'],
