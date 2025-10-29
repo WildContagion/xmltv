@@ -50,6 +50,16 @@
     "name": "Cheddar"
   },
   {
+    "xmltv_id": "112797",
+    "device": "X",
+    "lineup_id": "USA-GNSTR-DEFAULT",
+    "headend_id": "GNSTR",
+    "country": "USA",
+    "postal": "12084",
+    "site_id": "112797",
+    "name": "ElectricNOW"
+  },
+  {
     "xmltv_id": "117477",
     "device": "X",
     "lineup_id": "USA-GNSTR-DEFAULT",
@@ -88,6 +98,16 @@
     "postal": "12084",
     "site_id": "111140",
     "name": "Gusto TV"
+  },
+  {
+    "xmltv_id": "114313",
+    "device": "X",
+    "lineup_id": "USA-GNSTR-DEFAULT",
+    "headend_id": "GNSTR",
+    "country": "USA",
+    "postal": "12084",
+    "site_id": "114313",
+    "name": "Outside"
   },
   {
     "xmltv_id": "132317",
@@ -158,5 +178,25 @@
     "postal": "12084",
     "site_id": "138176",
     "name": "Tastemade En Español"
+  },
+  {
+    "xmltv_id": "121424",
+    "device": "X",
+    "lineup_id": "USA-GNSTR-DEFAULT",
+    "headend_id": "GNSTR",
+    "country": "USA",
+    "postal": "12084",
+    "site_id": "121424",
+    "name": "Waypoint TV"
+  },
+  {
+    "xmltv_id": "125051",
+    "device": "X",
+    "lineup_id": "USA-GNSTR-DEFAULT",
+    "headend_id": "GNSTR",
+    "country": "USA",
+    "postal": "12084",
+    "site_id": "125051",
+    "name": "World Poker Tour"
   }
 ]
