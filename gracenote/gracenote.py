@@ -22,7 +22,7 @@ def unix_to_datetime(unix_timestamp):
     """Convert Unix timestamp to XMLTV datetime format (UTC)"""
     return datetime.datetime.utcfromtimestamp(unix_timestamp).strftime('%Y%m%d%H%M%S')
 
-def fetch_gracenote_data(channel_data, days=3):
+def fetch_gracenote_data(channel_data, days=2):
     """Fetch program data from Gracenote API for multiple days"""
     all_programs = []
     
