@@ -20,6 +20,16 @@
     "name": "AccuWeather NOW"
   },
   {
+    "xmltv_id": "130620",
+    "device": "X",
+    "lineup_id": "USA-GNSTR-DEFAULT",
+    "headend_id": "GNSTR",
+    "country": "USA",
+    "postal": "12084",
+    "site_id": "130620",
+    "name": "AsianCrush"
+  },
+  {
     "xmltv_id": "127883",
     "device": "X",
     "lineup_id": "USA-GNSTR-DEFAULT",
@@ -28,6 +38,16 @@
     "postal": "12084",
     "site_id": "127883",
     "name": "Action News Jax"
+  },
+  {
+    "xmltv_id": "120375",
+    "device": "X",
+    "lineup_id": "USA-GNSTR-DEFAULT",
+    "headend_id": "GNSTR",
+    "country": "USA",
+    "postal": "12084",
+    "site_id": "120375",
+    "name": "beIN SPORTS XTRA Streaming"
   },
   {
     "xmltv_id": "123870",
@@ -60,6 +80,16 @@
     "name": "Boston 25"
   },
   {
+    "xmltv_id": "113452",
+    "device": "X",
+    "lineup_id": "USA-GNSTR-DEFAULT",
+    "headend_id": "GNSTR",
+    "country": "USA",
+    "postal": "12084",
+    "site_id": "113452",
+    "name": "BUZZR Stream"
+  },
+  {
     "xmltv_id": "101103",
     "device": "X",
     "lineup_id": "USA-GNSTR-DEFAULT",
@@ -68,6 +98,16 @@
     "postal": "12084",
     "site_id": "101103",
     "name": "Cheddar"
+  },
+  {
+    "xmltv_id": "110480",
+    "device": "X",
+    "lineup_id": "USA-GNSTR-DEFAULT",
+    "headend_id": "GNSTR",
+    "country": "USA",
+    "postal": "12084",
+    "site_id": "110480",
+    "name": "Dove"
   },
   {
     "xmltv_id": "112797",
@@ -110,6 +150,26 @@
     "name": "Estrella TV"
   },
   {
+    "xmltv_id": "106100",
+    "device": "X",
+    "lineup_id": "USA-GNSTR-DEFAULT",
+    "headend_id": "GNSTR",
+    "country": "USA",
+    "postal": "12084",
+    "site_id": "106100",
+    "name": "Fubo Sports Network"
+  },
+  {
+    "xmltv_id": "124225",
+    "device": "X",
+    "lineup_id": "USA-GNSTR-DEFAULT",
+    "headend_id": "GNSTR",
+    "country": "USA",
+    "postal": "12084",
+    "site_id": "124225",
+    "name": "GoTraveler"
+  },
+  {
     "xmltv_id": "111140",
     "device": "X",
     "lineup_id": "USA-GNSTR-DEFAULT",
@@ -118,6 +178,16 @@
     "postal": "12084",
     "site_id": "111140",
     "name": "Gusto TV"
+  },
+  {
+    "xmltv_id": "128535",
+    "device": "X",
+    "lineup_id": "USA-GNSTR-DEFAULT",
+    "headend_id": "GNSTR",
+    "country": "USA",
+    "postal": "12084",
+    "site_id": "128535",
+    "name": "HBCUGO SPORTS"
   },
   {
     "xmltv_id": "127886",
@@ -130,6 +200,16 @@
     "name": "KIRO Seattle"
   },
   {
+    "xmltv_id": "121350",
+    "device": "X",
+    "lineup_id": "USA-GNSTR-DEFAULT",
+    "headend_id": "GNSTR",
+    "country": "USA",
+    "postal": "12084",
+    "site_id": "121350",
+    "name": "LiveXLive TV"
+  },
+  {
     "xmltv_id": "114313",
     "device": "X",
     "lineup_id": "USA-GNSTR-DEFAULT",
@@ -138,6 +218,16 @@
     "postal": "12084",
     "site_id": "114313",
     "name": "Outside"
+  },
+  {
+    "xmltv_id": "119355",
+    "device": "X",
+    "lineup_id": "USA-GNSTR-DEFAULT",
+    "headend_id": "GNSTR",
+    "country": "USA",
+    "postal": "12084",
+    "site_id": "119355",
+    "name": "RetroCrush"
   },
   {
     "xmltv_id": "132319",
@@ -168,6 +258,16 @@
     "postal": "12084",
     "site_id": "132320",
     "name": "Sensical Makers"
+  },
+  {
+    "xmltv_id": "112732",
+    "device": "X",
+    "lineup_id": "USA-GNSTR-DEFAULT",
+    "headend_id": "GNSTR",
+    "country": "USA",
+    "postal": "12084",
+    "site_id": "112732",
+    "name": "SportsGrid"
   },
   {
     "xmltv_id": "112480",
@@ -208,6 +308,16 @@
     "postal": "12084",
     "site_id": "120351",
     "name": "Tastemade Travel"
+  },
+  {
+    "xmltv_id": "112484",
+    "device": "X",
+    "lineup_id": "USA-GNSTR-DEFAULT",
+    "headend_id": "GNSTR",
+    "country": "USA",
+    "postal": "12084",
+    "site_id": "112484",
+    "name": "The Film Detective"
   },
   {
     "xmltv_id": "121424",
