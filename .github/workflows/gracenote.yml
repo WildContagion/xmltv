@@ -9,6 +9,7 @@ on:
       - main 
     paths:
       - 'gracenote/gracenote.py'
+      - 'gracenote/*.json'
       - '.github/workflows/gracenote.yml'
       
   
