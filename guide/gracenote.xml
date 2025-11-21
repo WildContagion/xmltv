@@ -4,24 +4,6 @@
     <display-name>Programming Unavailable (PRGNOT)</display-name>
     <url>https://tvlistings.gracenote.com</url>
   </channel>
-  <programme start="20251120070000 +0000" stop="20251120110000 +0000" channel="15218">
-    <title lang="en">Programming Unavailable</title>
-  </programme>
-  <programme start="20251120110000 +0000" stop="20251120150000 +0000" channel="15218">
-    <title lang="en">Programming Unavailable</title>
-  </programme>
-  <programme start="20251120150000 +0000" stop="20251120190000 +0000" channel="15218">
-    <title lang="en">Programming Unavailable</title>
-  </programme>
-  <programme start="20251120190000 +0000" stop="20251120230000 +0000" channel="15218">
-    <title lang="en">Programming Unavailable</title>
-  </programme>
-  <programme start="20251120230000 +0000" stop="20251121030000 +0000" channel="15218">
-    <title lang="en">Programming Unavailable</title>
-  </programme>
-  <programme start="20251121030000 +0000" stop="20251121070000 +0000" channel="15218">
-    <title lang="en">Programming Unavailable</title>
-  </programme>
   <programme start="20251121070000 +0000" stop="20251121110000 +0000" channel="15218">
     <title lang="en">Programming Unavailable</title>
   </programme>
@@ -38,6 +20,24 @@
     <title lang="en">Programming Unavailable</title>
   </programme>
   <programme start="20251122030000 +0000" stop="20251122070000 +0000" channel="15218">
+    <title lang="en">Programming Unavailable</title>
+  </programme>
+  <programme start="20251122070000 +0000" stop="20251122110000 +0000" channel="15218">
+    <title lang="en">Programming Unavailable</title>
+  </programme>
+  <programme start="20251122110000 +0000" stop="20251122150000 +0000" channel="15218">
+    <title lang="en">Programming Unavailable</title>
+  </programme>
+  <programme start="20251122150000 +0000" stop="20251122190000 +0000" channel="15218">
+    <title lang="en">Programming Unavailable</title>
+  </programme>
+  <programme start="20251122190000 +0000" stop="20251122230000 +0000" channel="15218">
+    <title lang="en">Programming Unavailable</title>
+  </programme>
+  <programme start="20251122230000 +0000" stop="20251123030000 +0000" channel="15218">
+    <title lang="en">Programming Unavailable</title>
+  </programme>
+  <programme start="20251123030000 +0000" stop="20251123080000 +0000" channel="15218">
     <title lang="en">Programming Unavailable</title>
   </programme>
 </tv>
