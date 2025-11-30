@@ -34,6 +34,7 @@ jobs:
       - name: execute py script
         run: |
           python ./gracenote/gracenote.py
+          python ./gracenote/gracenote.py ./gracenote/USA-GNSTR-DEFAULT.json ./guide/USA-GNSTR-DEFAULT.xml
           gzip -c ./guide/gracenote.xml > ./guide/gracenote.xml.gz
                 
       - name: Commit and Push Changes
