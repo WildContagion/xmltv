@@ -60,6 +60,16 @@
     "name": "Create"
   },
   {
+    "xmltv_id": "30174",
+    "device": "X",
+    "lineup_id": "USA-C-BAND-DEFAULT",
+    "headend_id": "C-BAND",
+    "country": "USA",
+    "postal": "12084",
+    "site_id": "30174",
+    "name": "Enlace"
+  },
+  {
     "xmltv_id": "82462",
     "device": "X",
     "lineup_id": "USA-C-BAND-DEFAULT",
