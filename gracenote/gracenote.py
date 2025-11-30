@@ -78,8 +78,8 @@ def main():
     display_name = ET.SubElement(channel, 'display-name')
     display_name.text = name
     
-    # Process programs for 2 days
-    for day_offset in range(2):
+    # Process programs for 3 days
+    for day_offset in range(3):
         current_date = (today + timedelta(days=day_offset)).strftime('%Y-%m-%d')
         
         if current_date in programs:
