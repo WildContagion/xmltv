@@ -70,6 +70,16 @@
     "name": "Enlace"
   },
   {
+    "xmltv_id": "10183",
+    "device": "X",
+    "lineup_id": "USA-C-BAND-DEFAULT",
+    "headend_id": "C-BAND",
+    "country": "USA",
+    "postal": "12084",
+    "site_id": "10183",
+    "name": "Eternal Word Television Network"
+  },
+  {
     "xmltv_id": "82462",
     "device": "X",
     "lineup_id": "USA-C-BAND-DEFAULT",
@@ -88,6 +98,16 @@
     "postal": "12084",
     "site_id": "16220",
     "name": "Free Speech TV"
+  },
+  {
+    "xmltv_id": "26643",
+    "device": "X",
+    "lineup_id": "USA-C-BAND-DEFAULT",
+    "headend_id": "C-BAND",
+    "country": "USA",
+    "postal": "12084",
+    "site_id": "26643",
+    "name": "GEMS"
   },
   {
     "xmltv_id": "89922",
@@ -288,6 +308,16 @@
     "postal": "12084",
     "site_id": "122276",
     "name": "TBN Inspire"
+  },
+  {
+    "xmltv_id": "93024",
+    "device": "X",
+    "lineup_id": "USA-C-BAND-DEFAULT",
+    "headend_id": "C-BAND",
+    "country": "USA",
+    "postal": "12084",
+    "site_id": "93024",
+    "name": "Victory Channel"
   },
   {
     "xmltv_id": "56725",
