@@ -7,7 +7,7 @@ from xml.dom import minidom
 
 def main():
     # Get input file from command line argument or use default
-    input_file = sys.argv[1] if len(sys.argv) > 1 else 'guide/channels.json'
+    input_file = sys.argv[1] if len(sys.argv) > 1 else 'gracenote/channels.json'
     
     # Get output file from command line argument or use default
     output_file = sys.argv[2] if len(sys.argv) > 2 else 'guide/channels.xml'
