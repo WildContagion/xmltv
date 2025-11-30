@@ -1,38 +1,88 @@
+#!/usr/bin/env python3
 import json
 import sys
-import requests
-from datetime import datetime, timedelta
 import xml.etree.ElementTree as ET
 from xml.dom import minidom
+from datetime import datetime, timedelta
+import requests
+import argparse
 
 def main():
-    # Get input file from command line argument or use default
-    input_file = sys.argv[1] if len(sys.argv) > 1 else 'gracenote/channels.json'
+    parser = argparse.ArgumentParser(description='Convert Gracenote TV listings to XMLTV format')
+    parser.add_argument('input_file', nargs='?', default='./gracenote/channels.json', help='Input JSON channels file (default: ./gracenote/channels.json)')
+    parser.add_argument('-o', '--output', default='./gracenote/channels.xml', help='Output XML file (default: ./gracenote/channels.xml)')
     
-    # Get output file from command line argument or use default
-    output_file = sys.argv[2] if len(sys.argv) > 2 else 'guide/channels.xml'
+    args = parser.parse_args()
     
-    # Read JSON data
-    with open(input_file, 'r') as f:
-        data = json.load(f)
+    # Read channels data
+    try:
+        with open(args.input_file, 'r') as f:
+            channels_data = json.load(f)
+    except FileNotFoundError:
+        print(f"Error: Input file '{args.input_file}' not found")
+        sys.exit(1)
+    except json.JSONDecodeError:
+        print(f"Error: Invalid JSON in '{args.input_file}'")
+        sys.exit(1)
     
-    # Extract data from JSON
-    xmltv_id = data.get('xmltv_id')
-    device = data.get('device')
-    lineup_id = data.get('lineup_id')
-    headend_id = data.get('headend_id')
-    country = data.get('country')
-    postal = data.get('postal')
-    site_id = data.get('site_id')
-    name = data.get('name')
+    # Create XML structure
+    tv = ET.Element('tv')
+    tv.set('source-info-name', 'Gracenote TV Listings')
+    tv.set('source-info-url', 'https://tvlistings.gracenote.com')
+    tv.set('generator-info-name', 'Gracenote TV Converter')
+    
+    # Process each channel
+    for channel_data in channels_data:
+        # Extract channel info
+        xmltv_id = channel_data.get('xmltv_id')
+        device = channel_data.get('device')
+        lineup_id = channel_data.get('lineup_id')
+        headend_id = channel_data.get('headend_id')
+        country = channel_data.get('country')
+        postal = channel_data.get('postal')
+        site_id = channel_data.get('site_id')
+        name = channel_data.get('name')
+        
+        # Add channel to XML
+        channel_elem = ET.SubElement(tv, 'channel')
+        channel_elem.set('id', xmltv_id)
+        
+        display_name = ET.SubElement(channel_elem, 'display-name')
+        display_name.text = name
+        
+        # Get program data from Gracenote API
+        programs = get_gracenote_programs(
+            lineup_id=lineup_id,
+            site_id=site_id,
+            headend_id=headend_id,
+            country=country,
+            postal=postal,
+            device=device,
+            timestamp=channel_data.get('timestamp')
+        )
+        
+        if programs:
+            # Process programs for 3 days
+            for date_key in list(programs.keys())[:3]:  # Only first 3 days
+                date_programs = programs.get(date_key, [])
+                for program in date_programs:
+                    add_program_to_xml(tv, xmltv_id, program)
+    
+    # Write XML to file
+    write_xml(tv, args.output)
+    print(f"XMLTV file saved to: {args.output}")
+
+def get_gracenote_programs(lineup_id, site_id, headend_id, country, postal, device, custom_timestamp=None):
+    """Fetch program data from Gracenote API"""
     
     # Calculate timestamp for today at 04:00:00
-    today = datetime.now().replace(hour=4, minute=0, second=0, microsecond=0)
-    timestamp = int(today.timestamp())
-    date = today.strftime('%Y-%m-%d')
+    if custom_timestamp:
+        timestamp = custom_timestamp
+    else:
+        today_4am = datetime.now().replace(hour=4, minute=0, second=0, microsecond=0)
+        timestamp = int(today_4am.timestamp())
     
-    # Prepare request data
-    request_data = {
+    payload = {
         "lineupId": lineup_id,
         "IsSSLinkNavigation": True,
         "timespan": 336,
@@ -51,103 +101,94 @@ def main():
         "languagecode": "en-us"
     }
     
-    # Make API request
     headers = {
         "Accept": "application/json",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
         "Content-Type": "application/json"
     }
     
-    response = requests.post(
-        "https://tvlistings.gracenote.com/api/sslgrid",
-        headers=headers,
-        json=request_data
-    )
+    try:
+        response = requests.post(
+            "https://tvlistings.gracenote.com/api/sslgrid",
+            json=payload,
+            headers=headers,
+            timeout=30
+        )
+        response.raise_for_status()
+        return response.json()
+    except requests.RequestException as e:
+        print(f"Error fetching data from Gracenote API: {e}")
+        return None
+
+def add_program_to_xml(tv_element, xmltv_id, program):
+    """Add a program to the XML structure"""
     
-    programs = response.json()
+    # Convert timestamps
+    start_time = datetime.fromtimestamp(program.get('startTime', 0))
+    end_time = datetime.fromtimestamp(program.get('endTime', 0))
     
-    # Create XML structure
-    tv = ET.Element('tv')
-    tv.set('source-info-name', 'Gracenote TV Listings')
-    tv.set('source-info-url', 'https://tvlistings.gracenote.com')
-    tv.set('generator-info-name', 'Gracenote TV Converter')
+    start_time_str = start_time.strftime("%Y%m%d%H%M%S")
+    end_time_str = end_time.strftime("%Y%m%d%H%M%S")
     
-    # Add channel
-    channel = ET.SubElement(tv, 'channel')
-    channel.set('id', xmltv_id)
-    display_name = ET.SubElement(channel, 'display-name')
-    display_name.text = name
+    # Get program details
+    program_data = program.get('program', {})
+    rating = program.get('rating')
+    title = program_data.get('title', 'Unknown Title')
+    short_desc = program_data.get('shortDesc')
+    season = program_data.get('season')
+    episode = program_data.get('episode')
+    episode_title = program_data.get('episodeTitle')
     
-    # Process programs for 3 days
-    for day_offset in range(3):
-        current_date = (today + timedelta(days=day_offset)).strftime('%Y-%m-%d')
+    # Create programme element
+    programme = ET.SubElement(tv_element, 'programme')
+    programme.set('start', f"{start_time_str} +0000")
+    programme.set('stop', f"{end_time_str} +0000")
+    programme.set('channel', xmltv_id)
+    
+    # Add title
+    title_elem = ET.SubElement(programme, 'title')
+    title_elem.set('lang', 'en')
+    title_elem.text = title
+    
+    # Add sub-title if available
+    if episode_title:
+        sub_title = ET.SubElement(programme, 'sub-title')
+        sub_title.set('lang', 'en')
+        sub_title.text = episode_title
+    
+    # Add description if available
+    if short_desc:
+        desc = ET.SubElement(programme, 'desc')
+        desc.set('lang', 'en')
+        desc.text = short_desc
+    
+    # Add episode numbers if available
+    if season is not None and episode is not None:
+        # XMLTV NS format (season.episode.part)
+        ep_num_ns = ET.SubElement(programme, 'episode-num')
+        ep_num_ns.set('system', 'xmltv_ns')
+        ep_num_ns.text = f"{season}.{episode}.0"
         
-        if current_date in programs:
-            day_programs = programs[current_date]
-            
-            for program in day_programs:
-                # Convert timestamps
-                start_time = datetime.fromtimestamp(program['startTime'])
-                end_time = datetime.fromtimestamp(program['endTime'])
-                
-                start_time_str = start_time.strftime('%Y%m%d%H%M%S +0000')
-                end_time_str = end_time.strftime('%Y%m%d%H%M%S +0000')
-                
-                # Extract program data
-                rating = program.get('rating')
-                program_data = program.get('program', {})
-                title = program_data.get('title', '')
-                short_desc = program_data.get('shortDesc')
-                season = program_data.get('season')
-                episode = program_data.get('episode')
-                episode_title = program_data.get('episodeTitle')
-                
-                # Create programme element
-                programme = ET.SubElement(tv, 'programme')
-                programme.set('start', start_time_str)
-                programme.set('stop', end_time_str)
-                programme.set('channel', xmltv_id)
-                
-                # Add title
-                title_elem = ET.SubElement(programme, 'title')
-                title_elem.set('lang', 'en')
-                title_elem.text = title
-                
-                # Add sub-title if available
-                if episode_title:
-                    sub_title = ET.SubElement(programme, 'sub-title')
-                    sub_title.set('lang', 'en')
-                    sub_title.text = episode_title
-                
-                # Add description if available
-                if short_desc:
-                    desc = ET.SubElement(programme, 'desc')
-                    desc.set('lang', 'en')
-                    desc.text = short_desc
-                
-                # Add episode numbers if available
-                if season is not None and episode is not None:
-                    episode_num_xmltv = ET.SubElement(programme, 'episode-num')
-                    episode_num_xmltv.set('system', 'xmltv_ns')
-                    episode_num_xmltv.text = f"{season}.{episode}.0"
-                    
-                    episode_num_onscreen = ET.SubElement(programme, 'episode-num')
-                    episode_num_onscreen.set('system', 'onscreen')
-                    episode_num_onscreen.text = f"S{season}E{episode}"
-                
-                # Add rating if available
-                if rating:
-                    rating_elem = ET.SubElement(programme, 'rating')
-                    value_elem = ET.SubElement(rating_elem, 'value')
-                    value_elem.text = str(rating)
+        # On-screen format
+        ep_num_onscreen = ET.SubElement(programme, 'episode-num')
+        ep_num_onscreen.set('system', 'onscreen')
+        ep_num_onscreen.text = f"S{season}E{episode}"
     
-    # Convert to pretty XML and save
-    xml_str = minidom.parseString(ET.tostring(tv)).toprettyxml(indent="  ")
+    # Add rating if available
+    if rating:
+        rating_elem = ET.SubElement(programme, 'rating')
+        value_elem = ET.SubElement(rating_elem, 'value')
+        value_elem.text = str(rating)
+
+def write_xml(element, output_file):
+    """Write XML element to file with proper formatting"""
+    rough_string = ET.tostring(element, 'utf-8')
+    parsed = minidom.parseString(rough_string)
     
     with open(output_file, 'w', encoding='utf-8') as f:
-        f.write(xml_str)
-    
-    print(f"XML TV guide saved to {output_file}")
+        f.write('<?xml version="1.0" encoding="UTF-8" ?>\n')
+        f.write('<!DOCTYPE tv SYSTEM "xmltv.dtd">\n')
+        f.write(parsed.toprettyxml(indent="  "))
 
 if __name__ == "__main__":
     main()
