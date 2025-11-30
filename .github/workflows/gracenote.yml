@@ -35,6 +35,7 @@ jobs:
         run: |
           python ./gracenote/gracenote.py
           python ./gracenote/gracenote.py ./gracenote/USA-GNSTR-DEFAULT.json ./guide/USA-GNSTR-DEFAULT.xml
+          python ./gracenote/gracenote.py ./gracenote/USA-C-BAND-DEFAULT.json ./guide/USA-C-BAND-DEFAULT.xml
           gzip -c ./guide/gracenote.xml > ./guide/gracenote.xml.gz
                 
       - name: Commit and Push Changes
