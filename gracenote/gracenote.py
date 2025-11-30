@@ -9,7 +9,7 @@ import argparse
 def main():
     parser = argparse.ArgumentParser(description='Convert Gracenote TV listings to XMLTV format')
     parser.add_argument('input_file', help='Input channels.json file')
-    parser.add_argument('-o', '--output', help='Output XML file (default: output.xml)', default='channels.xml')
+    parser.add_argument('-o', '--output', help='Output XML file (default: channels.xml)', default='./guide/channels.xml')
     args = parser.parse_args()
 
     # Read and parse JSON data
