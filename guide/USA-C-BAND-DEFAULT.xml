@@ -5325,739 +5325,57 @@
   <channel id="101364">
     <display-name>PBS KIDS HD</display-name>
   </channel>
-  <programme start="20251130053000 +0000" stop="20251130063000 +0000" channel="101364">
-    <title lang="en">Finding Your Roots With Henry Louis Gates, Jr.</title>
-    <sub-title lang="en">Things We Don't Discuss</sub-title>
-    <desc lang="en">Pamela Adlon and Kathryn Hahn explore their family histories.</desc>
-    <episode-num system="xmltv_ns">8.4.0</episode-num>
-    <episode-num system="onscreen">S8E4</episode-num>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20251130063000 +0000" stop="20251130070000 +0000" channel="101364">
-    <title lang="en">Firing Line With Margaret Hoover</title>
-    <desc lang="en">Dr. Robert George and Dr. Cornel West talk about the need for civil discourse in an era of division.</desc>
-    <episode-num system="xmltv_ns">9.22.0</episode-num>
-    <episode-num system="onscreen">S9E22</episode-num>
-  </programme>
-  <programme start="20251130070000 +0000" stop="20251130080000 +0000" channel="101364">
-    <title lang="en">ACL Presents: 24th Annual Americana Honors</title>
-    <desc lang="en">Highlights from the 24th Annual Americana Honors; performers include John Fogerty, Emmylou Harris and Daniel Lanois, Gillian Welch and David Rawlings and John C. Reilly.</desc>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20251130080000 +0000" stop="20251130090000 +0000" channel="101364">
-    <title lang="en">NOVA</title>
-    <sub-title lang="en">Revolutionary War Weapons</sub-title>
-    <desc lang="en">The military technologies that helped propel the colonies to victory, from the Brown Bess musket to the world's first military submarine.</desc>
-    <episode-num system="xmltv_ns">52.7.0</episode-num>
-    <episode-num system="onscreen">S52E7</episode-num>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20251130090000 +0000" stop="20251130100000 +0000" channel="101364">
-    <title lang="en">Nature</title>
-    <sub-title lang="en">My Life as a Turkey</sub-title>
-    <desc lang="en">Writer Joe Hutto raises wild turkeys from chicks in Florida.</desc>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20251130100000 +0000" stop="20251130110000 +0000" channel="101364">
-    <title lang="en">Secrets of the Dead</title>
-    <sub-title lang="en">Jamestown's Dark Winter</sub-title>
-    <desc lang="en">Forensic anthropologists excavate the early American colony of Jamestown, Va., and find bones of a 14-year-old English girl.</desc>
-    <episode-num system="xmltv_ns">15.2.0</episode-num>
-    <episode-num system="onscreen">S15E2</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20251130110000 +0000" stop="20251130123000 +0000" channel="101364">
-    <title lang="en">Velvet</title>
-    <sub-title lang="en">The Moment of Truth</sub-title>
-    <desc lang="en">The new uniforms receive their reveal; Cristina learns of Alberto's infidelity, and he learns shocking news of his own; Doña Blanca confronts ghosts from the past.</desc>
-    <episode-num system="xmltv_ns">2.10.0</episode-num>
-    <episode-num system="onscreen">S2E10</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20251130123000 +0000" stop="20251130130000 +0000" channel="101364">
-    <title lang="en">This Old House</title>
-    <sub-title lang="en">Asheville: Waterproof Work</sub-title>
-    <desc lang="en">In Swannanoa, Kevin helps Jim's brother Bill tile a bathroom; father and son roofers JD and Jayden; removing rot and replacing the damaged area of Paula's deck.</desc>
-    <episode-num system="xmltv_ns">47.4.0</episode-num>
-    <episode-num system="onscreen">S47E4</episode-num>
-    <rating>
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20251130130000 +0000" stop="20251130140000 +0000" channel="101364">
-    <title lang="en">Antiques Roadshow</title>
-    <sub-title lang="en">Women's Work</sub-title>
-    <desc lang="en">Contributions from women athletes, artists, activists and more.</desc>
-    <episode-num system="xmltv_ns">24.21.0</episode-num>
-    <episode-num system="onscreen">S24E21</episode-num>
-    <rating>
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20251130140000 +0000" stop="20251130143000 +0000" channel="101364">
-    <title lang="en">Mister Rogers' Neighborhood</title>
-    <sub-title lang="en">Folk Songs and Games With Friends and Mary Jo Barron</sub-title>
-    <desc lang="en">Mary Jo Barron teaches songs and games; a flying turkey delivers a message.</desc>
-    <episode-num system="xmltv_ns">13.2.0</episode-num>
-    <episode-num system="onscreen">S13E2</episode-num>
-    <rating>
-      <value>TV-Y</value>
-    </rating>
-  </programme>
-  <programme start="20251130143000 +0000" stop="20251130150000 +0000" channel="101364">
-    <title lang="en">Arthur</title>
-    <sub-title lang="en">Francine's Pilfered Paper; Buster Gets Real</sub-title>
-    <desc lang="en">Francine copies and pastes information from a Web site to use as her school report; everyone loves the new reality-TV series except Arthur.</desc>
-    <episode-num system="xmltv_ns">11.8.0</episode-num>
-    <episode-num system="onscreen">S11E8</episode-num>
-    <rating>
-      <value>TV-Y</value>
-    </rating>
-  </programme>
-  <programme start="20251130150000 +0000" stop="20251130153000 +0000" channel="101364">
-    <title lang="en">Wild Kratts</title>
-    <sub-title lang="en">Aardvark Town</sub-title>
-    <desc lang="en">An aardvark accidentally becomes a stowaway in Chris' backpack.</desc>
-    <episode-num system="xmltv_ns">1.3.0</episode-num>
-    <episode-num system="onscreen">S1E3</episode-num>
-    <rating>
-      <value>TV-Y</value>
-    </rating>
-  </programme>
-  <programme start="20251130153000 +0000" stop="20251130160000 +0000" channel="101364">
-    <title lang="en">Weather Hunters</title>
-    <sub-title lang="en">A Dark and Stormy Night</sub-title>
-    <desc lang="en">The Hunters search for a way to monitor the weather after they lose power during a thunderstorm.</desc>
-    <episode-num system="xmltv_ns">1.5.0</episode-num>
-    <episode-num system="onscreen">S1E5</episode-num>
-    <rating>
-      <value>TV-Y</value>
-    </rating>
-  </programme>
-  <programme start="20251130160000 +0000" stop="20251130163000 +0000" channel="101364">
+  <programme start="20251130050000 +0000" stop="20251130053000 +0000" channel="101364">
     <title lang="en">Lyla in the Loop</title>
-    <sub-title lang="en">Everett's Swim Lesson; Miss Emmaline's New Beginning</sub-title>
-    <desc lang="en">Everett faces his fear of water by taking a swimming lesson; Lyla doesn't want Miss Emmaline to move.</desc>
+    <sub-title lang="en">Sanitation Situation; Stu Rides the Bus</sub-title>
+    <desc lang="en">Lyla and Stu help out when the neighborhood garbage truck malfunctions; Lyla and Louisa take a ride on the city bus and accidentally lose Stu.</desc>
+    <episode-num system="xmltv_ns">1.13.0</episode-num>
+    <episode-num system="onscreen">S1E13</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20251130053000 +0000" stop="20251130060000 +0000" channel="101364">
+    <title lang="en">Arthur</title>
+    <sub-title lang="en">Buenas Noches, Vicita; Prunella Packs It In</sub-title>
+    <desc lang="en">Vicita asks D.W. and Arthur to re-create the story from her lost book; Prunella takes on more extracurricular activities.</desc>
+    <episode-num system="xmltv_ns">11.3.0</episode-num>
+    <episode-num system="onscreen">S11E3</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20251130060000 +0000" stop="20251130063000 +0000" channel="101364">
+    <title lang="en">Odd Squad</title>
+    <sub-title lang="en">Oscar of All Trades; Swamps 'N' Gators</sub-title>
+    <desc lang="en">Oscar recalls his early days at Odd Squad; Olive and Otto are trapped inside a board game.</desc>
     <episode-num system="xmltv_ns">1.34.0</episode-num>
     <episode-num system="onscreen">S1E34</episode-num>
     <rating>
       <value>TV-Y</value>
     </rating>
   </programme>
-  <programme start="20251130163000 +0000" stop="20251130170000 +0000" channel="101364">
-    <title lang="en">Carl the Collector</title>
-    <sub-title lang="en">The Gratitude Collection; The Pet Rock Collection</sub-title>
-    <desc lang="en">Carl and Sheldon are on a thank you mission; Carl shows his friends the right way to play with pet rocks.</desc>
-    <episode-num system="xmltv_ns">1.17.0</episode-num>
-    <episode-num system="onscreen">S1E17</episode-num>
+  <programme start="20251130063000 +0000" stop="20251130070000 +0000" channel="101364">
+    <title lang="en">Skillsville</title>
+    <sub-title lang="en">Race Car Driver; Crane Operator</sub-title>
+    <desc lang="en">Race car driver Rae needs the help of her pit crew -- Scout, Dev and Cora -- to win the race; crane operator Dev uses a strategy to feel calm so he can organize deliveries at the warehouse.</desc>
+    <episode-num system="xmltv_ns">1.8.0</episode-num>
+    <episode-num system="onscreen">S1E8</episode-num>
     <rating>
       <value>TV-Y</value>
     </rating>
   </programme>
-  <programme start="20251130170000 +0000" stop="20251130173000 +0000" channel="101364">
-    <title lang="en">Daniel Tiger's Neighborhood</title>
-    <sub-title lang="en">Thank You, Grandpere Tiger!; Neighborhood Thank You Day</sub-title>
-    <desc lang="en">Grandpere Tiger visits; Daniel can't decide what he wants to write on his thank you note.</desc>
-    <episode-num system="xmltv_ns">1.14.0</episode-num>
-    <episode-num system="onscreen">S1E14</episode-num>
-    <rating>
-      <value>TV-Y</value>
-    </rating>
-  </programme>
-  <programme start="20251130173000 +0000" stop="20251130180000 +0000" channel="101364">
-    <title lang="en">Rosie's Rules</title>
-    <sub-title lang="en">The Mysterious Book; Rosie's New Club</sub-title>
-    <desc lang="en">Iggy wants to see the garbage truck, but Rosie doesn't know how to get it to come to their house; Rosie attempts to bring nature inside.</desc>
-    <episode-num system="xmltv_ns">2.2.0</episode-num>
-    <episode-num system="onscreen">S2E2</episode-num>
-    <rating>
-      <value>TV-Y</value>
-    </rating>
-  </programme>
-  <programme start="20251130180000 +0000" stop="20251130183000 +0000" channel="101364">
-    <title lang="en">Sesame Street</title>
-    <sub-title lang="en">Cookie Monster's Big Puzzle</sub-title>
-    <desc lang="en">Cookie Monster tries to bake a new cookie for Elmo; Abby and Grover solve a puzzle of their own.</desc>
-    <episode-num system="xmltv_ns">56.2.0</episode-num>
-    <episode-num system="onscreen">S56E2</episode-num>
-    <rating>
-      <value>TV-Y</value>
-    </rating>
-  </programme>
-  <programme start="20251130183000 +0000" stop="20251130190000 +0000" channel="101364">
-    <title lang="en">Work It Out Wombats!</title>
-    <sub-title lang="en">Survey Says; Lost and Found Patrol</sub-title>
-    <desc lang="en">Mr. E has a lot of ping-pong balls and the survey says that he should sell the purple ones; Super's lost her glasses and the Lost and Found Patrol try to find them.</desc>
-    <episode-num system="xmltv_ns">1.38.0</episode-num>
-    <episode-num system="onscreen">S1E38</episode-num>
-    <rating>
-      <value>TV-Y</value>
-    </rating>
-  </programme>
-  <programme start="20251130190000 +0000" stop="20251130193000 +0000" channel="101364">
-    <title lang="en">Donkey Hodie</title>
-    <sub-title lang="en">Donkey's Bad Day; Yodel Bird Egg</sub-title>
-    <desc lang="en">Donkey and Panda's Awesome, Extra Fun, Very Good Day does not go well; Donkey and Panda find a yodel bird egg and vow to protect it.</desc>
-    <episode-num system="xmltv_ns">1.18.0</episode-num>
-    <episode-num system="onscreen">S1E18</episode-num>
-    <rating>
-      <value>TV-Y</value>
-    </rating>
-  </programme>
-  <programme start="20251130193000 +0000" stop="20251130200000 +0000" channel="101364">
-    <title lang="en">Pinkalicious &amp; Peterrific</title>
-    <sub-title lang="en">Snow Fairy; To Catch a Leaf</sub-title>
-    <desc lang="en">Pinkalicious tries to figure out a way to keep her snow fairy all year long; Pinkalicious hopes a leaf will land on her shoulder so she can make a wish.</desc>
-    <episode-num system="xmltv_ns">1.9.0</episode-num>
-    <episode-num system="onscreen">S1E9</episode-num>
-    <rating>
-      <value>TV-Y</value>
-    </rating>
-  </programme>
-  <programme start="20251130200000 +0000" stop="20251130203000 +0000" channel="101364">
-    <title lang="en">Alma's Way</title>
-    <sub-title lang="en">Howard Brings the Beat; Alma's Payday</sub-title>
-    <desc lang="en">Alma helps Howard find a drum when he joins the neighborhood drum circle; Alma and Junior try to earn toy tickets.</desc>
-    <episode-num system="xmltv_ns">2.7.0</episode-num>
-    <episode-num system="onscreen">S2E7</episode-num>
-    <rating>
-      <value>TV-Y</value>
-    </rating>
-  </programme>
-  <programme start="20251130203000 +0000" stop="20251130210000 +0000" channel="101364">
-    <title lang="en">Cyberchase</title>
-    <sub-title lang="en">Hacker Hugs a Tree</sub-title>
-    <desc lang="en">In an unlikely pairing, the CyberSquad helps Hacker stop a villain who is zapping trees.</desc>
-    <episode-num system="xmltv_ns">12.6.0</episode-num>
-    <episode-num system="onscreen">S12E6</episode-num>
-    <rating>
-      <value>TV-Y</value>
-    </rating>
-  </programme>
-  <programme start="20251130210000 +0000" stop="20251130220000 +0000" channel="101364">
-    <title lang="en">History Detectives</title>
-    <sub-title lang="en">Sideshow Babies; Lubin Photos; Navajo Rug</sub-title>
-    <desc lang="en">Baby may have been exhibited in an incubator at the 1933 Chicago World's Fair; early movie mogul Siegmund Lubin; Navajo rug.</desc>
-    <episode-num system="xmltv_ns">7.4.0</episode-num>
-    <episode-num system="onscreen">S7E4</episode-num>
-    <rating>
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20251130220000 +0000" stop="20251130230000 +0000" channel="101364">
-    <title lang="en">Celebrity Antiques Road Trip</title>
-    <sub-title lang="en">Ainsley Harriott and Anne Diamond</sub-title>
-    <desc lang="en">Celebrity chef Ainsley Harriott is pitted against presenter and journalist Anne Diamond; Anne finds out how England became a nation of tea lovers and Ainsley learns about the world's first celebrity chef.</desc>
-    <episode-num system="xmltv_ns">4.5.0</episode-num>
-    <episode-num system="onscreen">S4E5</episode-num>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20251130230000 +0000" stop="20251201000000 +0000" channel="101364">
-    <title lang="en">Miss Scarlet and the Duke on Masterpiece</title>
-    <sub-title lang="en">Memento Mori</sub-title>
-    <desc lang="en">A photographer who takes post-mortem portraits receives bizarre and threatening messages from beyond the grave; Eliza's investigation takes her into the spirit world.</desc>
-    <episode-num system="xmltv_ns">1.4.0</episode-num>
-    <episode-num system="onscreen">S1E4</episode-num>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20251201000000 +0000" stop="20251201010000 +0000" channel="101364">
-    <title lang="en">Miss Scarlet and the Duke on Masterpiece</title>
-    <sub-title lang="en">Cell 99</sub-title>
-    <desc lang="en">While searching for the details about her father's fate, Eliza and the Duke stumble upon a criminal enterprise in an abandoned prison.</desc>
-    <episode-num system="xmltv_ns">1.5.0</episode-num>
-    <episode-num system="onscreen">S1E5</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20251201010000 +0000" stop="20251201020000 +0000" channel="101364">
-    <title lang="en">Miss Scarlet and the Duke on Masterpiece</title>
-    <sub-title lang="en">The Case of Henry Scarlet</sub-title>
-    <desc lang="en">Eliza pieces the puzzle together to find out what really happened to her father, with the help of the Duke and Moses.</desc>
-    <episode-num system="xmltv_ns">1.6.0</episode-num>
-    <episode-num system="onscreen">S1E6</episode-num>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20251201020000 +0000" stop="20251201023000 +0000" channel="101364">
-    <title lang="en">PBS News Weekend</title>
-    <desc lang="en">Analysis of national and international news, as well as in-depth reporting on topics ranging from education and politics to technology and finance.</desc>
-    <episode-num system="xmltv_ns">13.44.0</episode-num>
-    <episode-num system="onscreen">S13E44</episode-num>
-  </programme>
-  <programme start="20251201023000 +0000" stop="20251201030000 +0000" channel="101364">
-    <title lang="en">Washington Week With The Atlantic</title>
-    <desc lang="en">A panel of journalists provides reporting and analysis of the major stories emanating from the United States capital.</desc>
-    <episode-num system="xmltv_ns">60.22.0</episode-num>
-    <episode-num system="onscreen">S60E22</episode-num>
-  </programme>
-  <programme start="20251201030000 +0000" stop="20251201040000 +0000" channel="101364">
-    <title lang="en">Antiques Roadshow</title>
-    <sub-title lang="en">Women's Work</sub-title>
-    <desc lang="en">Contributions from women athletes, artists, activists and more.</desc>
-    <episode-num system="xmltv_ns">24.21.0</episode-num>
-    <episode-num system="onscreen">S24E21</episode-num>
-    <rating>
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20251201040000 +0000" stop="20251201050000 +0000" channel="101364">
-    <title lang="en">Vienna Blood</title>
-    <sub-title lang="en">Deadly Communion: Part 1</sub-title>
-    <desc lang="en">Max and Oskar investigate murder in the glamorous world of high fashion when a young seamstress is found dead in a fashion house.</desc>
-    <episode-num system="xmltv_ns">3.1.0</episode-num>
-    <episode-num system="onscreen">S3E1</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20251201050000 +0000" stop="20251201060000 +0000" channel="101364">
-    <title lang="en">Vienna Blood</title>
-    <sub-title lang="en">Deadly Communion: Part 2</sub-title>
-    <desc lang="en">Max and Oskar pursue the killer of three victims, which leads them to the sinister world of exploitation and blackmail.</desc>
-    <episode-num system="xmltv_ns">3.1.0</episode-num>
-    <episode-num system="onscreen">S3E1</episode-num>
-    <rating>
-      <value>TV-MA</value>
-    </rating>
-  </programme>
-  <programme start="20251201060000 +0000" stop="20251201070000 +0000" channel="101364">
-    <title lang="en">Vienna Blood</title>
-    <sub-title lang="en">The God of Shadows: Part 1</sub-title>
-    <desc lang="en">Max applies his expertise to the case of retired Captain Steiner, who is convinced that he is cursed and tortured by vengeful spirits; it looks like a tragic case of trauma-induced paranoia when the captain is found to have committed suicide.</desc>
-    <episode-num system="xmltv_ns">3.2.0</episode-num>
-    <episode-num system="onscreen">S3E2</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20251201070000 +0000" stop="20251201080000 +0000" channel="101364">
-    <title lang="en">ACL Presents: 24th Annual Americana Honors</title>
-    <desc lang="en">Highlights from the 24th Annual Americana Honors; performers include John Fogerty, Emmylou Harris and Daniel Lanois, Gillian Welch and David Rawlings and John C. Reilly.</desc>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20251201080000 +0000" stop="20251201090000 +0000" channel="101364">
-    <title lang="en">Vienna Blood</title>
-    <sub-title lang="en">Deadly Communion: Part 1</sub-title>
-    <desc lang="en">Max and Oskar investigate murder in the glamorous world of high fashion when a young seamstress is found dead in a fashion house.</desc>
-    <episode-num system="xmltv_ns">3.1.0</episode-num>
-    <episode-num system="onscreen">S3E1</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20251201090000 +0000" stop="20251201100000 +0000" channel="101364">
-    <title lang="en">Vienna Blood</title>
-    <sub-title lang="en">Deadly Communion: Part 2</sub-title>
-    <desc lang="en">Max and Oskar pursue the killer of three victims, which leads them to the sinister world of exploitation and blackmail.</desc>
-    <episode-num system="xmltv_ns">3.1.0</episode-num>
-    <episode-num system="onscreen">S3E1</episode-num>
-    <rating>
-      <value>TV-MA</value>
-    </rating>
-  </programme>
-  <programme start="20251201100000 +0000" stop="20251201110000 +0000" channel="101364">
-    <title lang="en">Vienna Blood</title>
-    <sub-title lang="en">The God of Shadows: Part 1</sub-title>
-    <desc lang="en">Max applies his expertise to the case of retired Captain Steiner, who is convinced that he is cursed and tortured by vengeful spirits; it looks like a tragic case of trauma-induced paranoia when the captain is found to have committed suicide.</desc>
-    <episode-num system="xmltv_ns">3.2.0</episode-num>
-    <episode-num system="onscreen">S3E2</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20251201110000 +0000" stop="20251201120000 +0000" channel="101364">
-    <title lang="en">Craft in America</title>
-    <sub-title lang="en">Nature</sub-title>
-    <desc lang="en">Artists celebrate the beauty and future of the American landscape; featured artists include Patrick Dougherty, Mary Merkel-Hess, Michelle Holzapfel, Catherine Alice Michaelis and Preston Singletary.</desc>
-    <episode-num system="xmltv_ns">8.2.0</episode-num>
-    <episode-num system="onscreen">S8E2</episode-num>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20251201120000 +0000" stop="20251201130000 +0000" channel="101364">
-    <title lang="en">Craft in America</title>
-    <sub-title lang="en">Borders</sub-title>
-    <desc lang="en">The relationships and influences of Mexican and American craft artists; traditional weaving; the creation of paper jewelry.</desc>
-    <episode-num system="xmltv_ns">9.1.0</episode-num>
-    <episode-num system="onscreen">S9E1</episode-num>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20251201130000 +0000" stop="20251201140000 +0000" channel="101364">
-    <title lang="en">Finding Your Roots With Henry Louis Gates, Jr.</title>
-    <sub-title lang="en">Things We Don't Discuss</sub-title>
-    <desc lang="en">Pamela Adlon and Kathryn Hahn explore their family histories.</desc>
-    <episode-num system="xmltv_ns">8.4.0</episode-num>
-    <episode-num system="onscreen">S8E4</episode-num>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20251201140000 +0000" stop="20251201143000 +0000" channel="101364">
-    <title lang="en">Arthur</title>
-    <sub-title lang="en">Arthur's Numbers Nightmare; Brain Gets Hooked</sub-title>
-    <desc lang="en">Arthur and his friends are surprised by their class rankings; Brain ignores his friends once he becomes hooked on a new television show.</desc>
-    <episode-num system="xmltv_ns">13.3.0</episode-num>
-    <episode-num system="onscreen">S13E3</episode-num>
-    <rating>
-      <value>TV-Y</value>
-    </rating>
-  </programme>
-  <programme start="20251201143000 +0000" stop="20251201150000 +0000" channel="101364">
-    <title lang="en">Odd Squad</title>
-    <sub-title lang="en">Night Shift; Put Me in Coach</sub-title>
-    <desc lang="en">The agents find out that things are different at night at Odd Squad; agents visit unicorns in Cloud Town.</desc>
-    <episode-num system="xmltv_ns">2.10.0</episode-num>
-    <episode-num system="onscreen">S2E10</episode-num>
-    <rating>
-      <value>TV-Y</value>
-    </rating>
-  </programme>
-  <programme start="20251201150000 +0000" stop="20251201153000 +0000" channel="101364">
+  <programme start="20251130070000 +0000" stop="20251130073000 +0000" channel="101364">
     <title lang="en">Wild Kratts</title>
-    <sub-title lang="en">Honey Seekers</sub-title>
-    <desc lang="en">The relationship between the honey guide bird and honey badger.</desc>
-    <episode-num system="xmltv_ns">1.10.0</episode-num>
-    <episode-num system="onscreen">S1E10</episode-num>
+    <sub-title lang="en">Happy Turkey Day</sub-title>
+    <desc lang="en">The Wild Kratts defend the wild turkey and try to stop Gourmand's search for the largest turkey in the forest.</desc>
+    <episode-num system="xmltv_ns">2.8.0</episode-num>
+    <episode-num system="onscreen">S2E8</episode-num>
     <rating>
       <value>TV-Y</value>
     </rating>
   </programme>
-  <programme start="20251201153000 +0000" stop="20251201160000 +0000" channel="101364">
-    <title lang="en">Weather Hunters</title>
-    <sub-title lang="en">Foggy Trick or Treat</sub-title>
-    <desc lang="en">A foggy Halloween almost derails Corky and Lily's trick-or-treating.</desc>
-    <episode-num system="xmltv_ns">1.7.0</episode-num>
-    <episode-num system="onscreen">S1E7</episode-num>
-    <rating>
-      <value>TV-Y</value>
-    </rating>
-  </programme>
-  <programme start="20251201160000 +0000" stop="20251201163000 +0000" channel="101364">
-    <title lang="en">Lyla in the Loop</title>
-    <sub-title lang="en">When We Met Stu</sub-title>
-    <desc lang="en">Lyla and her family must figure out a way to get Stu back home when he gets lost delivering cookies.</desc>
-    <episode-num system="xmltv_ns">1.35.0</episode-num>
-    <episode-num system="onscreen">S1E35</episode-num>
-    <rating>
-      <value>TV-Y</value>
-    </rating>
-  </programme>
-  <programme start="20251201163000 +0000" stop="20251201170000 +0000" channel="101364">
-    <title lang="en">Carl the Collector</title>
-    <sub-title lang="en">The Plushie Collection; The Bouncy Ball Collection</sub-title>
-    <desc lang="en">Carl turns to his friends to help him organize his plushie collection; Carl loses his bouncy ball collection.</desc>
-    <episode-num system="xmltv_ns">1.1.0</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
-    <rating>
-      <value>TV-Y</value>
-    </rating>
-  </programme>
-  <programme start="20251201170000 +0000" stop="20251201173000 +0000" channel="101364">
-    <title lang="en">Daniel Tiger's Neighborhood</title>
-    <sub-title lang="en">Daniel Loves Tigey; Daniel Needs Tigey at School</sub-title>
-    <desc lang="en">Daniel gets upset when Margaret spills juice on his stuffed animal Tigey; Daniel has a hard day at school.</desc>
-    <episode-num system="xmltv_ns">3.19.0</episode-num>
-    <episode-num system="onscreen">S3E19</episode-num>
-    <rating>
-      <value>TV-Y</value>
-    </rating>
-  </programme>
-  <programme start="20251201173000 +0000" stop="20251201180000 +0000" channel="101364">
-    <title lang="en">Rosie's Rules</title>
-    <sub-title lang="en">Rosie's Christmas in Mexico</sub-title>
-    <desc lang="en">Rosie is so excited to celebrate Christmas with abuela in Mexico City that she forgets to bring her present.</desc>
-    <episode-num system="xmltv_ns">1.36.0</episode-num>
-    <episode-num system="onscreen">S1E36</episode-num>
-    <rating>
-      <value>TV-Y</value>
-    </rating>
-  </programme>
-  <programme start="20251201180000 +0000" stop="20251201183000 +0000" channel="101364">
-    <title lang="en">Sesame Street</title>
-    <sub-title lang="en">Jam Session Jam-Up</sub-title>
-    <desc lang="en">At the Sesame Street Jazz Festival, Elmo and Zoe learn to improvise, listen to each other play and take turns.</desc>
-    <episode-num system="xmltv_ns">55.4.0</episode-num>
-    <episode-num system="onscreen">S55E4</episode-num>
-    <rating>
-      <value>TV-Y</value>
-    </rating>
-  </programme>
-  <programme start="20251201183000 +0000" stop="20251201190000 +0000" channel="101364">
-    <title lang="en">Work It Out Wombats!</title>
-    <sub-title lang="en">Crab Quakes; Hopping Helpers</sub-title>
-    <desc lang="en">The Wombats track down a scary-weird sound that has frightened Carly, CeCe and Clyde; the Wombats become Hopping Helpers for a day.</desc>
-    <episode-num system="xmltv_ns">1.6.0</episode-num>
-    <episode-num system="onscreen">S1E6</episode-num>
-    <rating>
-      <value>TV-Y</value>
-    </rating>
-  </programme>
-  <programme start="20251201190000 +0000" stop="20251201193000 +0000" channel="101364">
-    <title lang="en">Donkey Hodie</title>
-    <sub-title lang="en">The Breakfast Bowl; Dancing Dandelions</sub-title>
-    <desc lang="en">Donkey and Panda compete in the Breakfast Bowl; Donkey, Panda and Bob Dog plant dancing dandelion seeds and look for the right music to help the flowers grow.</desc>
-    <episode-num system="xmltv_ns">2.2.0</episode-num>
-    <episode-num system="onscreen">S2E2</episode-num>
-    <rating>
-      <value>TV-Y</value>
-    </rating>
-  </programme>
-  <programme start="20251201193000 +0000" stop="20251201200000 +0000" channel="101364">
-    <title lang="en">Pinkalicious &amp; Peterrific</title>
-    <sub-title lang="en">Peter the Picky Eater; Miniature Mayhem</sub-title>
-    <desc lang="en">Pinkalicious shows Peter a fun way to eat his vegetables; the gang plays miniature golf.</desc>
-    <episode-num system="xmltv_ns">7.4.0</episode-num>
-    <episode-num system="onscreen">S7E4</episode-num>
-    <rating>
-      <value>TV-Y</value>
-    </rating>
-  </programme>
-  <programme start="20251201200000 +0000" stop="20251201203000 +0000" channel="101364">
-    <title lang="en">Elinor Wonders Why</title>
-    <sub-title lang="en">Frozen Fish; Pirate Treasure</sub-title>
-    <desc lang="en">Elinor and friends wonder about what happens to fish when the lake freezes in the winter; while the kids are playing pirates, Ari realizes he forgot where he hid the treasure.</desc>
-    <episode-num system="xmltv_ns">1.21.0</episode-num>
-    <episode-num system="onscreen">S1E21</episode-num>
-    <rating>
-      <value>TV-Y</value>
-    </rating>
-  </programme>
-  <programme start="20251201203000 +0000" stop="20251201210000 +0000" channel="101364">
-    <title lang="en">Alma's Way</title>
-    <sub-title lang="en">Justice Sonia and Judge Alma; Justice Sonia and Umpire Alma</sub-title>
-    <desc lang="en">Inspired by Supreme Court Justice Sonia Sotomayor, Alma tries to help her friends determine what's fair; Justice Sotomayor encourages Alma to be an umpire at a kickball game.</desc>
-    <episode-num system="xmltv_ns">2.1.0</episode-num>
-    <episode-num system="onscreen">S2E1</episode-num>
-    <rating>
-      <value>TV-Y</value>
-    </rating>
-  </programme>
-  <programme start="20251201210000 +0000" stop="20251201213000 +0000" channel="101364">
-    <title lang="en">Molly of Denali</title>
-    <sub-title lang="en">First Fish; A-maze-ing Snow</sub-title>
-    <desc lang="en">Molly can't wait to catch her first fish, but the only thing she catches is Tooey's missing boot; Trini gets lost in a maze at the community fun-raiser.</desc>
-    <episode-num system="xmltv_ns">1.2.0</episode-num>
-    <episode-num system="onscreen">S1E2</episode-num>
-    <rating>
-      <value>TV-Y</value>
-    </rating>
-  </programme>
-  <programme start="20251201213000 +0000" stop="20251201220000 +0000" channel="101364">
-    <title lang="en">Xavier Riddle and the Secret Museum</title>
-    <sub-title lang="en">I Am Harriet Tubman</sub-title>
-    <desc lang="en">Xavier, Yadina and Brad learn about courage and bravery when they meet Harriet Tubman, a woman who escapes slavery and risks her life to help others do the same.</desc>
-    <episode-num system="xmltv_ns">1.27.0</episode-num>
-    <episode-num system="onscreen">S1E27</episode-num>
-    <rating>
-      <value>TV-Y</value>
-    </rating>
-  </programme>
-  <programme start="20251201220000 +0000" stop="20251201223000 +0000" channel="101364">
-    <title lang="en">Baking With Julia</title>
-    <sub-title lang="en">A Three-Tiered Wedding Cake With Martha Stewart, Part 1</sub-title>
-    <desc lang="en">Martha Stewart whips up a three-tiered wedding cake with rum buttercream icing.</desc>
-    <episode-num system="xmltv_ns">3.1.0</episode-num>
-    <episode-num system="onscreen">S3E1</episode-num>
-    <rating>
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20251201223000 +0000" stop="20251201230000 +0000" channel="101364">
-    <title lang="en">Ask This Old House</title>
-    <sub-title lang="en">Wallpaper Restoration; Gutter Repairs</sub-title>
-    <desc lang="en">Restoring wallpaper; the basics of GFCI outlets; repairing gutters over a back patio.</desc>
-    <episode-num system="xmltv_ns">21.5.0</episode-num>
-    <episode-num system="onscreen">S21E5</episode-num>
-    <rating>
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20251201230000 +0000" stop="20251202000000 +0000" channel="101364">
-    <title lang="en">The Great American Recipe</title>
-    <desc lang="en">A new group of home cooks compete to win &quot;The Great American Recipe&quot;; the cooks prepare dishes that define them as well as a recipe that showcases their geographical region.</desc>
-    <episode-num system="xmltv_ns">2.1.0</episode-num>
-    <episode-num system="onscreen">S2E1</episode-num>
-    <rating>
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20251202000000 +0000" stop="20251202010000 +0000" channel="101364">
-    <title lang="en">Antiques Roadshow</title>
-    <sub-title lang="en">Women's Work</sub-title>
-    <desc lang="en">Contributions from women athletes, artists, activists and more.</desc>
-    <episode-num system="xmltv_ns">24.21.0</episode-num>
-    <episode-num system="onscreen">S24E21</episode-num>
-    <rating>
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20251202010000 +0000" stop="20251202020000 +0000" channel="101364">
-    <title lang="en">A More Perfect Union: Inspiring Civic &amp; Civil Conversations Across America</title>
-    <desc lang="en">A look at America's founding and how the ideas and values articulated 250 years ago remain relevant to conversations about governance today.</desc>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20251202020000 +0000" stop="20251202030000 +0000" channel="101364">
-    <title lang="en">Antiques Roadshow</title>
-    <sub-title lang="en">Somethings Wild</sub-title>
-    <desc lang="en">A collection of critters and creatures including a Colima pottery dog circa 200 BC to 200 AD; a bat-decorated Qing-period jade basin; and an Edgar Brandt &quot;La Tentation&quot; snake lamp.</desc>
-    <episode-num system="xmltv_ns">22.28.0</episode-num>
-    <episode-num system="onscreen">S22E28</episode-num>
-    <rating>
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20251202030000 +0000" stop="20251202040000 +0000" channel="101364">
-    <title lang="en">PBS News Hour</title>
-    <desc lang="en">Co-anchors Amna Nawaz and Geoff Bennett and correspondents offer in-depth analysis of current events.</desc>
-    <episode-num system="xmltv_ns">52.110.0</episode-num>
-    <episode-num system="onscreen">S52E110</episode-num>
-  </programme>
-  <programme start="20251202040000 +0000" stop="20251202050000 +0000" channel="101364">
-    <title lang="en">Antiques Roadshow</title>
-    <sub-title lang="en">Out of This World</sub-title>
-    <desc lang="en">Space-themed items include autographed photos from the NASA space program, a 1737 Celestial and terrestrial atlas and a &quot;Star Trek&quot; treatment, script and letters.</desc>
-    <episode-num system="xmltv_ns">23.19.0</episode-num>
-    <episode-num system="onscreen">S23E19</episode-num>
-    <rating>
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20251202050000 +0000" stop="20251202060000 +0000" channel="101364">
-    <title lang="en">Antiques Roadshow</title>
-    <sub-title lang="en">Junk in the Trunk 12</sub-title>
-    <desc lang="en">A 1791 Jane Young world map needlework; an Albert Einstein collection; Carlo Giuliano earrings and necklace circa 1890.</desc>
-    <episode-num system="xmltv_ns">27.18.0</episode-num>
-    <episode-num system="onscreen">S27E18</episode-num>
-    <rating>
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20251202060000 +0000" stop="20251202070000 +0000" channel="101364">
-    <title lang="en">10 Homes That Changed America</title>
-    <desc lang="en">Geoffrey Baer tours places that changed the way Americans live, work and play, including grand estates, pueblos of Taos, N.M., and tenements of 19th-century New York.</desc>
-    <rating>
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20251202070000 +0000" stop="20251202080000 +0000" channel="101364">
-    <title lang="en">Amanpour and Company</title>
-    <desc lang="en">Christiane Amanpour leads discussions about world issues and interviews with global leaders.</desc>
-    <episode-num system="xmltv_ns">8.44.0</episode-num>
-    <episode-num system="onscreen">S8E44</episode-num>
-  </programme>
-  <programme start="20251202080000 +0000" stop="20251202090000 +0000" channel="101364">
-    <title lang="en">Antiques Roadshow</title>
-    <sub-title lang="en">Out of This World</sub-title>
-    <desc lang="en">Space-themed items include autographed photos from the NASA space program, a 1737 Celestial and terrestrial atlas and a &quot;Star Trek&quot; treatment, script and letters.</desc>
-    <episode-num system="xmltv_ns">23.19.0</episode-num>
-    <episode-num system="onscreen">S23E19</episode-num>
-    <rating>
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20251202090000 +0000" stop="20251202100000 +0000" channel="101364">
-    <title lang="en">Antiques Roadshow</title>
-    <sub-title lang="en">Junk in the Trunk 12</sub-title>
-    <desc lang="en">A 1791 Jane Young world map needlework; an Albert Einstein collection; Carlo Giuliano earrings and necklace circa 1890.</desc>
-    <episode-num system="xmltv_ns">27.18.0</episode-num>
-    <episode-num system="onscreen">S27E18</episode-num>
-    <rating>
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20251202100000 +0000" stop="20251202110000 +0000" channel="101364">
-    <title lang="en">10 Homes That Changed America</title>
-    <desc lang="en">Geoffrey Baer tours places that changed the way Americans live, work and play, including grand estates, pueblos of Taos, N.M., and tenements of 19th-century New York.</desc>
-    <rating>
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20251202110000 +0000" stop="20251202120000 +0000" channel="101364">
-    <title lang="en">Vienna Blood</title>
-    <sub-title lang="en">Deadly Communion: Part 1</sub-title>
-    <desc lang="en">Max and Oskar investigate murder in the glamorous world of high fashion when a young seamstress is found dead in a fashion house.</desc>
-    <episode-num system="xmltv_ns">3.1.0</episode-num>
-    <episode-num system="onscreen">S3E1</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20251202120000 +0000" stop="20251202130000 +0000" channel="101364">
-    <title lang="en">Vienna Blood</title>
-    <sub-title lang="en">Deadly Communion: Part 2</sub-title>
-    <desc lang="en">Max and Oskar pursue the killer of three victims, which leads them to the sinister world of exploitation and blackmail.</desc>
-    <episode-num system="xmltv_ns">3.1.0</episode-num>
-    <episode-num system="onscreen">S3E1</episode-num>
-    <rating>
-      <value>TV-MA</value>
-    </rating>
-  </programme>
-  <programme start="20251202130000 +0000" stop="20251202140000 +0000" channel="101364">
-    <title lang="en">Vienna Blood</title>
-    <sub-title lang="en">The God of Shadows: Part 1</sub-title>
-    <desc lang="en">Max applies his expertise to the case of retired Captain Steiner, who is convinced that he is cursed and tortured by vengeful spirits; it looks like a tragic case of trauma-induced paranoia when the captain is found to have committed suicide.</desc>
-    <episode-num system="xmltv_ns">3.2.0</episode-num>
-    <episode-num system="onscreen">S3E2</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20251202140000 +0000" stop="20251202143000 +0000" channel="101364">
-    <title lang="en">Arthur</title>
-    <sub-title lang="en">The Hallway Minotaur; Ladonna's Like List</sub-title>
-    <desc lang="en">There's a new hallway monitor at Lakewood Elementary; Ladonna Compson thinks everyone likes her.</desc>
-    <episode-num system="xmltv_ns">20.7.0</episode-num>
-    <episode-num system="onscreen">S20E7</episode-num>
-    <rating>
-      <value>TV-Y</value>
-    </rating>
-  </programme>
-  <programme start="20251202143000 +0000" stop="20251202150000 +0000" channel="101364">
-    <title lang="en">Odd Squad</title>
-    <sub-title lang="en">Extreme Cakeover; A Job Well Undone</sub-title>
-    <desc lang="en">A virus turns people into cakes; the agents compete for Agents of the Month.</desc>
-    <episode-num system="xmltv_ns">2.11.0</episode-num>
-    <episode-num system="onscreen">S2E11</episode-num>
-    <rating>
-      <value>TV-Y</value>
-    </rating>
-  </programme>
-  <programme start="20251202150000 +0000" stop="20251202153000 +0000" channel="101364">
-    <title lang="en">Wild Kratts</title>
-    <sub-title lang="en">Mystery of the North Pole Penguins?</sub-title>
-    <desc lang="en">The Wild Kratts help stranded penguins in the Arctic.</desc>
-    <episode-num system="xmltv_ns">5.1.0</episode-num>
-    <episode-num system="onscreen">S5E1</episode-num>
-    <rating>
-      <value>TV-Y</value>
-    </rating>
-  </programme>
-  <programme start="20251202153000 +0000" stop="20251202160000 +0000" channel="101364">
+  <programme start="20251130073000 +0000" stop="20251130080000 +0000" channel="101364">
     <title lang="en">Weather Hunters</title>
     <sub-title lang="en">No Snow Snow Day</sub-title>
     <desc lang="en">The Hunters head to a nearby mountain to learn about snow.</desc>
@@ -6067,37 +5385,705 @@
       <value>TV-Y</value>
     </rating>
   </programme>
-  <programme start="20251202160000 +0000" stop="20251202163000 +0000" channel="101364">
-    <title lang="en">Lyla in the Loop</title>
-    <sub-title lang="en">Piece of Cake; Kibbles and Coins</sub-title>
-    <desc lang="en">Lyla and Stu make a mess decorating cupcakes; Lyla tries to retrieve Everett's lost coin.</desc>
+  <programme start="20251130080000 +0000" stop="20251130083000 +0000" channel="101364">
+    <title lang="en">Daniel Tiger's Neighborhood</title>
+    <sub-title lang="en">Snowflake Day!</sub-title>
+    <desc lang="en">Daniel is excited to play a snowflake in the Neighborhood's Snowflake Day Show.</desc>
+    <episode-num system="xmltv_ns">1.33.0</episode-num>
+    <episode-num system="onscreen">S1E33</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20251130083000 +0000" stop="20251130090000 +0000" channel="101364">
+    <title lang="en">Pinkalicious &amp; Peterrific</title>
+    <sub-title lang="en">Amazing Sled Run; Frost Fairy</sub-title>
+    <desc lang="en">Pinkalicious and her friends build a sled run out of snow; when Felix the Frost Fairy falls asleep, Pinkalicious and Peter realize they must help so there will be winter window designs when everyone wakes up.</desc>
+    <episode-num system="xmltv_ns">1.35.0</episode-num>
+    <episode-num system="onscreen">S1E35</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20251130090000 +0000" stop="20251130093000 +0000" channel="101364">
+    <title lang="en">Alma's Way</title>
+    <sub-title lang="en">Alma's Nochebuena; Three Kings Day Do-Over</sub-title>
+    <desc lang="en">Alma must learn a new way to celebrate when her family's Noche Buena traditions don't go as planned; Alma decides to make a do-over gift for Junior.</desc>
+    <episode-num system="xmltv_ns">1.14.0</episode-num>
+    <episode-num system="onscreen">S1E14</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20251130093000 +0000" stop="20251130100000 +0000" channel="101364">
+    <title lang="en">Super Why!</title>
+    <sub-title lang="en">Judith's Happy Chanukah</sub-title>
+    <desc lang="en">Judith teaches the Super Readers about Hanukkah after Whyatt is invited to Red's Gramma's house for the celebration.</desc>
+    <episode-num system="xmltv_ns">3.10.0</episode-num>
+    <episode-num system="onscreen">S3E10</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20251130100000 +0000" stop="20251130103000 +0000" channel="101364">
+    <title lang="en">Arthur</title>
+    <sub-title lang="en">D.W. on Ice; Spoiled Rotten!</sub-title>
+    <desc lang="en">D.W. tells her friends she is a fantastic skater, but she really is not; Muffy tries to prove to her friends that she is not spoiled.</desc>
+    <episode-num system="xmltv_ns">11.9.0</episode-num>
+    <episode-num system="onscreen">S11E9</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20251130103000 +0000" stop="20251130110000 +0000" channel="101364">
+    <title lang="en">Odd Squad</title>
+    <sub-title lang="en">Reindeer Games</sub-title>
+    <desc lang="en">Olive and Otto help Santa find his reindeer; Oscar helps Ms. O get off Santa's naughty list.</desc>
+    <episode-num system="xmltv_ns">1.5.0</episode-num>
+    <episode-num system="onscreen">S1E5</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20251130110000 +0000" stop="20251130113000 +0000" channel="101364">
+    <title lang="en">The Cat in the Hat Knows a Lot About That!</title>
+    <sub-title lang="en">Babies; Fast</sub-title>
+    <desc lang="en">Sally looks after baby hamsters; Perry the Peregrine Falcon shows Nick and Sally how fast he can be.</desc>
+    <episode-num system="xmltv_ns">2.10.0</episode-num>
+    <episode-num system="onscreen">S2E10</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20251130113000 +0000" stop="20251130120000 +0000" channel="101364">
+    <title lang="en">Dinosaur Train</title>
+    <sub-title lang="en">Hootin' Hadrosaurs!; Hatching Party</sub-title>
+    <desc lang="en">Perry Parasaurolophus teaches everyone a new way to hoot some hip music; egg hatching party.</desc>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20251130120000 +0000" stop="20251130123000 +0000" channel="101364">
+    <title lang="en">Pinkalicious &amp; Peterrific</title>
+    <sub-title lang="en">Fairy Button Exchange; Pink Pong Program</sub-title>
+    <desc lang="en">Pinkalicious visits the Fairy Button Exchange in Fairyland after she loses her favorite button; Peter has trouble in the Pink Pong tournament.</desc>
+    <episode-num system="xmltv_ns">6.4.0</episode-num>
+    <episode-num system="onscreen">S6E4</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20251130123000 +0000" stop="20251130130000 +0000" channel="101364">
+    <title lang="en">Peg + Cat</title>
+    <sub-title lang="en">The Race Car Problem; The Big Gig Problem</sub-title>
+    <desc lang="en">Peg and Cat rebuild their homemade race car; Peg and Cat round up missing members of their band in time for a performance for 100 chickens.</desc>
+    <episode-num system="xmltv_ns">1.10.0</episode-num>
+    <episode-num system="onscreen">S1E10</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20251130130000 +0000" stop="20251130133000 +0000" channel="101364">
+    <title lang="en">Sesame Street</title>
+    <sub-title lang="en">Use That Rice!</sub-title>
+    <desc lang="en">Elmo and Abby are hosting a cook-off called &quot;Use! That! Rice!&quot;; Mia and Ji-Young make special family rice recipes: Mia and her dads make arroz imperial while Ji-Young and Alan make kimbap.</desc>
+    <episode-num system="xmltv_ns">54.33.0</episode-num>
+    <episode-num system="onscreen">S54E33</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20251130133000 +0000" stop="20251130140000 +0000" channel="101364">
+    <title lang="en">Milo</title>
+    <sub-title lang="en">Milo the Movie Director</sub-title>
+    <desc lang="en">Milo and his friends are thrilled to help Vincent Verona direct the final scene of his new superhero movie; great directors always stay true to the script, but the trio makes too many changes and it's a mess.</desc>
+    <episode-num system="xmltv_ns">1.48.0</episode-num>
+    <episode-num system="onscreen">S1E48</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251130140000 +0000" stop="20251130143000 +0000" channel="101364">
+    <title lang="en">Work It Out Wombats!</title>
+    <sub-title lang="en">The Kaya-tastic Banana-tastic Halo Halo Split!; Amazing Adventure</sub-title>
+    <desc lang="en">Kaya's cooking class; the Wombats go on a treasure hunt.</desc>
+    <episode-num system="xmltv_ns">1.21.0</episode-num>
+    <episode-num system="onscreen">S1E21</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20251130143000 +0000" stop="20251130150000 +0000" channel="101364">
+    <title lang="en">Work It Out Wombats!</title>
+    <sub-title lang="en">Me Time; Zadie and the Big, Loud, Noisy Thing</sub-title>
+    <desc lang="en">The Wombats go on a quest to figure out all the elements that go into creating the perfect personal time routine; Zadie wants to make a really loud noise.</desc>
+    <episode-num system="xmltv_ns">1.10.0</episode-num>
+    <episode-num system="onscreen">S1E10</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20251130150000 +0000" stop="20251130153000 +0000" channel="101364">
+    <title lang="en">Daniel Tiger's Neighborhood</title>
+    <sub-title lang="en">Something New About Trolley</sub-title>
+    <desc lang="en">Daniel is excited to learn something new about Trolley.</desc>
+    <episode-num system="xmltv_ns">7.1.0</episode-num>
+    <episode-num system="onscreen">S7E1</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20251130153000 +0000" stop="20251130160000 +0000" channel="101364">
+    <title lang="en">Daniel Tiger's Neighborhood</title>
+    <sub-title lang="en">Margaret's First Thank You Day</sub-title>
+    <desc lang="en">Daniel is excited to show Margaret all the things they can do to celebrate Thank You Day at the Enchanted Garden, but plans change when Margaret gets sick.</desc>
+    <episode-num system="xmltv_ns">5.13.0</episode-num>
+    <episode-num system="onscreen">S5E13</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20251130160000 +0000" stop="20251130163000 +0000" channel="101364">
+    <title lang="en">Carl the Collector</title>
+    <sub-title lang="en">Rhythm Blues; Giving Up the Ship</sub-title>
+    <desc lang="en">Lotta is frustrated learning a new dance, but realizes it is ok to experience music in her own way; Sheldon worries about telling Carl that he doesn't want to play pirates anymore.</desc>
+    <episode-num system="xmltv_ns">1.15.0</episode-num>
+    <episode-num system="onscreen">S1E15</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20251130163000 +0000" stop="20251130170000 +0000" channel="101364">
+    <title lang="en">Curious George</title>
+    <sub-title lang="en">Sloth; Saved by the Bells</sub-title>
+    <desc lang="en">George visits a rainforest in search of a rare orchid and helps a baby sloth find its mama; when Gnocchi's new collar goes missing, George searches for it in a bell tower where he meets an expert and learns how the big bells make so many sounds.</desc>
+    <episode-num system="xmltv_ns">15.15.0</episode-num>
+    <episode-num system="onscreen">S15E15</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20251130170000 +0000" stop="20251130173000 +0000" channel="101364">
+    <title lang="en">Donkey Hodie</title>
+    <sub-title lang="en">Meemaw Heehaw's Recipe Mystery; Extra-Large Crunchdoodles</sub-title>
+    <desc lang="en">Donkey and Grampy try to make an old family recipe; Donkey and Panda are excited to try a new cereal.</desc>
+    <episode-num system="xmltv_ns">2.23.0</episode-num>
+    <episode-num system="onscreen">S2E23</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20251130173000 +0000" stop="20251130180000 +0000" channel="101364">
+    <title lang="en">Donkey Hodie</title>
+    <sub-title lang="en">Thankful Donkey; The Penguin Diner-rama</sub-title>
+    <desc lang="en">Donkey makes Grampy a special card but she gets into a few sticky situations when she tries to deliver it to him; the pals help Harriett with her new invention for penguins.</desc>
+    <episode-num system="xmltv_ns">2.13.0</episode-num>
+    <episode-num system="onscreen">S2E13</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20251130180000 +0000" stop="20251130183000 +0000" channel="101364">
+    <title lang="en">Elinor Wonders Why</title>
+    <sub-title lang="en">Backyard Soup; Colorful and Tasty</sub-title>
+    <desc lang="en">Elinor learns about different plants when she makes soup with her grandparents; Elinor and her friends don't understand why their cupcakes aren't selling.</desc>
+    <episode-num system="xmltv_ns">1.14.0</episode-num>
+    <episode-num system="onscreen">S1E14</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20251130183000 +0000" stop="20251130190000 +0000" channel="101364">
+    <title lang="en">Super Why!</title>
+    <sub-title lang="en">The Three Little Pigs</sub-title>
+    <desc lang="en">Jill knocks down Pig's tower; the Super Readers face Big Bad Wolf.</desc>
     <episode-num system="xmltv_ns">1.1.0</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
     <rating>
       <value>TV-Y</value>
     </rating>
   </programme>
-  <programme start="20251202163000 +0000" stop="20251202170000 +0000" channel="101364">
-    <title lang="en">Carl the Collector</title>
-    <sub-title lang="en">A New Friend; Lotta the Copycat</sub-title>
-    <desc lang="en">Carl makes a new friend while visiting his dad; Lotta thinks if she copies Nico, everyone will like her.</desc>
-    <episode-num system="xmltv_ns">1.20.0</episode-num>
-    <episode-num system="onscreen">S1E20</episode-num>
+  <programme start="20251130190000 +0000" stop="20251130193000 +0000" channel="101364">
+    <title lang="en">Rosie's Rules</title>
+    <sub-title lang="en">The Mysterious Book; Rosie's New Club</sub-title>
+    <desc lang="en">Iggy wants to see the garbage truck, but Rosie doesn't know how to get it to come to their house; Rosie attempts to bring nature inside.</desc>
+    <episode-num system="xmltv_ns">2.2.0</episode-num>
+    <episode-num system="onscreen">S2E2</episode-num>
     <rating>
       <value>TV-Y</value>
     </rating>
   </programme>
-  <programme start="20251202170000 +0000" stop="20251202173000 +0000" channel="101364">
+  <programme start="20251130193000 +0000" stop="20251130200000 +0000" channel="101364">
+    <title lang="en">Xavier Riddle and the Secret Museum</title>
+    <sub-title lang="en">I Am Jigonsaseh; I Am Sacagawea</sub-title>
+    <desc lang="en">Jigonsaseh, the original Haudenosaunee Clan Mother, inspires the trio to stop arguing with each other; Sacagawea helps Xavier and Brad realize they shouldn't underestimate Yadina just because she's younger than them.</desc>
+    <episode-num system="xmltv_ns">1.36.0</episode-num>
+    <episode-num system="onscreen">S1E36</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20251130200000 +0000" stop="20251130203000 +0000" channel="101364">
+    <title lang="en">Molly of Denali</title>
+    <sub-title lang="en">Grandpa's Drum; Have Canoe, Will Paddle</sub-title>
+    <desc lang="en">Molly embarks on a mission to find Grandpa's drum and return his lost songs to him; Connie tries to teach Molly, Tooey and Trini how to paddle a canoe.</desc>
+    <episode-num system="xmltv_ns">1.4.0</episode-num>
+    <episode-num system="onscreen">S1E4</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20251130203000 +0000" stop="20251130210000 +0000" channel="101364">
+    <title lang="en">Alma's Way</title>
+    <sub-title lang="en">Community Campout; Leaf it to Alma</sub-title>
+    <desc lang="en">Alma accidentally embarrasses Rafia during a sleepover at the community center; Alma and her friends jump in the leaves.</desc>
+    <episode-num system="xmltv_ns">1.28.0</episode-num>
+    <episode-num system="onscreen">S1E28</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20251130210000 +0000" stop="20251130213000 +0000" channel="101364">
+    <title lang="en">Lyla in the Loop</title>
+    <sub-title lang="en">Every Sand-Which Way; Growing Up</sub-title>
+    <desc lang="en">Lyla and her siblings come up with a sandwich special for Loops Lunch; Lyla helps her mom build a vertical garden behind Loops Lunch.</desc>
+    <episode-num system="xmltv_ns">1.3.0</episode-num>
+    <episode-num system="onscreen">S1E3</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20251130213000 +0000" stop="20251130220000 +0000" channel="101364">
+    <title lang="en">Arthur</title>
+    <sub-title lang="en">What's Cooking?; Buster's Special Delivery</sub-title>
+    <desc lang="en">Arthur thinks he could win the Lakewood Elementary cooking contest; Buster volunteers to deliver the school mail.</desc>
+    <episode-num system="xmltv_ns">10.10.0</episode-num>
+    <episode-num system="onscreen">S10E10</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20251130220000 +0000" stop="20251130223000 +0000" channel="101364">
+    <title lang="en">Odd Squad</title>
+    <sub-title lang="en">O Is Not For Over</sub-title>
+    <desc lang="en">Big changes and bigger challenges occur when Olive is given her own Odd Squad to manage, while Otto is assigned a new partner in her absence.</desc>
+    <episode-num system="xmltv_ns">1.39.0</episode-num>
+    <episode-num system="onscreen">S1E39</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20251130223000 +0000" stop="20251130230000 +0000" channel="101364">
+    <title lang="en">Skillsville</title>
+    <sub-title lang="en">Train Engineer; Paleontologist</sub-title>
+    <desc lang="en">Rae must remember the buttons to push to get the Beeples to Marshmallow Mountain Station when she takes a job as a train engineer; Dev needs to stay organized.</desc>
+    <episode-num system="xmltv_ns">1.2.0</episode-num>
+    <episode-num system="onscreen">S1E2</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20251130230000 +0000" stop="20251130233000 +0000" channel="101364">
+    <title lang="en">Wild Kratts</title>
+    <sub-title lang="en">A Huge Orange Problem</sub-title>
+    <desc lang="en">Search for the endangered orangutan in Borneo.</desc>
+    <episode-num system="xmltv_ns">1.35.0</episode-num>
+    <episode-num system="onscreen">S1E35</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20251130233000 +0000" stop="20251201000000 +0000" channel="101364">
+    <title lang="en">Weather Hunters</title>
+    <sub-title lang="en">The Windy Day</sub-title>
+    <desc lang="en">It's an exciting day for Lily and her family when they move into their new house.</desc>
+    <episode-num system="xmltv_ns">1.1.0</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20251201000000 +0000" stop="20251201003000 +0000" channel="101364">
     <title lang="en">Daniel Tiger's Neighborhood</title>
-    <sub-title lang="en">Daniel Gets Frustrated ; Frustration at School</sub-title>
-    <desc lang="en">Daniel gets frustrated when he is unable to do what he wants to do; Daniel is upset when he can't find a toy at school.</desc>
-    <episode-num system="xmltv_ns">1.37.0</episode-num>
-    <episode-num system="onscreen">S1E37</episode-num>
+    <sub-title lang="en">Snowflake Day!</sub-title>
+    <desc lang="en">Daniel is excited to play a snowflake in the Neighborhood's Snowflake Day Show.</desc>
+    <episode-num system="xmltv_ns">1.33.0</episode-num>
+    <episode-num system="onscreen">S1E33</episode-num>
     <rating>
       <value>TV-Y</value>
     </rating>
   </programme>
-  <programme start="20251202173000 +0000" stop="20251202180000 +0000" channel="101364">
+  <programme start="20251201003000 +0000" stop="20251201010000 +0000" channel="101364">
+    <title lang="en">Pinkalicious &amp; Peterrific</title>
+    <sub-title lang="en">Amazing Sled Run; Frost Fairy</sub-title>
+    <desc lang="en">Pinkalicious and her friends build a sled run out of snow; when Felix the Frost Fairy falls asleep, Pinkalicious and Peter realize they must help so there will be winter window designs when everyone wakes up.</desc>
+    <episode-num system="xmltv_ns">1.35.0</episode-num>
+    <episode-num system="onscreen">S1E35</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20251201010000 +0000" stop="20251201013000 +0000" channel="101364">
+    <title lang="en">Alma's Way</title>
+    <sub-title lang="en">Alma's Nochebuena; Three Kings Day Do-Over</sub-title>
+    <desc lang="en">Alma must learn a new way to celebrate when her family's Noche Buena traditions don't go as planned; Alma decides to make a do-over gift for Junior.</desc>
+    <episode-num system="xmltv_ns">1.14.0</episode-num>
+    <episode-num system="onscreen">S1E14</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20251201013000 +0000" stop="20251201020000 +0000" channel="101364">
+    <title lang="en">Super Why!</title>
+    <sub-title lang="en">Judith's Happy Chanukah</sub-title>
+    <desc lang="en">Judith teaches the Super Readers about Hanukkah after Whyatt is invited to Red's Gramma's house for the celebration.</desc>
+    <episode-num system="xmltv_ns">3.10.0</episode-num>
+    <episode-num system="onscreen">S3E10</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20251201020000 +0000" stop="20251201023000 +0000" channel="101364">
+    <title lang="en">Arthur</title>
+    <sub-title lang="en">D.W. on Ice; Spoiled Rotten!</sub-title>
+    <desc lang="en">D.W. tells her friends she is a fantastic skater, but she really is not; Muffy tries to prove to her friends that she is not spoiled.</desc>
+    <episode-num system="xmltv_ns">11.9.0</episode-num>
+    <episode-num system="onscreen">S11E9</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20251201023000 +0000" stop="20251201030000 +0000" channel="101364">
+    <title lang="en">Odd Squad</title>
+    <sub-title lang="en">Reindeer Games</sub-title>
+    <desc lang="en">Olive and Otto help Santa find his reindeer; Oscar helps Ms. O get off Santa's naughty list.</desc>
+    <episode-num system="xmltv_ns">1.5.0</episode-num>
+    <episode-num system="onscreen">S1E5</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20251201030000 +0000" stop="20251201033000 +0000" channel="101364">
+    <title lang="en">Rosie's Rules</title>
+    <sub-title lang="en">The Mysterious Book; Rosie's New Club</sub-title>
+    <desc lang="en">Iggy wants to see the garbage truck, but Rosie doesn't know how to get it to come to their house; Rosie attempts to bring nature inside.</desc>
+    <episode-num system="xmltv_ns">2.2.0</episode-num>
+    <episode-num system="onscreen">S2E2</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20251201033000 +0000" stop="20251201040000 +0000" channel="101364">
+    <title lang="en">Xavier Riddle and the Secret Museum</title>
+    <sub-title lang="en">I Am Jigonsaseh; I Am Sacagawea</sub-title>
+    <desc lang="en">Jigonsaseh, the original Haudenosaunee Clan Mother, inspires the trio to stop arguing with each other; Sacagawea helps Xavier and Brad realize they shouldn't underestimate Yadina just because she's younger than them.</desc>
+    <episode-num system="xmltv_ns">1.36.0</episode-num>
+    <episode-num system="onscreen">S1E36</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20251201040000 +0000" stop="20251201043000 +0000" channel="101364">
+    <title lang="en">Molly of Denali</title>
+    <sub-title lang="en">Grandpa's Drum; Have Canoe, Will Paddle</sub-title>
+    <desc lang="en">Molly embarks on a mission to find Grandpa's drum and return his lost songs to him; Connie tries to teach Molly, Tooey and Trini how to paddle a canoe.</desc>
+    <episode-num system="xmltv_ns">1.4.0</episode-num>
+    <episode-num system="onscreen">S1E4</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20251201043000 +0000" stop="20251201050000 +0000" channel="101364">
+    <title lang="en">Alma's Way</title>
+    <sub-title lang="en">Community Campout; Leaf it to Alma</sub-title>
+    <desc lang="en">Alma accidentally embarrasses Rafia during a sleepover at the community center; Alma and her friends jump in the leaves.</desc>
+    <episode-num system="xmltv_ns">1.28.0</episode-num>
+    <episode-num system="onscreen">S1E28</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20251201050000 +0000" stop="20251201053000 +0000" channel="101364">
+    <title lang="en">Lyla in the Loop</title>
+    <sub-title lang="en">Every Sand-Which Way; Growing Up</sub-title>
+    <desc lang="en">Lyla and her siblings come up with a sandwich special for Loops Lunch; Lyla helps her mom build a vertical garden behind Loops Lunch.</desc>
+    <episode-num system="xmltv_ns">1.3.0</episode-num>
+    <episode-num system="onscreen">S1E3</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20251201053000 +0000" stop="20251201060000 +0000" channel="101364">
+    <title lang="en">Arthur</title>
+    <sub-title lang="en">What's Cooking?; Buster's Special Delivery</sub-title>
+    <desc lang="en">Arthur thinks he could win the Lakewood Elementary cooking contest; Buster volunteers to deliver the school mail.</desc>
+    <episode-num system="xmltv_ns">10.10.0</episode-num>
+    <episode-num system="onscreen">S10E10</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20251201060000 +0000" stop="20251201063000 +0000" channel="101364">
+    <title lang="en">Odd Squad</title>
+    <sub-title lang="en">O Is Not For Over</sub-title>
+    <desc lang="en">Big changes and bigger challenges occur when Olive is given her own Odd Squad to manage, while Otto is assigned a new partner in her absence.</desc>
+    <episode-num system="xmltv_ns">1.39.0</episode-num>
+    <episode-num system="onscreen">S1E39</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20251201063000 +0000" stop="20251201070000 +0000" channel="101364">
+    <title lang="en">Skillsville</title>
+    <sub-title lang="en">Train Engineer; Paleontologist</sub-title>
+    <desc lang="en">Rae must remember the buttons to push to get the Beeples to Marshmallow Mountain Station when she takes a job as a train engineer; Dev needs to stay organized.</desc>
+    <episode-num system="xmltv_ns">1.2.0</episode-num>
+    <episode-num system="onscreen">S1E2</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20251201070000 +0000" stop="20251201073000 +0000" channel="101364">
+    <title lang="en">Wild Kratts</title>
+    <sub-title lang="en">A Huge Orange Problem</sub-title>
+    <desc lang="en">Search for the endangered orangutan in Borneo.</desc>
+    <episode-num system="xmltv_ns">1.35.0</episode-num>
+    <episode-num system="onscreen">S1E35</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20251201073000 +0000" stop="20251201080000 +0000" channel="101364">
+    <title lang="en">Weather Hunters</title>
+    <sub-title lang="en">The Windy Day</sub-title>
+    <desc lang="en">It's an exciting day for Lily and her family when they move into their new house.</desc>
+    <episode-num system="xmltv_ns">1.1.0</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20251201080000 +0000" stop="20251201083000 +0000" channel="101364">
+    <title lang="en">Daniel Tiger's Neighborhood</title>
+    <sub-title lang="en">Snowflake Day!</sub-title>
+    <desc lang="en">Daniel is excited to play a snowflake in the Neighborhood's Snowflake Day Show.</desc>
+    <episode-num system="xmltv_ns">1.33.0</episode-num>
+    <episode-num system="onscreen">S1E33</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20251201083000 +0000" stop="20251201090000 +0000" channel="101364">
+    <title lang="en">Pinkalicious &amp; Peterrific</title>
+    <sub-title lang="en">Amazing Sled Run; Frost Fairy</sub-title>
+    <desc lang="en">Pinkalicious and her friends build a sled run out of snow; when Felix the Frost Fairy falls asleep, Pinkalicious and Peter realize they must help so there will be winter window designs when everyone wakes up.</desc>
+    <episode-num system="xmltv_ns">1.35.0</episode-num>
+    <episode-num system="onscreen">S1E35</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20251201090000 +0000" stop="20251201093000 +0000" channel="101364">
+    <title lang="en">Alma's Way</title>
+    <sub-title lang="en">Alma's Nochebuena; Three Kings Day Do-Over</sub-title>
+    <desc lang="en">Alma must learn a new way to celebrate when her family's Noche Buena traditions don't go as planned; Alma decides to make a do-over gift for Junior.</desc>
+    <episode-num system="xmltv_ns">1.14.0</episode-num>
+    <episode-num system="onscreen">S1E14</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20251201093000 +0000" stop="20251201100000 +0000" channel="101364">
+    <title lang="en">Super Why!</title>
+    <sub-title lang="en">Judith's Happy Chanukah</sub-title>
+    <desc lang="en">Judith teaches the Super Readers about Hanukkah after Whyatt is invited to Red's Gramma's house for the celebration.</desc>
+    <episode-num system="xmltv_ns">3.10.0</episode-num>
+    <episode-num system="onscreen">S3E10</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20251201100000 +0000" stop="20251201103000 +0000" channel="101364">
+    <title lang="en">Arthur</title>
+    <sub-title lang="en">D.W. on Ice; Spoiled Rotten!</sub-title>
+    <desc lang="en">D.W. tells her friends she is a fantastic skater, but she really is not; Muffy tries to prove to her friends that she is not spoiled.</desc>
+    <episode-num system="xmltv_ns">11.9.0</episode-num>
+    <episode-num system="onscreen">S11E9</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20251201103000 +0000" stop="20251201110000 +0000" channel="101364">
+    <title lang="en">Odd Squad</title>
+    <sub-title lang="en">Reindeer Games</sub-title>
+    <desc lang="en">Olive and Otto help Santa find his reindeer; Oscar helps Ms. O get off Santa's naughty list.</desc>
+    <episode-num system="xmltv_ns">1.5.0</episode-num>
+    <episode-num system="onscreen">S1E5</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20251201110000 +0000" stop="20251201113000 +0000" channel="101364">
+    <title lang="en">Clifford the Big Red Dog</title>
+    <sub-title lang="en">Dancing by the Book; Tucker's Tooth</sub-title>
+    <desc lang="en">Emily Elizabeth and Jack are determined to show off their favorite dance move at the dance party on Birdwell Island; Tucker's loose tooth keeps him from doing his job as the island's firehouse dog.</desc>
+    <episode-num system="xmltv_ns">3.21.0</episode-num>
+    <episode-num system="onscreen">S3E21</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20251201113000 +0000" stop="20251201120000 +0000" channel="101364">
+    <title lang="en">Sesame Street</title>
+    <sub-title lang="en">Cookie Monster's Big Puzzle</sub-title>
+    <desc lang="en">Cookie Monster tries to bake a new cookie for Elmo; Abby and Grover solve a puzzle of their own.</desc>
+    <episode-num system="xmltv_ns">56.2.0</episode-num>
+    <episode-num system="onscreen">S56E2</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20251201120000 +0000" stop="20251201123000 +0000" channel="101364">
+    <title lang="en">Pinkalicious &amp; Peterrific</title>
+    <sub-title lang="en">Peter the Picky Eater; Miniature Mayhem</sub-title>
+    <desc lang="en">Pinkalicious shows Peter a fun way to eat his vegetables; the gang plays miniature golf.</desc>
+    <episode-num system="xmltv_ns">7.4.0</episode-num>
+    <episode-num system="onscreen">S7E4</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20251201123000 +0000" stop="20251201130000 +0000" channel="101364">
+    <title lang="en">Curious George</title>
+    <sub-title lang="en">For Your Ice Only; George and the Unforgettable Father's Day</sub-title>
+    <desc lang="en">A heat wave power outage threatens a small snowman George has kept in the freezer since winter, so George searches for ice; after learning about totem poles from his new friend, Kimi, George is inspired to make one for Father's Day.</desc>
+    <episode-num system="xmltv_ns">12.1.0</episode-num>
+    <episode-num system="onscreen">S12E1</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20251201130000 +0000" stop="20251201133000 +0000" channel="101364">
+    <title lang="en">Sesame Street</title>
+    <sub-title lang="en">The Sign Language ABCs</sub-title>
+    <desc lang="en">It is Alphabet Day on Sesame Street; Cookie Monster makes letter-shaped cookies and there are decorations all around; Elmo meets Charlie's friend Mathis and learns that he communicates using American Sign Language.</desc>
+    <episode-num system="xmltv_ns">54.23.0</episode-num>
+    <episode-num system="onscreen">S54E23</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20251201133000 +0000" stop="20251201140000 +0000" channel="101364">
+    <title lang="en">Milo</title>
+    <sub-title lang="en">Milo the Musician</sub-title>
+    <desc lang="en">Music makers Milo, Lofty and Lark are excited to play at the town festival, replacing Dave and The Dodgers with their own band; however, writing their own song is harder than it sounds.</desc>
+    <episode-num system="xmltv_ns">1.21.0</episode-num>
+    <episode-num system="onscreen">S1E21</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20251201140000 +0000" stop="20251201143000 +0000" channel="101364">
+    <title lang="en">Work It Out Wombats!</title>
+    <sub-title lang="en">The Big Loud Storm; Wish Monster</sub-title>
+    <desc lang="en">Zeke is anxious about a big storm; Zeke turns into a &quot;Wish Monster&quot; when Zadie and Malik make his wish come true.</desc>
+    <episode-num system="xmltv_ns">2.1.0</episode-num>
+    <episode-num system="onscreen">S2E1</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20251201143000 +0000" stop="20251201150000 +0000" channel="101364">
+    <title lang="en">Work It Out Wombats!</title>
+    <sub-title lang="en">A Room of Our Own; Zeke's Fairy Village</sub-title>
+    <desc lang="en">Malik and Zadie can't agree on how tidy to keep their bedroom; Zeke's friends build houses for the fairies who have moved in.</desc>
+    <episode-num system="xmltv_ns">1.25.0</episode-num>
+    <episode-num system="onscreen">S1E25</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20251201150000 +0000" stop="20251201153000 +0000" channel="101364">
+    <title lang="en">Daniel Tiger's Neighborhood</title>
+    <sub-title lang="en">Snowflake Day!</sub-title>
+    <desc lang="en">Daniel is excited to play a snowflake in the Neighborhood's Snowflake Day Show.</desc>
+    <episode-num system="xmltv_ns">1.33.0</episode-num>
+    <episode-num system="onscreen">S1E33</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20251201153000 +0000" stop="20251201160000 +0000" channel="101364">
+    <title lang="en">Daniel Tiger's Neighborhood</title>
+    <sub-title lang="en">Playtime Is Different; The Playground Is Different With Baby</sub-title>
+    <desc lang="en">Curious baby Margaret interrupts Daniel when he plays restaurant with O and Katerina; Mom and Dad encourage Daniel to include Margaret at the playground.</desc>
+    <episode-num system="xmltv_ns">2.4.0</episode-num>
+    <episode-num system="onscreen">S2E4</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20251201160000 +0000" stop="20251201163000 +0000" channel="101364">
+    <title lang="en">Carl the Collector</title>
+    <sub-title lang="en">The Green Piece; The FuzzyWorld Book of Records</sub-title>
+    <desc lang="en">Dylan is excited to play his new game but things take a turn when the game pieces fall into a floor vent; Carl is determined to get into the FuzzyWorld Book of Records.</desc>
+    <episode-num system="xmltv_ns">1.22.0</episode-num>
+    <episode-num system="onscreen">S1E22</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20251201163000 +0000" stop="20251201170000 +0000" channel="101364">
+    <title lang="en">Carl the Collector</title>
+    <sub-title lang="en">The Puffball Collection; The Bottle Cap Collection</sub-title>
+    <desc lang="en">Lotta competes in the Fuzzytown Music Maker Championship, but the noise on stage becomes too much for her and she leaves; Carl forgets his bottle cap collection at his dad's house.</desc>
+    <episode-num system="xmltv_ns">1.11.0</episode-num>
+    <episode-num system="onscreen">S1E11</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20251201170000 +0000" stop="20251201173000 +0000" channel="101364">
+    <title lang="en">Donkey Hodie</title>
+    <sub-title lang="en">The Golden Crunchdoodles; Walking Stick Blues</sub-title>
+    <desc lang="en">Donkey and Panda discover a golden rainbow after a storm; Donkey vows to help fix Grampy's walking stick after it breaks.</desc>
+    <episode-num system="xmltv_ns">1.15.0</episode-num>
+    <episode-num system="onscreen">S1E15</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20251201173000 +0000" stop="20251201180000 +0000" channel="101364">
+    <title lang="en">Donkey Hodie</title>
+    <sub-title lang="en">Feelings Detectives; Clyde's Cloudy Day</sub-title>
+    <desc lang="en">Duck Duck has a big feeling, but she doesn't know what it is; Clyde feels sad, so the pals give him time to feel better.</desc>
+    <episode-num system="xmltv_ns">2.4.0</episode-num>
+    <episode-num system="onscreen">S2E4</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20251201180000 +0000" stop="20251201183000 +0000" channel="101364">
+    <title lang="en">Elinor Wonders Why</title>
+    <sub-title lang="en">The Science of Staying Warm; The Seed of an Idea</sub-title>
+    <desc lang="en">Elinor, Olive and Ari get ready to go out and play in the snow; Elinor wants to learn how Velcro works.</desc>
+    <episode-num system="xmltv_ns">1.2.0</episode-num>
+    <episode-num system="onscreen">S1E2</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20251201183000 +0000" stop="20251201190000 +0000" channel="101364">
+    <title lang="en">Rosie's Rules</title>
+    <sub-title lang="en">Rosie's Christmas in Mexico</sub-title>
+    <desc lang="en">Rosie is so excited to celebrate Christmas with abuela in Mexico City that she forgets to bring her present.</desc>
+    <episode-num system="xmltv_ns">1.36.0</episode-num>
+    <episode-num system="onscreen">S1E36</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20251201190000 +0000" stop="20251201193000 +0000" channel="101364">
     <title lang="en">Rosie's Rules</title>
     <sub-title lang="en">Iggy's Bedtime; The Great Crystalini</sub-title>
     <desc lang="en">Rosie volunteers to put Iggy to bed, but she has to follow his special routine; Rosie assists Crystal in her magic show.</desc>
@@ -6107,37 +6093,337 @@
       <value>TV-Y</value>
     </rating>
   </programme>
-  <programme start="20251202180000 +0000" stop="20251202183000 +0000" channel="101364">
+  <programme start="20251201193000 +0000" stop="20251201200000 +0000" channel="101364">
+    <title lang="en">Xavier Riddle and the Secret Museum</title>
+    <sub-title lang="en">I Am Grace Hopper, I Am Itzhak Perlman</sub-title>
+    <desc lang="en">Grace Hopper shows Xavier that he will never know if he can build his robot differently than everyone else unless he tries; Itzhak Perlman shows Xavier that he can learn music his own way.</desc>
+    <episode-num system="xmltv_ns">2.23.0</episode-num>
+    <episode-num system="onscreen">S2E23</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20251201200000 +0000" stop="20251201203000 +0000" channel="101364">
+    <title lang="en">Molly of Denali</title>
+    <sub-title lang="en">Welcome Home Balto; Snow Jam</sub-title>
+    <desc lang="en">Molly embarks on her own dogsledding adventure when she tries to get a statue installed to honor heroic dog Balto; Molly's basketball team raises money for a basketball tournament.</desc>
+    <episode-num system="xmltv_ns">1.19.0</episode-num>
+    <episode-num system="onscreen">S1E19</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20251201203000 +0000" stop="20251201210000 +0000" channel="101364">
+    <title lang="en">Alma's Way</title>
+    <sub-title lang="en">All About Alma; Alma's Playdate</sub-title>
+    <desc lang="en">Alma is consumed with her starring role in a musical; Alma and Harper have a playdate at the Rivera house.</desc>
+    <episode-num system="xmltv_ns">1.31.0</episode-num>
+    <episode-num system="onscreen">S1E31</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20251201210000 +0000" stop="20251201213000 +0000" channel="101364">
+    <title lang="en">Lyla in the Loop</title>
+    <sub-title lang="en">When We Met Stu</sub-title>
+    <desc lang="en">Lyla and her family must figure out a way to get Stu back home when he gets lost delivering cookies.</desc>
+    <episode-num system="xmltv_ns">1.35.0</episode-num>
+    <episode-num system="onscreen">S1E35</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20251201213000 +0000" stop="20251201220000 +0000" channel="101364">
+    <title lang="en">Weather Hunters</title>
+    <sub-title lang="en">Foggy Trick or Treat</sub-title>
+    <desc lang="en">A foggy Halloween almost derails Corky and Lily's trick-or-treating.</desc>
+    <episode-num system="xmltv_ns">1.7.0</episode-num>
+    <episode-num system="onscreen">S1E7</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20251201220000 +0000" stop="20251201223000 +0000" channel="101364">
+    <title lang="en">Odd Squad</title>
+    <sub-title lang="en">Other Olympia; Total Zeros</sub-title>
+    <desc lang="en">Agent Olympia is miffed when another agent with the same name shows up at headquarters; Ms. O tells a story about a famous villain duo.</desc>
+    <episode-num system="xmltv_ns">2.31.0</episode-num>
+    <episode-num system="onscreen">S2E31</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20251201223000 +0000" stop="20251201230000 +0000" channel="101364">
+    <title lang="en">Skillsville</title>
+    <sub-title lang="en">Photographer; Librarian</sub-title>
+    <desc lang="en">Rae takes on the job of photographer, learning to focus to capture perfect shots of a stunt motorcycle rider; librarian Dev discovers that grouping is a helpful strategy to keep books organized.</desc>
+    <episode-num system="xmltv_ns">1.15.0</episode-num>
+    <episode-num system="onscreen">S1E15</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20251201230000 +0000" stop="20251201233000 +0000" channel="101364">
+    <title lang="en">Wild Kratts</title>
+    <sub-title lang="en">Under Frozen Pond</sub-title>
+    <desc lang="en">The Wild Kratts discover how pond animals survive during winter.</desc>
+    <episode-num system="xmltv_ns">3.20.0</episode-num>
+    <episode-num system="onscreen">S3E20</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20251201233000 +0000" stop="20251202000000 +0000" channel="101364">
+    <title lang="en">Weather Hunters</title>
+    <sub-title lang="en">Foggy Trick or Treat</sub-title>
+    <desc lang="en">A foggy Halloween almost derails Corky and Lily's trick-or-treating.</desc>
+    <episode-num system="xmltv_ns">1.7.0</episode-num>
+    <episode-num system="onscreen">S1E7</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20251202000000 +0000" stop="20251202003000 +0000" channel="101364">
+    <title lang="en">Lyla in the Loop</title>
+    <sub-title lang="en">When We Met Stu</sub-title>
+    <desc lang="en">Lyla and her family must figure out a way to get Stu back home when he gets lost delivering cookies.</desc>
+    <episode-num system="xmltv_ns">1.35.0</episode-num>
+    <episode-num system="onscreen">S1E35</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20251202003000 +0000" stop="20251202010000 +0000" channel="101364">
+    <title lang="en">Arthur</title>
+    <sub-title lang="en">D.W. on Ice; Spoiled Rotten!</sub-title>
+    <desc lang="en">D.W. tells her friends she is a fantastic skater, but she really is not; Muffy tries to prove to her friends that she is not spoiled.</desc>
+    <episode-num system="xmltv_ns">11.9.0</episode-num>
+    <episode-num system="onscreen">S11E9</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20251202010000 +0000" stop="20251202013000 +0000" channel="101364">
+    <title lang="en">Nature Cat</title>
+    <sub-title lang="en">Rock Clues; Sweet Scent</sub-title>
+    <desc lang="en">Squeeks needs to find her missing magnifying glass in time for the Rock Stars Club meeting; the gang tracks down a sweet scent.</desc>
+    <episode-num system="xmltv_ns">4.2.0</episode-num>
+    <episode-num system="onscreen">S4E2</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20251202013000 +0000" stop="20251202020000 +0000" channel="101364">
+    <title lang="en">Hero Elementary</title>
+    <sub-title lang="en">Rough Sledding; Hungry Hungry Hoppers</sub-title>
+    <desc lang="en">AJ accidentally ruins a schoolmate's box sled, so the crew helps him find the materials he needs to repair it; the crew takes care of someone else's class pet, a super frog, until it gets out and hops through town.</desc>
+    <episode-num system="xmltv_ns">1.20.0</episode-num>
+    <episode-num system="onscreen">S1E20</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20251202020000 +0000" stop="20251202023000 +0000" channel="101364">
+    <title lang="en">Cyberchase</title>
+    <sub-title lang="en">When Penguins Fly</sub-title>
+    <desc lang="en">Fluff participates in the Penguin March and asks Matt, Jackie, Inez and Digit to join him.</desc>
+    <episode-num system="xmltv_ns">6.2.0</episode-num>
+    <episode-num system="onscreen">S6E2</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20251202023000 +0000" stop="20251202030000 +0000" channel="101364">
+    <title lang="en">Let's Go Luna!</title>
+    <sub-title lang="en">The Ghost Piper of Edinburgh Castle; Make 'Em Laugh</sub-title>
+    <desc lang="en">Carmen learns about bagpipes; Leo must stop Dad's comedy act.</desc>
+    <episode-num system="xmltv_ns">2.14.0</episode-num>
+    <episode-num system="onscreen">S2E14</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20251202030000 +0000" stop="20251202033000 +0000" channel="101364">
+    <title lang="en">Rosie's Rules</title>
+    <sub-title lang="en">Iggy's Bedtime; The Great Crystalini</sub-title>
+    <desc lang="en">Rosie volunteers to put Iggy to bed, but she has to follow his special routine; Rosie assists Crystal in her magic show.</desc>
+    <episode-num system="xmltv_ns">1.8.0</episode-num>
+    <episode-num system="onscreen">S1E8</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20251202033000 +0000" stop="20251202040000 +0000" channel="101364">
+    <title lang="en">Xavier Riddle and the Secret Museum</title>
+    <sub-title lang="en">I Am Grace Hopper, I Am Itzhak Perlman</sub-title>
+    <desc lang="en">Grace Hopper shows Xavier that he will never know if he can build his robot differently than everyone else unless he tries; Itzhak Perlman shows Xavier that he can learn music his own way.</desc>
+    <episode-num system="xmltv_ns">2.23.0</episode-num>
+    <episode-num system="onscreen">S2E23</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20251202040000 +0000" stop="20251202043000 +0000" channel="101364">
+    <title lang="en">Molly of Denali</title>
+    <sub-title lang="en">Welcome Home Balto; Snow Jam</sub-title>
+    <desc lang="en">Molly embarks on her own dogsledding adventure when she tries to get a statue installed to honor heroic dog Balto; Molly's basketball team raises money for a basketball tournament.</desc>
+    <episode-num system="xmltv_ns">1.19.0</episode-num>
+    <episode-num system="onscreen">S1E19</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20251202043000 +0000" stop="20251202050000 +0000" channel="101364">
+    <title lang="en">Alma's Way</title>
+    <sub-title lang="en">All About Alma; Alma's Playdate</sub-title>
+    <desc lang="en">Alma is consumed with her starring role in a musical; Alma and Harper have a playdate at the Rivera house.</desc>
+    <episode-num system="xmltv_ns">1.31.0</episode-num>
+    <episode-num system="onscreen">S1E31</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20251202050000 +0000" stop="20251202053000 +0000" channel="101364">
+    <title lang="en">Lyla in the Loop</title>
+    <sub-title lang="en">When We Met Stu</sub-title>
+    <desc lang="en">Lyla and her family must figure out a way to get Stu back home when he gets lost delivering cookies.</desc>
+    <episode-num system="xmltv_ns">1.35.0</episode-num>
+    <episode-num system="onscreen">S1E35</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20251202053000 +0000" stop="20251202060000 +0000" channel="101364">
+    <title lang="en">Weather Hunters</title>
+    <sub-title lang="en">Foggy Trick or Treat</sub-title>
+    <desc lang="en">A foggy Halloween almost derails Corky and Lily's trick-or-treating.</desc>
+    <episode-num system="xmltv_ns">1.7.0</episode-num>
+    <episode-num system="onscreen">S1E7</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20251202060000 +0000" stop="20251202063000 +0000" channel="101364">
+    <title lang="en">Odd Squad</title>
+    <sub-title lang="en">Other Olympia; Total Zeros</sub-title>
+    <desc lang="en">Agent Olympia is miffed when another agent with the same name shows up at headquarters; Ms. O tells a story about a famous villain duo.</desc>
+    <episode-num system="xmltv_ns">2.31.0</episode-num>
+    <episode-num system="onscreen">S2E31</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20251202063000 +0000" stop="20251202070000 +0000" channel="101364">
+    <title lang="en">Skillsville</title>
+    <sub-title lang="en">Photographer; Librarian</sub-title>
+    <desc lang="en">Rae takes on the job of photographer, learning to focus to capture perfect shots of a stunt motorcycle rider; librarian Dev discovers that grouping is a helpful strategy to keep books organized.</desc>
+    <episode-num system="xmltv_ns">1.15.0</episode-num>
+    <episode-num system="onscreen">S1E15</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20251202070000 +0000" stop="20251202073000 +0000" channel="101364">
+    <title lang="en">Wild Kratts</title>
+    <sub-title lang="en">Under Frozen Pond</sub-title>
+    <desc lang="en">The Wild Kratts discover how pond animals survive during winter.</desc>
+    <episode-num system="xmltv_ns">3.20.0</episode-num>
+    <episode-num system="onscreen">S3E20</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20251202073000 +0000" stop="20251202080000 +0000" channel="101364">
+    <title lang="en">Weather Hunters</title>
+    <sub-title lang="en">Foggy Trick or Treat</sub-title>
+    <desc lang="en">A foggy Halloween almost derails Corky and Lily's trick-or-treating.</desc>
+    <episode-num system="xmltv_ns">1.7.0</episode-num>
+    <episode-num system="onscreen">S1E7</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20251202080000 +0000" stop="20251202083000 +0000" channel="101364">
+    <title lang="en">Lyla in the Loop</title>
+    <sub-title lang="en">When We Met Stu</sub-title>
+    <desc lang="en">Lyla and her family must figure out a way to get Stu back home when he gets lost delivering cookies.</desc>
+    <episode-num system="xmltv_ns">1.35.0</episode-num>
+    <episode-num system="onscreen">S1E35</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20251202083000 +0000" stop="20251202090000 +0000" channel="101364">
+    <title lang="en">Arthur</title>
+    <sub-title lang="en">D.W. on Ice; Spoiled Rotten!</sub-title>
+    <desc lang="en">D.W. tells her friends she is a fantastic skater, but she really is not; Muffy tries to prove to her friends that she is not spoiled.</desc>
+    <episode-num system="xmltv_ns">11.9.0</episode-num>
+    <episode-num system="onscreen">S11E9</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20251202090000 +0000" stop="20251202093000 +0000" channel="101364">
+    <title lang="en">Nature Cat</title>
+    <sub-title lang="en">Rock Clues; Sweet Scent</sub-title>
+    <desc lang="en">Squeeks needs to find her missing magnifying glass in time for the Rock Stars Club meeting; the gang tracks down a sweet scent.</desc>
+    <episode-num system="xmltv_ns">4.2.0</episode-num>
+    <episode-num system="onscreen">S4E2</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20251202093000 +0000" stop="20251202100000 +0000" channel="101364">
+    <title lang="en">Hero Elementary</title>
+    <sub-title lang="en">Rough Sledding; Hungry Hungry Hoppers</sub-title>
+    <desc lang="en">AJ accidentally ruins a schoolmate's box sled, so the crew helps him find the materials he needs to repair it; the crew takes care of someone else's class pet, a super frog, until it gets out and hops through town.</desc>
+    <episode-num system="xmltv_ns">1.20.0</episode-num>
+    <episode-num system="onscreen">S1E20</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20251202100000 +0000" stop="20251202103000 +0000" channel="101364">
+    <title lang="en">Cyberchase</title>
+    <sub-title lang="en">When Penguins Fly</sub-title>
+    <desc lang="en">Fluff participates in the Penguin March and asks Matt, Jackie, Inez and Digit to join him.</desc>
+    <episode-num system="xmltv_ns">6.2.0</episode-num>
+    <episode-num system="onscreen">S6E2</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20251202103000 +0000" stop="20251202110000 +0000" channel="101364">
+    <title lang="en">Let's Go Luna!</title>
+    <sub-title lang="en">The Ghost Piper of Edinburgh Castle; Make 'Em Laugh</sub-title>
+    <desc lang="en">Carmen learns about bagpipes; Leo must stop Dad's comedy act.</desc>
+    <episode-num system="xmltv_ns">2.14.0</episode-num>
+    <episode-num system="onscreen">S2E14</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20251202110000 +0000" stop="20251202113000 +0000" channel="101364">
+    <title lang="en">Clifford the Big Red Dog</title>
+    <sub-title lang="en">Searchers of the Lost Coin; Birdwell Backwards</sub-title>
+    <desc lang="en">Pablo loses his lucky coin while playing kickball with his friends; Emily Elizabeth and Clifford have fun during Backwards Day.</desc>
+    <episode-num system="xmltv_ns">3.25.0</episode-num>
+    <episode-num system="onscreen">S3E25</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20251202113000 +0000" stop="20251202120000 +0000" channel="101364">
     <title lang="en">Sesame Street</title>
-    <sub-title lang="en">Abby's Magical Beasties</sub-title>
-    <desc lang="en">While Abby and Elmo work together to find a lost Bubble Bug, Grover and Cookie Monster stay behind to take care of the fairy garden's magical beasties.</desc>
-    <episode-num system="xmltv_ns">56.3.0</episode-num>
-    <episode-num system="onscreen">S56E3</episode-num>
+    <sub-title lang="en">Use That Rice!</sub-title>
+    <desc lang="en">Elmo and Abby are hosting a cook-off called &quot;Use! That! Rice!&quot;; Mia and Ji-Young make special family rice recipes: Mia and her dads make arroz imperial while Ji-Young and Alan make kimbap.</desc>
+    <episode-num system="xmltv_ns">54.33.0</episode-num>
+    <episode-num system="onscreen">S54E33</episode-num>
     <rating>
       <value>TV-Y</value>
     </rating>
   </programme>
-  <programme start="20251202183000 +0000" stop="20251202190000 +0000" channel="101364">
-    <title lang="en">Work It Out Wombats!</title>
-    <sub-title lang="en">The Treeborhood Harvest Day; The Treeborhood Thankfulness Stew</sub-title>
-    <desc lang="en">The Wombats try to save Harvest Day as it becomes overrun by fog; Zeke tries to create stew that meets Mr. E's high standards.</desc>
-    <episode-num system="xmltv_ns">1.23.0</episode-num>
-    <episode-num system="onscreen">S1E23</episode-num>
-    <rating>
-      <value>TV-Y</value>
-    </rating>
-  </programme>
-  <programme start="20251202190000 +0000" stop="20251202193000 +0000" channel="101364">
-    <title lang="en">Donkey Hodie</title>
-    <sub-title lang="en">Snow Day; Snow Surprise Challenge</sub-title>
-    <desc lang="en">Panda enjoys a snow day his own way; Bob Dog wants to win at Gameshow Gator's new snowy game.</desc>
-    <episode-num system="xmltv_ns">1.32.0</episode-num>
-    <episode-num system="onscreen">S1E32</episode-num>
-    <rating>
-      <value>TV-Y</value>
-    </rating>
-  </programme>
-  <programme start="20251202193000 +0000" stop="20251202200000 +0000" channel="101364">
+  <programme start="20251202120000 +0000" stop="20251202123000 +0000" channel="101364">
     <title lang="en">Pinkalicious &amp; Peterrific</title>
     <sub-title lang="en">Night of 1000 Stars; Scavenger Hunt</sub-title>
     <desc lang="en">Ms. Penny shows the class how to make origami stars; Pinkalicious and Kendra compete against Peter and Robotta in a scavenger hunt.</desc>
@@ -6147,119 +6433,334 @@
       <value>TV-Y</value>
     </rating>
   </programme>
-  <programme start="20251202200000 +0000" stop="20251202203000 +0000" channel="101364">
-    <title lang="en">Elinor Wonders Why</title>
-    <sub-title lang="en">Butterfly Babies; Elinor's Circus</sub-title>
-    <desc lang="en">While observing butterflies and caterpillars, the kids realize they've never seen a baby butterfly; Elinor, Ari and Olive put on a circus for their friends.</desc>
+  <programme start="20251202123000 +0000" stop="20251202130000 +0000" channel="101364">
+    <title lang="en">Curious George</title>
+    <sub-title lang="en">School of Dance; Curious George Sounds Off</sub-title>
+    <desc lang="en">George creates a dance map to help Bill learn the steps; George tries to soundproof the chicken coop.</desc>
+    <episode-num system="xmltv_ns">6.1.0</episode-num>
+    <episode-num system="onscreen">S6E1</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20251202130000 +0000" stop="20251202133000 +0000" channel="101364">
+    <title lang="en">Sesame Street</title>
+    <sub-title lang="en">The Oct-Dough-pus</sub-title>
+    <desc lang="en">Grover and his octopus friend fill a customers orders while learning that families all over the world make bread in different ways.</desc>
+    <episode-num system="xmltv_ns">54.2.0</episode-num>
+    <episode-num system="onscreen">S54E2</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20251202133000 +0000" stop="20251202140000 +0000" channel="101364">
+    <title lang="en">Milo</title>
+    <sub-title lang="en">Milo the Farmer</sub-title>
+    <desc lang="en">When Farmer Tilly visits Scrubby's, Milo, Lofty and Lark wish they could become farmers who spend time with the animals.</desc>
+    <episode-num system="xmltv_ns">1.7.0</episode-num>
+    <episode-num system="onscreen">S1E7</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20251202140000 +0000" stop="20251202143000 +0000" channel="101364">
+    <title lang="en">Work It Out Wombats!</title>
+    <sub-title lang="en">JunJun's Wake-Up Call; Stack 'Em Up</sub-title>
+    <desc lang="en">Ice cream for breakfast; Zeke tackles cleaning Super's closet.</desc>
     <episode-num system="xmltv_ns">1.19.0</episode-num>
     <episode-num system="onscreen">S1E19</episode-num>
     <rating>
       <value>TV-Y</value>
     </rating>
   </programme>
+  <programme start="20251202143000 +0000" stop="20251202150000 +0000" channel="101364">
+    <title lang="en">Work It Out Wombats!</title>
+    <sub-title lang="en">Treeborhood Carnaval; Magic Tricky</sub-title>
+    <desc lang="en">Sammy plans a surprise Carnaval for his dad while Quique plans a surprise treat for his son; Malik performs a magic trick.</desc>
+    <episode-num system="xmltv_ns">1.27.0</episode-num>
+    <episode-num system="onscreen">S1E27</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20251202150000 +0000" stop="20251202153000 +0000" channel="101364">
+    <title lang="en">Daniel Tiger's Neighborhood</title>
+    <sub-title lang="en">Daniel Uses a Bathroom; The Neighborhood Concert</sub-title>
+    <desc lang="en">Daniel uses a different bathroom at the train station and Juan uses the bathroom at the Music Shop; O uses the bathroom at Jodi's house.</desc>
+    <episode-num system="xmltv_ns">7.9.0</episode-num>
+    <episode-num system="onscreen">S7E9</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20251202153000 +0000" stop="20251202160000 +0000" channel="101364">
+    <title lang="en">Daniel Tiger's Neighborhood</title>
+    <sub-title lang="en">The Tiger Family Grows; Daniel Learns About Being a Big Brother</sub-title>
+    <desc lang="en">Daniel finds out he is going to be a big brother; Daniel wants to help prepare the baby's room but struggles with having to give up his old things for his new sibling.</desc>
+    <episode-num system="xmltv_ns">2.1.0</episode-num>
+    <episode-num system="onscreen">S2E1</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20251202160000 +0000" stop="20251202163000 +0000" channel="101364">
+    <title lang="en">Carl the Collector</title>
+    <sub-title lang="en">Lemons!; The Butterfly Collection</sub-title>
+    <desc lang="en">Carl surprises Sheldon with a lemonade stand, but is confused when Sheldon runs off; Carl's caterpillars turn into butterflies.</desc>
+    <episode-num system="xmltv_ns">1.3.0</episode-num>
+    <episode-num system="onscreen">S1E3</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20251202163000 +0000" stop="20251202170000 +0000" channel="101364">
+    <title lang="en">Carl the Collector</title>
+    <sub-title lang="en">The Tool Collection; The Stick Collection</sub-title>
+    <desc lang="en">Carl gets a universal screwdriver for his birthday; a storm creates a hole in the walkway to Carl's house.</desc>
+    <episode-num system="xmltv_ns">1.5.0</episode-num>
+    <episode-num system="onscreen">S1E5</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20251202170000 +0000" stop="20251202173000 +0000" channel="101364">
+    <title lang="en">Donkey Hodie</title>
+    <sub-title lang="en">The Royal Sandcastle Builders; Bobski Bounce</sub-title>
+    <desc lang="en">Donkey and Panda get frustrated when the sandcastle they are building at the beach keeps falling; Donkey tries to complete the Bobski Bounce Challenge.</desc>
+    <episode-num system="xmltv_ns">1.13.0</episode-num>
+    <episode-num system="onscreen">S1E13</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20251202173000 +0000" stop="20251202180000 +0000" channel="101364">
+    <title lang="en">Donkey Hodie</title>
+    <sub-title lang="en">The Cow and Potato Bug Opera; Everything Explorers</sub-title>
+    <desc lang="en">Donkey is excited about directing a new show starring all her pals; Donkey and Panda discover a surprise spider.</desc>
+    <episode-num system="xmltv_ns">1.14.0</episode-num>
+    <episode-num system="onscreen">S1E14</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20251202180000 +0000" stop="20251202183000 +0000" channel="101364">
+    <title lang="en">Elinor Wonders Why</title>
+    <sub-title lang="en">The Paper Trail; Bath Time</sub-title>
+    <desc lang="en">Elinor and her friends need to find more paper for their storybook; Elinor, Ari and Olive learn about different ways that animals keep themselves clean.</desc>
+    <episode-num system="xmltv_ns">1.12.0</episode-num>
+    <episode-num system="onscreen">S1E12</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20251202183000 +0000" stop="20251202190000 +0000" channel="101364">
+    <title lang="en">Rosie's Rules</title>
+    <sub-title lang="en">Mom's Snowy Day; Rosie's Nature Adventure</sub-title>
+    <desc lang="en">Rosie tries to make a snowy winter in the backyard for Mom; Lote falls in the river during a hike in a national park.</desc>
+    <episode-num system="xmltv_ns">1.10.0</episode-num>
+    <episode-num system="onscreen">S1E10</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20251202190000 +0000" stop="20251202193000 +0000" channel="101364">
+    <title lang="en">Rosie's Rules</title>
+    <sub-title lang="en">Dragon Drama; Rosie's Lucky Charm</sub-title>
+    <desc lang="en">When Rosie and Javi find out Tia's bringing home a dragon, they anxiously prepare for its arrival; Rosie finds a lucky charm in her backyard, but soon her luck starts to change.</desc>
+    <episode-num system="xmltv_ns">1.20.0</episode-num>
+    <episode-num system="onscreen">S1E20</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20251202193000 +0000" stop="20251202200000 +0000" channel="101364">
+    <title lang="en">Xavier Riddle and the Secret Museum</title>
+    <sub-title lang="en">I Am Theodore Roosevelt; I Am Eleanor Roosevelt</sub-title>
+    <desc lang="en">Theodore Roosevelt helps Brad overcome his dislike of creepy crawly things, showing him that nature needs space to live and grow; Eleanor Roosevelt teaches Xavier that any job can be amazing as long as you help others.</desc>
+    <episode-num system="xmltv_ns">1.16.0</episode-num>
+    <episode-num system="onscreen">S1E16</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20251202200000 +0000" stop="20251202203000 +0000" channel="101364">
+    <title lang="en">Molly of Denali</title>
+    <sub-title lang="en">Suki's Bone; Brand New Flag</sub-title>
+    <desc lang="en">Suki makes an important archaeological discovery when he digs up an old bone tool covered with markings; Molly runs a contest to design an original flag for the Denali Trading Post.</desc>
+    <episode-num system="xmltv_ns">1.10.0</episode-num>
+    <episode-num system="onscreen">S1E10</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
   <programme start="20251202203000 +0000" stop="20251202210000 +0000" channel="101364">
     <title lang="en">Alma's Way</title>
-    <sub-title lang="en">No Sleep 'Til New Year's; Nurse Alma</sub-title>
-    <desc lang="en">Alma and Junior want to stay awake until midnight on New Year's Eve; when Eddie Mambo gets sick, Alma tries to help him get better.</desc>
-    <episode-num system="xmltv_ns">2.15.0</episode-num>
-    <episode-num system="onscreen">S2E15</episode-num>
+    <sub-title lang="en">Chacho Gets a Bath; Frankie's Four Feet</sub-title>
+    <desc lang="en">A dirty Chacho runs away at the park; Alma realizes that Frankie's old sneakers are more valuable than they appear.</desc>
+    <episode-num system="xmltv_ns">1.26.0</episode-num>
+    <episode-num system="onscreen">S1E26</episode-num>
     <rating>
       <value>TV-Y</value>
     </rating>
   </programme>
   <programme start="20251202210000 +0000" stop="20251202213000 +0000" channel="101364">
-    <title lang="en">Molly of Denali</title>
-    <sub-title lang="en">Meteorite, Out of Sight; Not a Mascot</sub-title>
-    <desc lang="en">Molly and Tooey set out to find a meteorite; Molly, Tooey and Trini try to convince the Sitka basketball team to change its name.</desc>
-    <episode-num system="xmltv_ns">4.3.0</episode-num>
-    <episode-num system="onscreen">S4E3</episode-num>
+    <title lang="en">Lyla in the Loop</title>
+    <sub-title lang="en">Moon Rock Cove; Rainbow Collection</sub-title>
+    <desc lang="en">Liana and Louisa compete to see who is more outdoorsy; the Loops are bored on their camping trip until Lyla suggests a scavenger hunt.</desc>
+    <episode-num system="xmltv_ns">1.17.0</episode-num>
+    <episode-num system="onscreen">S1E17</episode-num>
     <rating>
       <value>TV-Y</value>
     </rating>
   </programme>
   <programme start="20251202213000 +0000" stop="20251202220000 +0000" channel="101364">
-    <title lang="en">Xavier Riddle and the Secret Museum</title>
-    <sub-title lang="en">I Am Hedy Lamarr; I Am Archimedes</sub-title>
-    <desc lang="en">Hedy Lamarr shows Yadina that she can do more than one thing; Xavier, Yadina and Brad learn that creative thinking can lead to new ideas.</desc>
-    <episode-num system="xmltv_ns">2.6.0</episode-num>
-    <episode-num system="onscreen">S2E6</episode-num>
+    <title lang="en">Weather Hunters</title>
+    <sub-title lang="en">Finding Cumulus</sub-title>
+    <desc lang="en">The Hunters find a stowaway in their picnic basket, a little furry dog.</desc>
+    <episode-num system="xmltv_ns">1.3.0</episode-num>
+    <episode-num system="onscreen">S1E3</episode-num>
     <rating>
       <value>TV-Y</value>
     </rating>
   </programme>
   <programme start="20251202220000 +0000" stop="20251202223000 +0000" channel="101364">
-    <title lang="en">Baking With Julia</title>
-    <sub-title lang="en">A Three-Tiered Wedding Cake With Martha Stewart, Part 2</sub-title>
-    <desc lang="en">Martha Stewart assembles a wedding cake, from the initial layering to building the support structure.</desc>
-    <episode-num system="xmltv_ns">3.2.0</episode-num>
-    <episode-num system="onscreen">S3E2</episode-num>
+    <title lang="en">Odd Squad</title>
+    <sub-title lang="en">Reindeer Games</sub-title>
+    <desc lang="en">Olive and Otto help Santa find his reindeer; Oscar helps Ms. O get off Santa's naughty list.</desc>
+    <episode-num system="xmltv_ns">1.5.0</episode-num>
+    <episode-num system="onscreen">S1E5</episode-num>
     <rating>
-      <value>TV-G</value>
+      <value>TV-Y</value>
     </rating>
   </programme>
   <programme start="20251202223000 +0000" stop="20251202230000 +0000" channel="101364">
-    <title lang="en">Ask This Old House</title>
-    <sub-title lang="en">Sandstone Repair; Awning Installation</sub-title>
-    <desc lang="en">Repairing sandstone steps; how to avoid being scammed by a solar company; installing an awning for a back door.</desc>
-    <episode-num system="xmltv_ns">21.6.0</episode-num>
-    <episode-num system="onscreen">S21E6</episode-num>
+    <title lang="en">Skillsville</title>
+    <sub-title lang="en">Game Tester; Interior Designer</sub-title>
+    <desc lang="en">The kids offer to help Cora's mom by becoming Skillsville Game Testers; Rae takes on the role of an interior designer.</desc>
+    <episode-num system="xmltv_ns">1.4.0</episode-num>
+    <episode-num system="onscreen">S1E4</episode-num>
     <rating>
-      <value>TV-G</value>
+      <value>TV-Y</value>
     </rating>
   </programme>
-  <programme start="20251202230000 +0000" stop="20251203000000 +0000" channel="101364">
-    <title lang="en">The Great American Recipe</title>
-    <desc lang="en">Challenges for the home cooks include a best-in-a-pinch recipe and a noodle dish representing their heritage.</desc>
-    <episode-num system="xmltv_ns">2.2.0</episode-num>
-    <episode-num system="onscreen">S2E2</episode-num>
+  <programme start="20251202230000 +0000" stop="20251202233000 +0000" channel="101364">
+    <title lang="en">Wild Kratts</title>
+    <sub-title lang="en">Stuck on Sharks</sub-title>
+    <desc lang="en">Martin and Chris befriend a female white shark.</desc>
+    <episode-num system="xmltv_ns">1.24.0</episode-num>
+    <episode-num system="onscreen">S1E24</episode-num>
     <rating>
-      <value>TV-G</value>
+      <value>TV-Y</value>
     </rating>
   </programme>
-  <programme start="20251203000000 +0000" stop="20251203010000 +0000" channel="101364">
-    <title lang="en">Finding Your Roots With Henry Louis Gates, Jr.</title>
-    <sub-title lang="en">Things We Don't Discuss</sub-title>
-    <desc lang="en">Pamela Adlon and Kathryn Hahn explore their family histories.</desc>
-    <episode-num system="xmltv_ns">8.4.0</episode-num>
-    <episode-num system="onscreen">S8E4</episode-num>
+  <programme start="20251202233000 +0000" stop="20251203000000 +0000" channel="101364">
+    <title lang="en">Weather Hunters</title>
+    <sub-title lang="en">Finding Cumulus</sub-title>
+    <desc lang="en">The Hunters find a stowaway in their picnic basket, a little furry dog.</desc>
+    <episode-num system="xmltv_ns">1.3.0</episode-num>
+    <episode-num system="onscreen">S1E3</episode-num>
     <rating>
-      <value>TV-PG</value>
+      <value>TV-Y</value>
     </rating>
   </programme>
-  <programme start="20251203010000 +0000" stop="20251203020000 +0000" channel="101364">
-    <title lang="en">Lidia Celebrates America</title>
-    <sub-title lang="en">A Nation of Neighbors</sub-title>
-    <desc lang="en">Lidia Bastianich highlights communities coming together in times of need, including selfless acts that foster connection and fulfillment on both sides.</desc>
-    <episode-num system="xmltv_ns">12.1.0</episode-num>
-    <episode-num system="onscreen">S12E1</episode-num>
+  <programme start="20251203000000 +0000" stop="20251203003000 +0000" channel="101364">
+    <title lang="en">Lyla in the Loop</title>
+    <sub-title lang="en">Moon Rock Cove; Rainbow Collection</sub-title>
+    <desc lang="en">Liana and Louisa compete to see who is more outdoorsy; the Loops are bored on their camping trip until Lyla suggests a scavenger hunt.</desc>
+    <episode-num system="xmltv_ns">1.17.0</episode-num>
+    <episode-num system="onscreen">S1E17</episode-num>
     <rating>
-      <value>TV-PG</value>
+      <value>TV-Y</value>
     </rating>
   </programme>
-  <programme start="20251203020000 +0000" stop="20251203030000 +0000" channel="101364">
-    <title lang="en">Antiques Roadshow</title>
-    <sub-title lang="en">Junk in the Trunk 9</sub-title>
-    <desc lang="en">A 1949 Charles and Ray Eames molded chairs; a Sioux pipe and pipe bag circa 1880; a 1953 MAD Issue #8 &quot;Frank N. Stein&quot; story.</desc>
-    <episode-num system="xmltv_ns">23.25.0</episode-num>
-    <episode-num system="onscreen">S23E25</episode-num>
+  <programme start="20251203003000 +0000" stop="20251203010000 +0000" channel="101364">
+    <title lang="en">Arthur</title>
+    <sub-title lang="en">Lights, Camera ... Opera!; All Worked Up</sub-title>
+    <desc lang="en">Muffy gets opera tickets; Arthur's mom gets a new job.</desc>
+    <episode-num system="xmltv_ns">9.5.0</episode-num>
+    <episode-num system="onscreen">S9E5</episode-num>
     <rating>
-      <value>TV-G</value>
+      <value>TV-Y</value>
     </rating>
   </programme>
-  <programme start="20251203030000 +0000" stop="20251203040000 +0000" channel="101364">
-    <title lang="en">PBS News Hour</title>
-    <desc lang="en">Co-anchors Amna Nawaz and Geoff Bennett and correspondents offer in-depth analysis of current events.</desc>
-    <episode-num system="xmltv_ns">52.111.0</episode-num>
-    <episode-num system="onscreen">S52E111</episode-num>
-  </programme>
-  <programme start="20251203040000 +0000" stop="20251203050000 +0000" channel="101364">
-    <title lang="en">Iconic America: Our Symbols and Stories With David Rubenstein</title>
-    <sub-title lang="en">The Hollywood Sign</sub-title>
-    <desc lang="en">A real estate advertisement erected in 1923 becomes an international symbol of fame, fortune and the American dream.</desc>
-    <episode-num system="xmltv_ns">1.2.0</episode-num>
-    <episode-num system="onscreen">S1E2</episode-num>
+  <programme start="20251203010000 +0000" stop="20251203013000 +0000" channel="101364">
+    <title lang="en">Nature Cat</title>
+    <sub-title lang="en">ATV Adventure; Nature Buddy Breakup</sub-title>
+    <desc lang="en">Nature Cat and pals hike to the top of Mighty Mountain; the pals split up after an argument.</desc>
+    <episode-num system="xmltv_ns">5.9.0</episode-num>
+    <episode-num system="onscreen">S5E9</episode-num>
     <rating>
-      <value>TV-14</value>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20251203013000 +0000" stop="20251203020000 +0000" channel="101364">
+    <title lang="en">Hero Elementary</title>
+    <sub-title lang="en">Friends of the Forest; Chicken Hero</sub-title>
+    <desc lang="en">The heroes embark on a mission with Branchman to plan a solution to use less paper; the crew tries to track down a chicken on the loose.</desc>
+    <episode-num system="xmltv_ns">1.37.0</episode-num>
+    <episode-num system="onscreen">S1E37</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20251203020000 +0000" stop="20251203023000 +0000" channel="101364">
+    <title lang="en">Cyberchase</title>
+    <sub-title lang="en">Snow Day to Be Exact</sub-title>
+    <desc lang="en">The team uses estimation to recover the sunisphere from Hacker.</desc>
+    <episode-num system="xmltv_ns">1.4.0</episode-num>
+    <episode-num system="onscreen">S1E4</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20251203023000 +0000" stop="20251203030000 +0000" channel="101364">
+    <title lang="en">Let's Go Luna!</title>
+    <sub-title lang="en">A Moon's Trip to Paris; If a Hamster Could Fly</sub-title>
+    <desc lang="en">Andy learns about movie magic in Paris; Carmen chases a hot air balloon.</desc>
+    <episode-num system="xmltv_ns">2.19.0</episode-num>
+    <episode-num system="onscreen">S2E19</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20251203030000 +0000" stop="20251203033000 +0000" channel="101364">
+    <title lang="en">Rosie's Rules</title>
+    <sub-title lang="en">Dragon Drama; Rosie's Lucky Charm</sub-title>
+    <desc lang="en">When Rosie and Javi find out Tia's bringing home a dragon, they anxiously prepare for its arrival; Rosie finds a lucky charm in her backyard, but soon her luck starts to change.</desc>
+    <episode-num system="xmltv_ns">1.20.0</episode-num>
+    <episode-num system="onscreen">S1E20</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20251203033000 +0000" stop="20251203040000 +0000" channel="101364">
+    <title lang="en">Xavier Riddle and the Secret Museum</title>
+    <sub-title lang="en">I Am Theodore Roosevelt; I Am Eleanor Roosevelt</sub-title>
+    <desc lang="en">Theodore Roosevelt helps Brad overcome his dislike of creepy crawly things, showing him that nature needs space to live and grow; Eleanor Roosevelt teaches Xavier that any job can be amazing as long as you help others.</desc>
+    <episode-num system="xmltv_ns">1.16.0</episode-num>
+    <episode-num system="onscreen">S1E16</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20251203040000 +0000" stop="20251203043000 +0000" channel="101364">
+    <title lang="en">Molly of Denali</title>
+    <sub-title lang="en">Suki's Bone; Brand New Flag</sub-title>
+    <desc lang="en">Suki makes an important archaeological discovery when he digs up an old bone tool covered with markings; Molly runs a contest to design an original flag for the Denali Trading Post.</desc>
+    <episode-num system="xmltv_ns">1.10.0</episode-num>
+    <episode-num system="onscreen">S1E10</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20251203043000 +0000" stop="20251203050000 +0000" channel="101364">
+    <title lang="en">Alma's Way</title>
+    <sub-title lang="en">Chacho Gets a Bath; Frankie's Four Feet</sub-title>
+    <desc lang="en">A dirty Chacho runs away at the park; Alma realizes that Frankie's old sneakers are more valuable than they appear.</desc>
+    <episode-num system="xmltv_ns">1.26.0</episode-num>
+    <episode-num system="onscreen">S1E26</episode-num>
+    <rating>
+      <value>TV-Y</value>
     </rating>
   </programme>
   <channel id="56725">
