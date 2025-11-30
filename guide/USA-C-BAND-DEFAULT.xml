@@ -3557,6 +3557,63 @@
       <value>TV-G</value>
     </rating>
   </programme>
+  <channel id="30174">
+    <display-name>Enlace</display-name>
+  </channel>
+  <programme start="20251130080000 +0000" stop="20251130110000 +0000" channel="30174">
+    <title lang="en">Enlace TV</title>
+  </programme>
+  <programme start="20251130110000 +0000" stop="20251130150000 +0000" channel="30174">
+    <title lang="en">Enlace TV</title>
+  </programme>
+  <programme start="20251130150000 +0000" stop="20251130190000 +0000" channel="30174">
+    <title lang="en">Enlace TV</title>
+  </programme>
+  <programme start="20251130190000 +0000" stop="20251130230000 +0000" channel="30174">
+    <title lang="en">Enlace TV</title>
+  </programme>
+  <programme start="20251130230000 +0000" stop="20251201030000 +0000" channel="30174">
+    <title lang="en">Enlace TV</title>
+  </programme>
+  <programme start="20251201030000 +0000" stop="20251201070000 +0000" channel="30174">
+    <title lang="en">Enlace TV</title>
+  </programme>
+  <programme start="20251201070000 +0000" stop="20251201110000 +0000" channel="30174">
+    <title lang="en">Enlace TV</title>
+  </programme>
+  <programme start="20251201110000 +0000" stop="20251201150000 +0000" channel="30174">
+    <title lang="en">Enlace TV</title>
+  </programme>
+  <programme start="20251201150000 +0000" stop="20251201190000 +0000" channel="30174">
+    <title lang="en">Enlace TV</title>
+  </programme>
+  <programme start="20251201190000 +0000" stop="20251201230000 +0000" channel="30174">
+    <title lang="en">Enlace TV</title>
+  </programme>
+  <programme start="20251201230000 +0000" stop="20251202030000 +0000" channel="30174">
+    <title lang="en">Enlace TV</title>
+  </programme>
+  <programme start="20251202030000 +0000" stop="20251202070000 +0000" channel="30174">
+    <title lang="en">Enlace TV</title>
+  </programme>
+  <programme start="20251202070000 +0000" stop="20251202110000 +0000" channel="30174">
+    <title lang="en">Enlace TV</title>
+  </programme>
+  <programme start="20251202110000 +0000" stop="20251202150000 +0000" channel="30174">
+    <title lang="en">Enlace TV</title>
+  </programme>
+  <programme start="20251202150000 +0000" stop="20251202190000 +0000" channel="30174">
+    <title lang="en">Enlace TV</title>
+  </programme>
+  <programme start="20251202190000 +0000" stop="20251202230000 +0000" channel="30174">
+    <title lang="en">Enlace TV</title>
+  </programme>
+  <programme start="20251202230000 +0000" stop="20251203030000 +0000" channel="30174">
+    <title lang="en">Enlace TV</title>
+  </programme>
+  <programme start="20251203030000 +0000" stop="20251203070000 +0000" channel="30174">
+    <title lang="en">Enlace TV</title>
+  </programme>
   <channel id="82462">
     <display-name>First Nations Experience</display-name>
   </channel>
