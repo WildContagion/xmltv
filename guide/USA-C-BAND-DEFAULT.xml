@@ -3614,6 +3614,851 @@
   <programme start="20251203030000 +0000" stop="20251203070000 +0000" channel="30174">
     <title lang="en">Enlace TV</title>
   </programme>
+  <channel id="10183">
+    <display-name>Eternal Word Television Network</display-name>
+  </channel>
+  <programme start="20251130053000 +0000" stop="20251130060000 +0000" channel="10183">
+    <title lang="en">EWTN Special Report: The Future of Christianity in Turkey</title>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251130060000 +0000" stop="20251130063000 +0000" channel="10183">
+    <title lang="en">Saint Catherine Labouré -- A Silent Herald of Love</title>
+    <desc lang="en">The life story of St. Catherine Labouré, the nun whose visions of the Blessed Virgin Mary in 1830 led to the creation of the Miraculous Medal; her body was found completely intact after her death.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251130063000 +0000" stop="20251130071500 +0000" channel="10183">
+    <title lang="en">Pope Leo Xiv In Turkey</title>
+    <sub-title lang="en">Prayer Visit At The Armenian Apostolic Cathedral</sub-title>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251130071500 +0000" stop="20251130073000 +0000" channel="10183">
+    <title lang="en">An Answer to Prayer</title>
+    <sub-title lang="en">Answer to Prayer: The Divine Mercy Chapel</sub-title>
+    <desc lang="en">The story of Dayspring's founder, Sr. Francis Bisland, who built a chapel for the 'special needs' community she founded in Pennsylvania.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251130073000 +0000" stop="20251130094500 +0000" channel="10183">
+    <title lang="en">Pope Leo Xiv In Turkey</title>
+    <sub-title lang="en">Divine Liturgy</sub-title>
+    <desc lang="en">From the Patriarchal Church of Saint George in Istanbul, Turkey.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251130094500 +0000" stop="20251130100000 +0000" channel="10183">
+    <title lang="en">Gospel Glimpses</title>
+    <sub-title lang="en">What Do You Think About Celibacy</sub-title>
+    <desc lang="en">Selection of lectures providing an insight into some of the most overlooked passages in the Bible.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251130100000 +0000" stop="20251130103000 +0000" channel="10183">
+    <title lang="en">Icons</title>
+    <sub-title lang="en">Persevere</sub-title>
+    <desc lang="en">On the streets of New York, Veronica Caballero makes a difference as a project coordinator for a Catholic organization promoting a culture of life among teens and young adults.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251130103000 +0000" stop="20251130110000 +0000" channel="10183">
+    <title lang="en">Where God Weeps</title>
+    <sub-title lang="en">The Calvary of Migrants Departing From Western Sahara</sub-title>
+    <desc lang="en">Fr Leon Dorado talks about his mission in Western Sahara and the value of promoting hope and reconciliation.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251130110000 +0000" stop="20251130113000 +0000" channel="10183">
+    <title lang="en">Advent Maranatha</title>
+    <desc lang="en">Advent is the season of preparation, and Maranatha signals the coming of our Lord at Christmas. Get ready to receive Him by turning away from sin and proactively pursuing good deeds.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251130113000 +0000" stop="20251130120000 +0000" channel="10183">
+    <title lang="en">Onward, Pilgrims</title>
+    <sub-title lang="en">New York</sub-title>
+    <desc lang="en">Meet the cast at the start of their adventure in episode one. What will be different about them after this 15-day sojourn?</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251130120000 +0000" stop="20251130123000 +0000" channel="10183">
+    <title lang="en">The Chaplet of St. Michael</title>
+    <desc lang="en">Mother Angelica and the Nuns of Our Lady of the Angels Monastery ask for the intercession of the Prince of the Heavenly Hosts and the nine Choirs of Angels, as they pray the chaplet of St. Michael.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251130123000 +0000" stop="20251130125000 +0000" channel="10183">
+    <title lang="en">Holy Land Rosary</title>
+    <sub-title lang="en">Joyful Mysteries</sub-title>
+    <desc lang="en">Fr. Mitch Pacwa leads the Joyful Mysteries of the Rosary from the actual holy sites and shrines where they took place, bringing the Gospels to life and offering a deeper understanding of the Rosary meditations.</desc>
+    <episode-num system="xmltv_ns">1.3.0</episode-num>
+    <episode-num system="onscreen">S1E3</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251130125000 +0000" stop="20251130130000 +0000" channel="10183">
+    <title lang="en">The Litany of the Blessed Virgin Mary</title>
+    <desc lang="en">A beautiful prayer in honor of the Blessed Virgin Mary from the Shrine of the Most Blessed Sacrament in Hanceville, Alabama.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251130130000 +0000" stop="20251130142000 +0000" channel="10183">
+    <title lang="en">Sunday Mass</title>
+    <desc lang="en">The Franciscan Missionaries of the Eternal Word celebrate the Holy Sacrifice of the Mass each Sunday from Our Lady of the Angels Chapel.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251130142000 +0000" stop="20251130143000 +0000" channel="10183">
+    <title lang="en">Litany of the Sacred Heart</title>
+    <desc lang="en">The Franciscan Missionaries of the Eternal Word pray the Litany of the Sacred Heart.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251130143000 +0000" stop="20251130144500 +0000" channel="10183">
+    <title lang="en">Crux</title>
+    <desc lang="en">Bishop Donald Hying encourages viewers to live in the quiet of the moment in order to hear and understand God's plan for their lives.</desc>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20251130144500 +0000" stop="20251130151500 +0000" channel="10183">
+    <title lang="en">Pope Leo XIV In Lebanon</title>
+    <sub-title lang="en">VISIT TO THE PRESIDENT OF THE REPUBLIC</sub-title>
+    <desc lang="en">From Beirut, Lebanon.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251130151500 +0000" stop="20251130153000 +0000" channel="10183">
+    <title lang="en">Pope Leo XIV In Lebanon</title>
+    <sub-title lang="en">MEETING WITH THE PRESIDENT OF THE NATIONAL ASSEMBLY</sub-title>
+    <desc lang="en">From Beirut, Lebanon.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251130153000 +0000" stop="20251130154500 +0000" channel="10183">
+    <title lang="en">The Catholic Center at NYU: An Icon of the New Evangelization</title>
+    <desc lang="en">The Dominican-run center at New York University.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251130154500 +0000" stop="20251130163000 +0000" channel="10183">
+    <title lang="en">Pope Leo XIV In Lebanon</title>
+    <sub-title lang="en">MEETING WITH THE AUTHORITIES, CIVIL SOCIETY AND THE DIPLOMATIC CORPS</sub-title>
+    <desc lang="en">From Beirut, Lebanon.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251130163000 +0000" stop="20251130170000 +0000" channel="10183">
+    <title lang="en">Aid to the Church in Need</title>
+    <sub-title lang="en">Lebanon: - Seven Seconds</sub-title>
+    <desc lang="en">On August 4, 2020, an explosion of some 2750 metric tons of ammonium nitrate - the largest non-nuclear explosion ever recorded - devastated the port of Beirut and the Christian quarter of the Lebanese capital. Its impact triggered an earthquake, and.</desc>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20251130170000 +0000" stop="20251130182000 +0000" channel="10183">
+    <title lang="en">Sunday Mass</title>
+    <desc lang="en">The Franciscan Missionaries of the Eternal Word celebrate the Holy Sacrifice of the Mass each Sunday from Our Lady of the Angels Chapel.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251130182000 +0000" stop="20251130183000 +0000" channel="10183">
+    <title lang="en">Litany of the Sacred Heart</title>
+    <desc lang="en">The Franciscan Missionaries of the Eternal Word pray the Litany of the Sacred Heart.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251130183000 +0000" stop="20251130200000 +0000" channel="10183">
+    <title lang="en">In Concert: European Concert From Prague</title>
+    <desc lang="en">The Berliner Philharmoniker performs Vaughan Williams' Fantasia on a Theme by Thomas Tallis, Dvorak's Biblical Songs Op. 99, and Beethoven's Pastorale Symphony No. 6 in F major. From the historic Spanish Hall in Prague.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251130200000 +0000" stop="20251130202000 +0000" channel="10183">
+    <title lang="en">The Chaplet of Divine Mercy</title>
+    <desc lang="en">Devotional prayer from the chapel of the National Shrine of the Divine Mercy in Stockbridge, Mass.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251130202000 +0000" stop="20251130203000 +0000" channel="10183">
+    <title lang="en">Live Adoration From EWTN Chapel</title>
+    <desc lang="en">Priests conduct adoration at Our Lady of the Angels Chapel in Irondale, Alabama.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251130203000 +0000" stop="20251130210000 +0000" channel="10183">
+    <title lang="en">Advent Reflections</title>
+    <sub-title lang="en">First Week Of Advent: Waiting In Joyful Hope</sub-title>
+    <desc lang="en">Four weekly Advent meditations.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251130210000 +0000" stop="20251130213000 +0000" channel="10183">
+    <title lang="en">Miracles of the Eucharist</title>
+    <sub-title lang="en">Lanciano</sub-title>
+    <desc lang="en">Michael O'Neil examines an early but famous Eucharistic miracle, where scientists found human flesh and blood on a consecrated host after the doubts of an eighth-century Basilian monk.</desc>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20251130213000 +0000" stop="20251130220000 +0000" channel="10183">
+    <title lang="en">Savoring Our Faith</title>
+    <sub-title lang="en">Advent</sub-title>
+    <desc lang="en">Fr. Leo Patalinghug delivers a spiritual reflection on the season of Advent while preparing a special meal for the occasion.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251130220000 +0000" stop="20251130223500 +0000" channel="10183">
+    <title lang="en">Sunday Vespers With Benediction</title>
+    <desc lang="en">The Franciscan Missionaries of the Eternal Word celebrate Vespers and Benediction of the Blessed Sacrament from Our Lady of the Angels Chapel in Irondale, Alabama.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251130223500 +0000" stop="20251130230000 +0000" channel="10183">
+    <title lang="en">Sunday Best With Fr. Groeschel</title>
+    <sub-title lang="en">The Sacredness of Life</sub-title>
+    <desc lang="en">Fr Groeschel talks about the sacredness of life and his experience of coming back to life after a car accident.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251130230000 +0000" stop="20251130233000 +0000" channel="10183">
+    <title lang="en">Contemplation</title>
+    <desc lang="en">Marist priest and author, Fr. Thomas Dubay continues his series on contemplative prayer, with a look at passages from the New Testament that reveal the call to prayer.</desc>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20251130233000 +0000" stop="20251201014500 +0000" channel="10183">
+    <title lang="en">Pope Leo Xiv In Turkey</title>
+    <sub-title lang="en">Divine Liturgy</sub-title>
+    <desc lang="en">From the Patriarchal Church of Saint George in Istanbul, Turkey.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251201014500 +0000" stop="20251201020000 +0000" channel="10183">
+    <title lang="en">Gospel Glimpses</title>
+    <sub-title lang="en">What Do You Think About Celibacy</sub-title>
+    <desc lang="en">Selection of lectures providing an insight into some of the most overlooked passages in the Bible.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251201020000 +0000" stop="20251201023000 +0000" channel="10183">
+    <title lang="en">Life on the Rock</title>
+    <sub-title lang="en">Noelle Mering, Pt. 2</sub-title>
+    <desc lang="en">Fr. Mark Mary and his co-host, Doug Barry, host a wide variety of guests, from athletes to actors and everything in between, on this dynamic Christ-centered, youth-oriented live show.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251201023000 +0000" stop="20251201030000 +0000" channel="10183">
+    <title lang="en">Holy Rosary From Lourdes</title>
+    <desc lang="en">Pilgrims from around the world gather and pray the Rosary from the Lourdes Grotto in France, site of the famous apparitions by the Blessed Virgin Mary in 1858.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251201030000 +0000" stop="20251201040000 +0000" channel="10183">
+    <title lang="en">Saint John Vianney - Heart of the Priesthood</title>
+    <sub-title lang="en">Confessor of Souls</sub-title>
+    <desc lang="en">Bishop Mark Davies reflects on the life of Saint John Vianney, the Curé of Ars.</desc>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20251201040000 +0000" stop="20251201043000 +0000" channel="10183">
+    <title lang="en">The Doctors of the Church</title>
+    <sub-title lang="en">St. Catherine Of Siena</sub-title>
+    <desc lang="en">Dr. Matthew Bunson explores the lives of the Doctors of the Church, including St. Augustine, St. Francis de Sales, and St. Teresa of Avila.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251201043000 +0000" stop="20251201050000 +0000" channel="10183">
+    <title lang="en">My Lourdes Faith Journey</title>
+    <sub-title lang="en">Theresa Sismilich -- Pocket Pilgrims: Introducing Lalu and Friends</sub-title>
+    <desc lang="en">People from different walks of life talk about how the experiences at the Shrine of Our Lady of Lourdes transformed their lives, turning their stories of suffering and tragedy into ones of healing and faith.</desc>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20251201050000 +0000" stop="20251201062000 +0000" channel="10183">
+    <title lang="en">Sunday Mass</title>
+    <desc lang="en">The Franciscan Missionaries of the Eternal Word celebrate the Holy Sacrifice of the Mass each Sunday from Our Lady of the Angels Chapel.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251201062000 +0000" stop="20251201063000 +0000" channel="10183">
+    <title lang="en">Litany of the Sacred Heart</title>
+    <desc lang="en">The Franciscan Missionaries of the Eternal Word pray the Litany of the Sacred Heart.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251201063000 +0000" stop="20251201073000 +0000" channel="10183">
+    <title lang="en">Saint Francis Xavier and the Church of Japan</title>
+    <desc lang="en">Presenting the history of the Catholic Church in Japan and the missionary work of Saint Francis Xavier.</desc>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20251201073000 +0000" stop="20251201074500 +0000" channel="10183">
+    <title lang="en">The Catholic Center at NYU: An Icon of the New Evangelization</title>
+    <desc lang="en">The Dominican-run center at New York University.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251201074500 +0000" stop="20251201083000 +0000" channel="10183">
+    <title lang="en">Pope Leo XIV In Lebanon</title>
+    <sub-title lang="en">VISIT AND PRAYER AT THE TOMB OF SAINT CHARBEL MAKLUF</sub-title>
+    <desc lang="en">From the Monastery of Saint Maroun in Annaya in Beirut, Lebanon.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251201083000 +0000" stop="20251201090000 +0000" channel="10183">
+    <title lang="en">EWTN Religious Catalogue</title>
+    <sub-title lang="en">Christ The Almighty Cross Sterling Silver &amp; Gold</sub-title>
+    <desc lang="en">An assortment of religious articles from around the world.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251201090000 +0000" stop="20251201091500 +0000" channel="10183">
+    <title lang="en">Into the Breach</title>
+    <sub-title lang="en">The Catholic Family in a Post-Christian World</sub-title>
+    <desc lang="en">In modern culture, where Christendom is absent, Catholic families must intentionally keep their faith and live like the early apostles who were a small minority in a pagan society.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251201091500 +0000" stop="20251201103000 +0000" channel="10183">
+    <title lang="en">Pope Leo XIV In Lebanon</title>
+    <sub-title lang="en">MEETING WITH BISHOPS, PRIESTS, CONSECRATED PERSONS AND PASTORAL WORKERS</sub-title>
+    <desc lang="en">From the Shrine of Our Lady of Lebanon in Harissa in Beirut, Lebanon.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251201103000 +0000" stop="20251201110000 +0000" channel="10183">
+    <title lang="en">Grab Your Catechism with Fr. Connor</title>
+    <sub-title lang="en">The Life of Prayer and the Battle of Prayer</sub-title>
+    <desc lang="en">Fr. Charles Connor goes over the common objections people often have to prayer, and the means to overcome the struggles of our human nature and our reservations.</desc>
+    <episode-num system="xmltv_ns">2.24.0</episode-num>
+    <episode-num system="onscreen">S2E24</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251201110000 +0000" stop="20251201113000 +0000" channel="10183">
+    <title lang="en">Living Divine Mercy</title>
+    <sub-title lang="en">Fr. Andy Explains Thanksgiving And The Eucharist</sub-title>
+    <desc lang="en">Fr. Andy Davy explores the connection between Thanksgiving and the Eucharist. Anthony Liguori, Jr. also shares his story and how he is using his God-given talents to evangelize.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251201113000 +0000" stop="20251201120000 +0000" channel="10183">
+    <title lang="en">Onward, Pilgrims</title>
+    <sub-title lang="en">Lourdes, Part 1</sub-title>
+    <desc lang="en">We landed in a pristine town, at the foot of the Pyrenees Mountains We were about to dive into a sea of authenticity, world of the sick and aging. And it became a cleansing place.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251201120000 +0000" stop="20251201123000 +0000" channel="10183">
+    <title lang="en">The Chaplet of St. Michael</title>
+    <desc lang="en">Mother Angelica and the Nuns of Our Lady of the Angels Monastery ask for the intercession of the Prince of the Heavenly Hosts and the nine Choirs of Angels, as they pray the chaplet of St. Michael.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251201123000 +0000" stop="20251201125000 +0000" channel="10183">
+    <title lang="en">Holy Land Rosary</title>
+    <sub-title lang="en">Joyful Mysteries</sub-title>
+    <desc lang="en">Fr. Mitch Pacwa leads the Joyful Mysteries of the Rosary from the actual holy sites and shrines where they took place, bringing the Gospels to life and offering a deeper understanding of the Rosary meditations.</desc>
+    <episode-num system="xmltv_ns">1.3.0</episode-num>
+    <episode-num system="onscreen">S1E3</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251201125000 +0000" stop="20251201130000 +0000" channel="10183">
+    <title lang="en">The Litany of the Blessed Virgin Mary</title>
+    <desc lang="en">A beautiful prayer in honor of the Blessed Virgin Mary from the Shrine of the Most Blessed Sacrament in Hanceville, Alabama.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251201130000 +0000" stop="20251201140000 +0000" channel="10183">
+    <title lang="en">Daily Mass: Olam Daily Mass</title>
+    <desc lang="en">The Franciscan Missionaries of the Eternal Word celebrate the Holy Sacrifice of the Mass from the Our Lady of Angels Chapel in Irondale, Ala.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251201140000 +0000" stop="20251201150000 +0000" channel="10183">
+    <title lang="en">Pope Leo XIV In Lebanon</title>
+    <sub-title lang="en">ECUMENICAL AND INTERRELIGIOUS MEETING</sub-title>
+    <desc lang="en">From Martyrs.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251201150000 +0000" stop="20251201153000 +0000" channel="10183">
+    <title lang="en">EWTN Religious Catalogue</title>
+    <sub-title lang="en">Christ The Almighty Cross Sterling Silver &amp; Gold</sub-title>
+    <desc lang="en">An assortment of religious articles from around the world.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251201153000 +0000" stop="20251201154000 +0000" channel="10183">
+    <title lang="en">Shawn's Eyes</title>
+    <desc lang="en">A documentary on Shawn Riney, a man born with Down Syndrome, and how his life touches the hearts of families who know him.</desc>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20251201154000 +0000" stop="20251201170000 +0000" channel="10183">
+    <title lang="en">Pope Leo XIV In Lebanon</title>
+    <sub-title lang="en">MEETING WITH YOUNG PEOPLE</sub-title>
+    <desc lang="en">In the square in front of the Maronite Patriarchate of Antioch in Bkerk.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251201170000 +0000" stop="20251201180000 +0000" channel="10183">
+    <title lang="en">Holy Mass From Nazareth</title>
+    <desc lang="en">Live from the Shrine of the Annunciation in the Holy Land.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251201180000 +0000" stop="20251201183000 +0000" channel="10183">
+    <title lang="en">Women of Grace</title>
+    <sub-title lang="en">Full Circle: From Addiction To Sobriety, Pt. 1</sub-title>
+    <desc lang="en">Johnette Benkovic Williams discusses issues important to women and how they can best live out their faith in today's world.</desc>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20251201183000 +0000" stop="20251201190000 +0000" channel="10183">
+    <title lang="en">At Home With Jim and Joy</title>
+    <sub-title lang="en">Jim and Joy Call-In</sub-title>
+    <desc lang="en">Jim and Joy answer viewer calls, questions and emails from the Pinto house.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251201190000 +0000" stop="20251201200000 +0000" channel="10183">
+    <title lang="en">Saint John Vianney - Heart of the Priesthood</title>
+    <sub-title lang="en">Confessor of Souls</sub-title>
+    <desc lang="en">Bishop Mark Davies reflects on the life of Saint John Vianney, the Curé of Ars.</desc>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20251201200000 +0000" stop="20251201202000 +0000" channel="10183">
+    <title lang="en">The Chaplet of Divine Mercy</title>
+    <desc lang="en">Devotional prayer from the chapel of the National Shrine of the Divine Mercy in Stockbridge, Mass.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251201202000 +0000" stop="20251201203000 +0000" channel="10183">
+    <title lang="en">Live Adoration From EWTN Chapel</title>
+    <desc lang="en">Priests conduct adoration at Our Lady of the Angels Chapel in Irondale, Alabama.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251201203000 +0000" stop="20251201220000 +0000" channel="10183">
+    <title lang="en">The Passion of Saint Edmund Campion</title>
+    <desc lang="en">Following the life of St. Edmund Campion, a 16th century Jesuit who enjoyed favor and influence with English royalty, until he rejected Anglicanism and was arrested, convicted of high treason and hanged.</desc>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20251201220000 +0000" stop="20251201223000 +0000" channel="10183">
+    <title lang="en">EWTN Bookmark</title>
+    <sub-title lang="en">Everything's Coming up Rosie</sub-title>
+    <desc lang="en">In her book, Teresa Tomeo shares real-life stories from her mom Rosie that can help one live a sensible, well-grounded, godly life.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251201223000 +0000" stop="20251201230000 +0000" channel="10183">
+    <title lang="en">The Forsaken</title>
+    <desc lang="en">An up-close and compelling look at orphaned children from Bolivia and how dedicated caregivers, with help from the Archdiocese of St. Louis' Mission office are providing care and financial support to help give these children a chance at life.</desc>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20251201230000 +0000" stop="20251201233000 +0000" channel="10183">
+    <title lang="en">EWTN News Nightly</title>
+    <desc lang="en">Daily news and analysis, from Washington, D.C.</desc>
+  </programme>
+  <programme start="20251201233000 +0000" stop="20251202000000 +0000" channel="10183">
+    <title lang="en">Life Is Worth Living</title>
+    <sub-title lang="en">Social Problems</sub-title>
+    <desc lang="en">Archbishop Sheen declares that love is the solution to social problems.</desc>
+    <episode-num system="xmltv_ns">6.7.0</episode-num>
+    <episode-num system="onscreen">S6E7</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251202000000 +0000" stop="20251202010000 +0000" channel="10183">
+    <title lang="en">Daily Mass: Olam Daily Mass</title>
+    <desc lang="en">The Franciscan Missionaries of the Eternal Word celebrate the Holy Sacrifice of the Mass from the Our Lady of Angels Chapel in Irondale, Ala.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251202010000 +0000" stop="20251202020000 +0000" channel="10183">
+    <title lang="en">The Journey Home</title>
+    <sub-title lang="en">Dr. Brian Mcgee</sub-title>
+    <desc lang="en">Former Wesleyan, Dr. Brian McGee shares what sparked his conversion when he visited his first Mass in his 20s, and how he went from finding Catholicism repulsive to beautiful.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251202020000 +0000" stop="20251202023000 +0000" channel="10183">
+    <title lang="en">EWTN News Nightly</title>
+    <desc lang="en">Daily news and analysis, from Washington, D.C.</desc>
+  </programme>
+  <programme start="20251202023000 +0000" stop="20251202031500 +0000" channel="10183">
+    <title lang="en">Pope Leo XIV In Lebanon</title>
+    <sub-title lang="en">VISIT AND PRAYER AT THE TOMB OF SAINT CHARBEL MAKLUF</sub-title>
+    <desc lang="en">From the Monastery of Saint Maroun in Annaya in Beirut, Lebanon.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251202031500 +0000" stop="20251202033000 +0000" channel="10183">
+    <title lang="en">Heaven on Earth</title>
+    <desc lang="en">The Carmelite Sisters of Port Tobacco, Md. are the first Carmelite community in the United States.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251202033000 +0000" stop="20251202045000 +0000" channel="10183">
+    <title lang="en">Pope Leo XIV In Lebanon</title>
+    <sub-title lang="en">MEETING WITH YOUNG PEOPLE</sub-title>
+    <desc lang="en">In the square in front of the Maronite Patriarchate of Antioch in Bkerk.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251202045000 +0000" stop="20251202050000 +0000" channel="10183">
+    <title lang="en">Shawn's Eyes</title>
+    <desc lang="en">A documentary on Shawn Riney, a man born with Down Syndrome, and how his life touches the hearts of families who know him.</desc>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20251202050000 +0000" stop="20251202060000 +0000" channel="10183">
+    <title lang="en">Daily Mass: Olam Daily Mass</title>
+    <desc lang="en">The Franciscan Missionaries of the Eternal Word celebrate the Holy Sacrifice of the Mass from the Our Lady of Angels Chapel in Irondale, Ala.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251202060000 +0000" stop="20251202063000 +0000" channel="10183">
+    <title lang="en">EWTN News Nightly</title>
+    <desc lang="en">Daily news and analysis, from Washington, D.C.</desc>
+  </programme>
+  <programme start="20251202063000 +0000" stop="20251202070000 +0000" channel="10183">
+    <title lang="en">Pope Leo XIV In Lebanon</title>
+    <sub-title lang="en">VISIT TO THE STAFF AND PATIENTS OF THE DE LA CROIX HOSPITAL</sub-title>
+    <desc lang="en">From Jal Ed Dib in Beirut, Lebanon.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251202070000 +0000" stop="20251202073000 +0000" channel="10183">
+    <title lang="en">The Forsaken</title>
+    <desc lang="en">An up-close and compelling look at orphaned children from Bolivia and how dedicated caregivers, with help from the Archdiocese of St. Louis' Mission office are providing care and financial support to help give these children a chance at life.</desc>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20251202073000 +0000" stop="20251202080000 +0000" channel="10183">
+    <title lang="en">Pope Leo XIV In Lebanon</title>
+    <sub-title lang="en">SILENT PRAYER AT THE SITE OF THE BEIRUT PORT EXPLOSION</sub-title>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251202080000 +0000" stop="20251202081500 +0000" channel="10183">
+    <title lang="en">Heartbeat of MY Soul</title>
+    <desc lang="en">Learn what it takes to become a priest in this revealing visit to St. Francis de Sales academy. Seminarians and alumni share their individual stories, their commitment to serving Christ and their hopes for the future.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251202081500 +0000" stop="20251202100000 +0000" channel="10183">
+    <title lang="en">Pope Leo XIV In Lebanon</title>
+    <sub-title lang="en">HOLY MASS</sub-title>
+    <desc lang="en">From the Beirut Waterfront.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251202100000 +0000" stop="20251202103000 +0000" channel="10183">
+    <title lang="en">EWTN Religious Catalogue</title>
+    <sub-title lang="en">Christ The Almighty Cross Sterling Silver &amp; Gold</sub-title>
+    <desc lang="en">An assortment of religious articles from around the world.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251202103000 +0000" stop="20251202110000 +0000" channel="10183">
+    <title lang="en">Life Is Worth Living</title>
+    <sub-title lang="en">Social Problems</sub-title>
+    <desc lang="en">Archbishop Sheen declares that love is the solution to social problems.</desc>
+    <episode-num system="xmltv_ns">6.7.0</episode-num>
+    <episode-num system="onscreen">S6E7</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251202110000 +0000" stop="20251202113000 +0000" channel="10183">
+    <title lang="en">Church and the Poor: An Advent Journey With Fr. Richard Ho Lung</title>
+    <sub-title lang="en">My Soul Longs for the Lord</sub-title>
+    <desc lang="en">Fr. Richard Ho Lung reminds Catholics that only Christ can satisfy the eternal longing in their hearts.</desc>
+    <episode-num system="xmltv_ns">1.1.0</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251202113000 +0000" stop="20251202120000 +0000" channel="10183">
+    <title lang="en">Onward, Pilgrims</title>
+    <sub-title lang="en">Lourdes, Part 2</sub-title>
+    <desc lang="en">One can be in the most holy city of Lourdes and still give in to old habits.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251202120000 +0000" stop="20251202123000 +0000" channel="10183">
+    <title lang="en">The Chaplet of St. Michael</title>
+    <desc lang="en">Mother Angelica and the Nuns of Our Lady of the Angels Monastery ask for the intercession of the Prince of the Heavenly Hosts and the nine Choirs of Angels, as they pray the chaplet of St. Michael.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251202123000 +0000" stop="20251202125000 +0000" channel="10183">
+    <title lang="en">Holy Land Rosary</title>
+    <sub-title lang="en">Sorrowful Mysteries</sub-title>
+    <desc lang="en">Fr. Pacwa leads the &quot;Sorrowful Mysteries&quot; of the Rosary from the actual holy sites and shrines where they took place.</desc>
+    <episode-num system="xmltv_ns">1.1.0</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251202125000 +0000" stop="20251202130000 +0000" channel="10183">
+    <title lang="en">The Litany of the Most Precious Blood of Jesus</title>
+    <desc lang="en">The Franciscan Missionaries of the Eternal Word at the Shrine of the Most Blessed Sacrament in Hanceville, Alabama, recite a prayer in honor of the Precious Blood of Jesus shed for salvation.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251202130000 +0000" stop="20251202140000 +0000" channel="10183">
+    <title lang="en">Daily Mass: Olam Daily Mass</title>
+    <desc lang="en">The Franciscan Missionaries of the Eternal Word celebrate the Holy Sacrifice of the Mass from the Our Lady of Angels Chapel in Irondale, Ala.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251202140000 +0000" stop="20251202143000 +0000" channel="10183">
+    <title lang="en">The Doctors of the Church</title>
+    <sub-title lang="en">St. Catherine Of Siena</sub-title>
+    <desc lang="en">Dr. Matthew Bunson explores the lives of the Doctors of the Church, including St. Augustine, St. Francis de Sales, and St. Teresa of Avila.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251202143000 +0000" stop="20251202153000 +0000" channel="10183">
+    <title lang="en">Living Right With Dr. Ray</title>
+    <desc lang="en">Clinical psychologist Dr. Ray Guarendi offers advice on parenting and marriage.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251202153000 +0000" stop="20251202160000 +0000" channel="10183">
+    <title lang="en">Pope Leo XIV In Lebanon</title>
+    <sub-title lang="en">VISIT TO THE STAFF AND PATIENTS OF THE DE LA CROIX HOSPITAL</sub-title>
+    <desc lang="en">From Jal Ed Dib in Beirut, Lebanon.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251202160000 +0000" stop="20251202163000 +0000" channel="10183">
+    <title lang="en">EWTN Religious Catalogue</title>
+    <sub-title lang="en">Christ The Almighty Cross Sterling Silver &amp; Gold</sub-title>
+    <desc lang="en">An assortment of religious articles from around the world.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251202163000 +0000" stop="20251202170000 +0000" channel="10183">
+    <title lang="en">Teresa of Avila: Personality and Prayer</title>
+    <sub-title lang="en">Exploring the Castle</sub-title>
+    <desc lang="en">Fr. Thomas Dubay considers St. Teresa's masterpiece of spiritual theology: &quot;The Interior Castle.&quot;</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251202170000 +0000" stop="20251202180000 +0000" channel="10183">
+    <title lang="en">Daily Mass: Olam Daily Mass</title>
+    <desc lang="en">The Franciscan Missionaries of the Eternal Word celebrate the Holy Sacrifice of the Mass from the Our Lady of Angels Chapel in Irondale, Ala.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251202180000 +0000" stop="20251202190000 +0000" channel="10183">
+    <title lang="en">Vatican II: 60 Years Later</title>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251202190000 +0000" stop="20251202200000 +0000" channel="10183">
+    <title lang="en">Scripture and Tradition With Fr. Mitch Pacwa</title>
+    <sub-title lang="en">Commentary on Isaiah, Pt. 45</sub-title>
+    <desc lang="en">Fr. Mitch looks at why the Lord commanded the exiled children of Israel to prepare themselves to hear God's proclamation of salvation and institution of a new covenant with them.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251202200000 +0000" stop="20251202214500 +0000" channel="10183">
+    <title lang="en">Pope Leo XIV In Lebanon</title>
+    <sub-title lang="en">HOLY MASS</sub-title>
+    <desc lang="en">From the Beirut Waterfront.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251202214500 +0000" stop="20251202220000 +0000" channel="10183">
+    <title lang="en">Gospel Glimpses</title>
+    <sub-title lang="en">Will It</sub-title>
+    <desc lang="en">When one of his sisters asked Saint Thomas Aquinas what does a person have to do to become a saint, he gave her a brilliant answer with only two words.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251202220000 +0000" stop="20251202223000 +0000" channel="10183">
+    <title lang="en">The Choices We Face</title>
+    <sub-title lang="en">Apostle Of The Holy Spirit</sub-title>
+    <desc lang="en">Patti Mansfield talks about St Elena Guerra's call to write to Pope Leo XIII and encourage Catholics to live a perennial Pentecost.</desc>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20251202223000 +0000" stop="20251202230000 +0000" channel="10183">
+    <title lang="en">The Mystery of Walsingham - Our Lady's Holy House Foundation</title>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251202230000 +0000" stop="20251202233000 +0000" channel="10183">
+    <title lang="en">EWTN News Nightly</title>
+    <desc lang="en">Daily news and analysis, from Washington, D.C.</desc>
+  </programme>
+  <programme start="20251202233000 +0000" stop="20251203000000 +0000" channel="10183">
+    <title lang="en">Dominican Sisters of Mary, Mother of the Eucharist</title>
+    <sub-title lang="en">Vice To Virtue - Lesson 1</sub-title>
+    <desc lang="en">The Dominican Sisters of Mary explore their own calls to religious life, interview Catholics about their faith journeys and discuss the formation of virtues in children.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251203000000 +0000" stop="20251203010000 +0000" channel="10183">
+    <title lang="en">Daily Mass: Olam Daily Mass</title>
+    <desc lang="en">The Franciscan Missionaries of the Eternal Word celebrate the Holy Sacrifice of the Mass from the Our Lady of Angels Chapel in Irondale, Ala.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251203010000 +0000" stop="20251203020000 +0000" channel="10183">
+    <title lang="en">Mother Angelica Live Classics</title>
+    <sub-title lang="en">Advent and Repentance</sub-title>
+    <desc lang="en">Mother examines Advent and how it helps believers prepare for the holy celebration of Christmas.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251203020000 +0000" stop="20251203023000 +0000" channel="10183">
+    <title lang="en">EWTN News Nightly</title>
+    <desc lang="en">Daily news and analysis, from Washington, D.C.</desc>
+  </programme>
+  <programme start="20251203023000 +0000" stop="20251203030000 +0000" channel="10183">
+    <title lang="en">Holy Rosary From Lourdes</title>
+    <desc lang="en">Pilgrims from around the world gather and pray the Rosary from the Lourdes Grotto in France, site of the famous apparitions by the Blessed Virgin Mary in 1858.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251203030000 +0000" stop="20251203040000 +0000" channel="10183">
+    <title lang="en">Scripture and Tradition With Fr. Mitch Pacwa</title>
+    <sub-title lang="en">Commentary on Isaiah, Pt. 45</sub-title>
+    <desc lang="en">Fr. Mitch looks at why the Lord commanded the exiled children of Israel to prepare themselves to hear God's proclamation of salvation and institution of a new covenant with them.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251203040000 +0000" stop="20251203043000 +0000" channel="10183">
+    <title lang="en">Women of Grace</title>
+    <sub-title lang="en">Full Circle: From Addiction To Sobriety, Pt. 2</sub-title>
+    <desc lang="en">Johnette Benkovic Williams discusses issues important to women and how they can best live out their faith in today's world.</desc>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20251203043000 +0000" stop="20251203050000 +0000" channel="10183">
+    <title lang="en">The Long Ride Home With Bear Woznick</title>
+    <sub-title lang="en">Prudence Guides the Virtues</sub-title>
+    <desc lang="en">To discover true masculine spirituality, a ragtag group of strangers embarks on a journey to escape their daily lives and contemplate their destiny as Jesus did.</desc>
+    <episode-num system="xmltv_ns">2.3.0</episode-num>
+    <episode-num system="onscreen">S2E3</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
   <channel id="82462">
     <display-name>First Nations Experience</display-name>
   </channel>
@@ -3961,7 +4806,7 @@
   </programme>
   <programme start="20251201180000 +0000" stop="20251201183000 +0000" channel="82462">
     <title lang="en">Wapos Bay</title>
-    <sub-title lang="en">There's No \&quot;I\&quot; in Hockey</sub-title>
+    <sub-title lang="en">There's No &quot;I&quot; in Hockey</sub-title>
     <desc lang="en">Talon and his cousin T-Bear both try to win the attention of Melanie, a girl on an opposing hockey team.</desc>
     <episode-num system="xmltv_ns">1.1.0</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -4733,6 +5578,57 @@
     <rating>
       <value>TV-PG</value>
     </rating>
+  </programme>
+  <channel id="26643">
+    <display-name>GEMS</display-name>
+  </channel>
+  <programme start="20251130080000 +0000" stop="20251130140000 +0000" channel="26643">
+    <title lang="en">Prestige Collection With Stu</title>
+    <desc lang="en">A wide variety of glamourous new and estate jewelry.</desc>
+  </programme>
+  <programme start="20251130140000 +0000" stop="20251130190000 +0000" channel="26643">
+    <title lang="en">Chromia Designer Showcase With Natasha</title>
+    <desc lang="en">Colored gemstone jewelry collections featuring tourmaline, garnet, alexandrite, turquoise, coral, and more. Presented by Gem Shopping.</desc>
+  </programme>
+  <programme start="20251130190000 +0000" stop="20251201000000 +0000" channel="26643">
+    <title lang="en">Stellar Creations With Tara</title>
+    <desc lang="en">A collection of modern jewelry featuring invisible set gems along with international estate collections.</desc>
+  </programme>
+  <programme start="20251201000000 +0000" stop="20251201080000 +0000" channel="26643">
+    <title lang="en">The Opal Hunter Rare Exotic Gemstone With Marvin</title>
+    <desc lang="en">Mark showcases the finest opals, colored diamonds, and sapphires directly from Australia. Presented by Gem Shopping.</desc>
+  </programme>
+  <programme start="20251201080000 +0000" stop="20251201140000 +0000" channel="26643">
+    <title lang="en">Everyday Treasure With Stu</title>
+    <desc lang="en">The widest variety of exuberant jewelry designs, including animal motifs, turquoise, coral, colored diamonds, gems, and more. Presented by Gem Shopping.</desc>
+  </programme>
+  <programme start="20251201140000 +0000" stop="20251201190000 +0000" channel="26643">
+    <title lang="en">Prestige Collection With Kurt</title>
+    <desc lang="en">A wide variety of glamourous new and estate jewelry.</desc>
+  </programme>
+  <programme start="20251201190000 +0000" stop="20251202000000 +0000" channel="26643">
+    <title lang="en">Kallati Designer Truck Show With Chris</title>
+    <desc lang="en">An International manufacturer with four generations of experience and dedication to the craft of making fine jewelry. Presented by Gems.</desc>
+  </programme>
+  <programme start="20251202000000 +0000" stop="20251202080000 +0000" channel="26643">
+    <title lang="en">Beverly Hills Estate Jewelry With Marvin</title>
+    <desc lang="en">Father-daughter duo Kurt and Amy curate collections of modern and vintage estate jewelry featuring diamonds and colored gems. Presented by Gem Shopping.</desc>
+  </programme>
+  <programme start="20251202080000 +0000" stop="20251202140000 +0000" channel="26643">
+    <title lang="en">Les Belles Gemmes With Jason</title>
+    <desc lang="en">Multi-generational jewelers show high-end collector loose gems and fine jewelry. Presented by Gem Shopping.</desc>
+  </programme>
+  <programme start="20251202140000 +0000" stop="20251202190000 +0000" channel="26643">
+    <title lang="en">Jewelry Extravaganza With Mike</title>
+    <desc lang="en">A high-energy show featuring a selection of contemporary jewelry and gems from around the world. Presented by Gem Shopping.</desc>
+  </programme>
+  <programme start="20251202190000 +0000" stop="20251203000000 +0000" channel="26643">
+    <title lang="en">Kallati Designer Truck Show With Kurt</title>
+    <desc lang="en">An International manufacturer with four generations of experience and dedication to the craft of making fine jewelry. Presented by Gems.</desc>
+  </programme>
+  <programme start="20251203000000 +0000" stop="20251203080000 +0000" channel="26643">
+    <title lang="en">Beverly Hills Estate Jewelry With Tara</title>
+    <desc lang="en">Father-daughter duo Kurt and Amy curate collections of modern and vintage estate jewelry featuring diamonds and colored gems. Presented by Gem Shopping.</desc>
   </programme>
   <channel id="89922">
     <display-name>Grit</display-name>
@@ -16257,7 +17153,11 @@
   </programme>
   <programme start="20251201120000 +0000" stop="20251201123000 +0000" channel="14767">
     <title lang="en">Turning Point With Dr. David Jeremiah</title>
-    <desc lang="en">Dr. David Jeremiah shares the practical messages behind Christianity and helps people to discover their own turning points in their relationship with God.</desc>
+    <sub-title lang="en">Make the Season Bright: Christmas on Broadway Part 1</sub-title>
+    <desc lang="en">From the Beacon Theatre in New York City; featuring the Gaither Vocal Band, and an inspirational message from Dr. Jeremiah.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
   </programme>
   <programme start="20251201123000 +0000" stop="20251201130000 +0000" channel="14767">
     <title lang="en">Joseph Prince</title>
@@ -16268,6 +17168,7 @@
   </programme>
   <programme start="20251201130000 +0000" stop="20251201133000 +0000" channel="14767">
     <title lang="en">Robert Jeffress</title>
+    <sub-title lang="en">Simply Christmas Part 2</sub-title>
     <desc lang="en">The teaching ministry of American Southern Baptist, pastor and television host, Robert Jeffress; he is a senior minister of the first Baptist Church in Dallas as well as a Fox News contributor.</desc>
     <rating>
       <value>TV-G</value>
@@ -17641,6 +18542,955 @@
     <title lang="en">Amazing Facts With Doug Batchelor</title>
     <sub-title lang="en">Commands of the King Part 1</sub-title>
     <desc lang="en">How does the law of God relate to prophecy? Pt. 1.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <channel id="93024">
+    <display-name>Victory Channel</display-name>
+  </channel>
+  <programme start="20251130050000 +0000" stop="20251130053000 +0000" channel="93024">
+    <title lang="en">Jesse Duplantis Ministries</title>
+    <sub-title lang="en">A Voice of Thanksgiving</sub-title>
+    <desc lang="en">Jesse shows you why the words thank you are two of the most important words in every language and how they have the power to transform your life.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251130053000 +0000" stop="20251130060000 +0000" channel="93024">
+    <title lang="en">Inside With Mike Barber Ministries</title>
+    <desc lang="en">Pastor Mike Barber shares his testimony INSIDE a Texas prison. He shares his journey from a 10 year career the NFL to full time prison ministry.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251130060000 +0000" stop="20251130063000 +0000" channel="93024">
+    <title lang="en">Rally TV</title>
+    <desc lang="en">Rally TV is focused on helping our audience take their faith to the next level. We believe that if God can do it for us, He can do it for you!</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251130063000 +0000" stop="20251130070000 +0000" channel="93024">
+    <title lang="en">Faith Matters with Andre &amp; Jenny</title>
+    <desc lang="en">Inspiring programs that brings practical, Godly Wisdom straight into the hearts and minds viewers through enlightening discussions and dialogue.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251130070000 +0000" stop="20251130073000 +0000" channel="93024">
+    <title lang="en">Preacher of Righteousness</title>
+    <desc lang="en">Mark T. Barclay is known as a Preacher of Righteousness. He is a proven, precise leader among ministers worldwide.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251130073000 +0000" stop="20251130080000 +0000" channel="93024">
+    <title lang="en">Legacy Television With Jeremy and Sarah Pearsons</title>
+    <desc lang="en">Teaching a generation how to live by faith in the day of grace.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251130080000 +0000" stop="20251130083000 +0000" channel="93024">
+    <title lang="en">Faith Family Church</title>
+    <sub-title lang="en">Grace That Transforms - Part One</sub-title>
+    <desc lang="en">Join us this week as Pastor Mike continues his latest series, The Power Of!</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251130083000 +0000" stop="20251130090000 +0000" channel="93024">
+    <title lang="en">YouMatter TV With Dean Sikes</title>
+    <desc lang="en">On the road with the team as they minister a Word-based message of hope to teenagers; teaching segments and interviews.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251130090000 +0000" stop="20251130093000 +0000" channel="93024">
+    <title lang="en">Kellie</title>
+    <sub-title lang="en">It's Go Time!</sub-title>
+    <desc lang="en">When grace meets obedience, the harvest follows. Hear how two women's surrender led to global impact.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251130093000 +0000" stop="20251130100000 +0000" channel="93024">
+    <title lang="en">Jerry Savelle Ministries</title>
+    <sub-title lang="en">Adventures in Faith</sub-title>
+    <desc lang="en">Jerry Savelle shares motivational messages from God's Word designed to teach individuals how to win in life.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251130100000 +0000" stop="20251130103000 +0000" channel="93024">
+    <title lang="en">Rhema Praise With Kenneth Hagin</title>
+    <sub-title lang="en">Bringing Back the King</sub-title>
+    <desc lang="en">Rev. Kenneth E. Hagin shares a message about anticipating the return of Jesus, the King of Kings.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251130103000 +0000" stop="20251130110000 +0000" channel="93024">
+    <title lang="en">Faith Church.com</title>
+    <desc lang="en">Pastors David and Nicole Crank introduce God and a message of hope in a humorous, down to earth manner.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251130110000 +0000" stop="20251130113000 +0000" channel="93024">
+    <title lang="en">Kenneth Copeland</title>
+    <desc lang="en">You've got the victory; Kenneth Copeland explains how Jesus gave you His authority over death; be reminded of the power and victory you have through Christ's loving sacrifice!</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251130113000 +0000" stop="20251130120000 +0000" channel="93024">
+    <title lang="en">Times of Refreshing</title>
+    <desc lang="en">Entering into the presence of the Lord through this time of worship with Pastor Candy LaFlora.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251130120000 +0000" stop="20251130123000 +0000" channel="93024">
+    <title lang="en">Faith Life Church-Keith Moore</title>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251130123000 +0000" stop="20251130130000 +0000" channel="93024">
+    <title lang="en">Kellie</title>
+    <sub-title lang="en">It's Go Time!</sub-title>
+    <desc lang="en">When grace meets obedience, the harvest follows. Hear how two women's surrender led to global impact.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251130130000 +0000" stop="20251130133000 +0000" channel="93024">
+    <title lang="en">Jesse Duplantis Ministries</title>
+    <sub-title lang="en">The Idea of God Needs to be Altered</sub-title>
+    <desc lang="en">In this inspiring Christmas message, Jesse shares how valuable your human flesh body is to God.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251130133000 +0000" stop="20251130140000 +0000" channel="93024">
+    <title lang="en">Live Your Faith with Keith Butler</title>
+    <desc lang="en">Bishop Keith Butler is committed to teaching the word of God without compromise in order to help people live with faith.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251130140000 +0000" stop="20251130143000 +0000" channel="93024">
+    <title lang="en">The Winner's Way With Mac Hammond</title>
+    <sub-title lang="en">Fight the Good Fight #4</sub-title>
+    <desc lang="en">Money is a medium of exchange used in this material world. God is interested in you having money, but He is not interested in money having you.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251130143000 +0000" stop="20251130150000 +0000" channel="93024">
+    <title lang="en">Legacy Television With Jeremy and Sarah Pearsons</title>
+    <desc lang="en">Teaching a generation how to live by faith in the day of grace.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251130150000 +0000" stop="20251130160000 +0000" channel="93024">
+    <title lang="en">KC Bible College Special</title>
+    <sub-title lang="en">KCBC: Building a Stronger Relationship</sub-title>
+    <desc lang="en">This week on KCBC Guest Speaker Gene Bailey encourages us to build our relationship with our Heavenly Father, while Guest Speaker Annette Capps teaches us the impact the Holy Spirit has on our authority.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251130160000 +0000" stop="20251130173000 +0000" channel="93024">
+    <title lang="en">Eagle Mountain International Church</title>
+    <desc lang="en">Service from the grounds of Kenneth Copeland Ministries with pastors George and Terri Pearsons.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251130173000 +0000" stop="20251130180000 +0000" channel="93024">
+    <title lang="en">Faith Life Church-Keith Moore</title>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251130180000 +0000" stop="20251130183000 +0000" channel="93024">
+    <title lang="en">Kenneth Copeland</title>
+    <desc lang="en">You've got the victory; Kenneth Copeland explains how Jesus gave you His authority over death; be reminded of the power and victory you have through Christ's loving sacrifice!</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251130183000 +0000" stop="20251130190000 +0000" channel="93024">
+    <title lang="en">Jesse Duplantis Ministries</title>
+    <sub-title lang="en">The Idea of God Needs to be Altered</sub-title>
+    <desc lang="en">In this inspiring Christmas message, Jesse shares how valuable your human flesh body is to God.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251130190000 +0000" stop="20251130193000 +0000" channel="93024">
+    <title lang="en">Revival Radio TV</title>
+    <sub-title lang="en">Unlocking Ancient Mysteries That Changed History</sub-title>
+    <desc lang="en">Dr. Gene Bailey explores ancient mysteries that birthed Christian revivals and founded a new world.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251130193000 +0000" stop="20251130200000 +0000" channel="93024">
+    <title lang="en">Prophetic Witness</title>
+    <desc lang="en">Dr. Billye Brim discusses biblical events and principles.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251130200000 +0000" stop="20251130220000 +0000" channel="93024">
+    <title lang="en">God Wants You Well</title>
+    <desc lang="en">Messages and healing testimonies from Gloria Copeland's Healing Schools throughout the years.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251130220000 +0000" stop="20251130223000 +0000" channel="93024">
+    <title lang="en">Live Your Faith with Keith Butler</title>
+    <desc lang="en">Bishop Keith Butler is committed to teaching the word of God without compromise in order to help people live with faith.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251130223000 +0000" stop="20251130230000 +0000" channel="93024">
+    <title lang="en">Jerry Savelle Ministries</title>
+    <sub-title lang="en">Adventures in Faith</sub-title>
+    <desc lang="en">Jerry Savelle shares motivational messages from God's Word designed to teach individuals how to win in life.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251130230000 +0000" stop="20251130233000 +0000" channel="93024">
+    <title lang="en">Your Word for Today</title>
+    <sub-title lang="en">Have You Called Upon His Name?</sub-title>
+    <desc lang="en">Regardless of what you are facing in life, call upon the name of the Lord; trust His promises and expect Him to answer.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251130233000 +0000" stop="20251201000000 +0000" channel="93024">
+    <title lang="en">Live Your Dreams</title>
+    <sub-title lang="en">5 Ways to Manage Your Time</sub-title>
+    <desc lang="en">Time management and organization can sometimes be a difficult task to master; Terri discusses five ways to manage time better.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251201000000 +0000" stop="20251201010000 +0000" channel="93024">
+    <title lang="en">Kenneth Copeland</title>
+    <sub-title lang="en">Diligently Listen to the Voice of the Lord</sub-title>
+    <desc lang="en">Listening; Copeland discusses how to diligently listen to the voice of the Lord.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251201010000 +0000" stop="20251201013000 +0000" channel="93024">
+    <title lang="en">Kenneth Copeland</title>
+    <desc lang="en">You've got the victory; Kenneth Copeland explains how Jesus gave you His authority over death; be reminded of the power and victory you have through Christ's loving sacrifice!</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251201013000 +0000" stop="20251201020000 +0000" channel="93024">
+    <title lang="en">This is the Day with Benny Hinn</title>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251201020000 +0000" stop="20251201023000 +0000" channel="93024">
+    <title lang="en">Revival Radio TV</title>
+    <sub-title lang="en">Unlocking Ancient Mysteries That Changed History</sub-title>
+    <desc lang="en">Dr. Gene Bailey explores ancient mysteries that birthed Christian revivals and founded a new world.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251201023000 +0000" stop="20251201033000 +0000" channel="93024">
+    <title lang="en">KC Bible College Special</title>
+    <sub-title lang="en">KCBC: Building a Stronger Relationship</sub-title>
+    <desc lang="en">This week on KCBC Guest Speaker Gene Bailey encourages us to build our relationship with our Heavenly Father, while Guest Speaker Annette Capps teaches us the impact the Holy Spirit has on our authority.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251201033000 +0000" stop="20251201050000 +0000" channel="93024">
+    <title lang="en">Eagle Mountain International Church</title>
+    <desc lang="en">Service from the grounds of Kenneth Copeland Ministries with pastors George and Terri Pearsons.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251201050000 +0000" stop="20251201053000 +0000" channel="93024">
+    <title lang="en">Kenneth Copeland</title>
+    <desc lang="en">You've got the victory; Kenneth Copeland explains how Jesus gave you His authority over death; be reminded of the power and victory you have through Christ's loving sacrifice!</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251201053000 +0000" stop="20251201060000 +0000" channel="93024">
+    <title lang="en">Jerry Savelle Ministries</title>
+    <sub-title lang="en">Adventures in Faith</sub-title>
+    <desc lang="en">Jerry Savelle shares motivational messages from God's Word designed to teach individuals how to win in life.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251201060000 +0000" stop="20251201063000 +0000" channel="93024">
+    <title lang="en">Faith Matters with Andre &amp; Jenny</title>
+    <desc lang="en">Inspiring programs that brings practical, Godly Wisdom straight into the hearts and minds viewers through enlightening discussions and dialogue.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251201063000 +0000" stop="20251201070000 +0000" channel="93024">
+    <title lang="en">Rhema Praise With Kenneth Hagin</title>
+    <sub-title lang="en">Bringing Back the King</sub-title>
+    <desc lang="en">Rev. Kenneth E. Hagin shares a message about anticipating the return of Jesus, the King of Kings.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251201070000 +0000" stop="20251201073000 +0000" channel="93024">
+    <title lang="en">Bill Winston: Believers Walk of Faith</title>
+    <desc lang="en">Biblical teachings on kingdom principles.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251201073000 +0000" stop="20251201080000 +0000" channel="93024">
+    <title lang="en">Mark Hankins</title>
+    <desc lang="en">Mark and Trina Hankins minister the spirit of faith, the message of who the believer is in Christ and the work of the Holy Spirit.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251201080000 +0000" stop="20251201083000 +0000" channel="93024">
+    <title lang="en">Kenneth Copeland</title>
+    <desc lang="en">You've got the victory; Kenneth Copeland explains how Jesus gave you His authority over death; be reminded of the power and victory you have through Christ's loving sacrifice!</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251201083000 +0000" stop="20251201093000 +0000" channel="93024">
+    <title lang="en">Kenneth Copeland</title>
+    <sub-title lang="en">Diligently Listen to the Voice of the Lord</sub-title>
+    <desc lang="en">Listening; Copeland discusses how to diligently listen to the voice of the Lord.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251201093000 +0000" stop="20251201100000 +0000" channel="93024">
+    <title lang="en">Jesus the Healer With Nancy Dufresne</title>
+    <desc lang="en">The weekly broadcast of Nancy Dufresne ministers from the Word on various topics, including faith, healing and more.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251201100000 +0000" stop="20251201103000 +0000" channel="93024">
+    <title lang="en">The Prosperous Life</title>
+    <desc lang="en">Gloria Copeland and Pastor George Pearsons reveal from Scripture that it is God's will for people to be prosperous in every area of their lives.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251201103000 +0000" stop="20251201110000 +0000" channel="93024">
+    <title lang="en">Fixing the Money Thing</title>
+    <desc lang="en">Pastor Gary Keesee provides insights and solutions on the topics of finances, family and faith.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251201110000 +0000" stop="20251201113000 +0000" channel="93024">
+    <title lang="en">Breakthrough.Faith</title>
+    <desc lang="en">Be empowered to live out the truth of God's Word in everyday life through practical, Biblical principles &amp; watch God bring breakthrough to your life!</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251201113000 +0000" stop="20251201120000 +0000" channel="93024">
+    <title lang="en">Bill Winston: Believers Walk of Faith</title>
+    <desc lang="en">Biblical teachings on kingdom principles.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251201120000 +0000" stop="20251201123000 +0000" channel="93024">
+    <title lang="en">Kenneth Copeland</title>
+    <desc lang="en">You've got the victory; Kenneth Copeland explains how Jesus gave you His authority over death; be reminded of the power and victory you have through Christ's loving sacrifice!</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251201123000 +0000" stop="20251201130000 +0000" channel="93024">
+    <title lang="en">Jesus the Healer With Nancy Dufresne</title>
+    <desc lang="en">The weekly broadcast of Nancy Dufresne ministers from the Word on various topics, including faith, healing and more.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251201130000 +0000" stop="20251201133000 +0000" channel="93024">
+    <title lang="en">Jesse Duplantis Ministries</title>
+    <sub-title lang="en">The Idea of God Needs to be Altered</sub-title>
+    <desc lang="en">In this inspiring Christmas message, Jesse shares how valuable your human flesh body is to God.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251201133000 +0000" stop="20251201140000 +0000" channel="93024">
+    <title lang="en">Faith Church.com</title>
+    <desc lang="en">Pastors David and Nicole Crank introduce God and a message of hope in a humorous, down to earth manner.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251201140000 +0000" stop="20251201143000 +0000" channel="93024">
+    <title lang="en">New Level With Hank and Brenda</title>
+    <desc lang="en">Biblical perspectives on current issues pertinent to daily living as well as insights on topics important to believers.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251201143000 +0000" stop="20251201150000 +0000" channel="93024">
+    <title lang="en">Victory in Prayer</title>
+    <desc lang="en">Hosts take your prayer requests and agree with you in the spirit of faith - from the Partner Service Center of Kenneth Copeland Ministries in Texas.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251201150000 +0000" stop="20251201153000 +0000" channel="93024">
+    <title lang="en">Faith School With Keith Moore</title>
+    <desc lang="en">Keith Moore teaches the ABCs of faith in a manner that provides revelation for both new believers and longtime Christians.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251201153000 +0000" stop="20251201160000 +0000" channel="93024">
+    <title lang="en">Andrew Wommack: Gospel Truth</title>
+    <sub-title lang="en">A Believer or a Disciple</sub-title>
+    <desc lang="en">Andrew shares the importance of becoming a disciple and not just being born-again.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251201160000 +0000" stop="20251201163000 +0000" channel="93024">
+    <title lang="en">Kenneth Copeland</title>
+    <desc lang="en">You've got the victory; Kenneth Copeland explains how Jesus gave you His authority over death; be reminded of the power and victory you have through Christ's loving sacrifice!</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251201163000 +0000" stop="20251201170000 +0000" channel="93024">
+    <title lang="en">A Carla Shellis Christmas</title>
+    <sub-title lang="en">Treasured Traditions</sub-title>
+    <desc lang="en">Carla shares her favorite family traditions, hosts a cookie party, and reminds us it's never too late to start making memories that matter.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251201170000 +0000" stop="20251201173000 +0000" channel="93024">
+    <title lang="en">Kellie</title>
+    <sub-title lang="en">It's Go Time!</sub-title>
+    <desc lang="en">When grace meets obedience, the harvest follows. Hear how two women's surrender led to global impact.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251201173000 +0000" stop="20251201180000 +0000" channel="93024">
+    <title lang="en">Victory in Prayer</title>
+    <desc lang="en">Hosts take your prayer requests and agree with you in the spirit of faith - from the Partner Service Center of Kenneth Copeland Ministries in Texas.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251201180000 +0000" stop="20251201183000 +0000" channel="93024">
+    <title lang="en">The Place for Miracles</title>
+    <desc lang="en">Richard and Lindsay Roberts.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251201183000 +0000" stop="20251201190000 +0000" channel="93024">
+    <title lang="en">Rick Renner</title>
+    <sub-title lang="en">Who Is Holding Back the Beast?</sub-title>
+    <desc lang="en">Rick Renner's in-depth Bible teachings, using the Greek text, help listeners gain new insight from God's Word.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251201190000 +0000" stop="20251201193000 +0000" channel="93024">
+    <title lang="en">YouMatter TV With Dean Sikes</title>
+    <desc lang="en">On the road with the team as they minister a Word-based message of hope to teenagers; teaching segments and interviews.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251201193000 +0000" stop="20251201200000 +0000" channel="93024">
+    <title lang="en">Jesus the Healer With Nancy Dufresne</title>
+    <desc lang="en">The weekly broadcast of Nancy Dufresne ministers from the Word on various topics, including faith, healing and more.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251201200000 +0000" stop="20251201203000 +0000" channel="93024">
+    <title lang="en">Time With Denise Renner</title>
+    <desc lang="en">Join Denise Renner as she shares from her heart biblical truths from God's Word and how to apply them in everyday life. Her practical presentation of the Word will certainly stir your faith and love for the Lord.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251201203000 +0000" stop="20251201210000 +0000" channel="93024">
+    <title lang="en">Andrew Wommack: Gospel Truth</title>
+    <sub-title lang="en">A Believer or a Disciple</sub-title>
+    <desc lang="en">Andrew shares the importance of becoming a disciple and not just being born-again.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251201210000 +0000" stop="20251201213000 +0000" channel="93024">
+    <title lang="en">Bill Winston: Believers Walk of Faith</title>
+    <desc lang="en">Biblical teachings on kingdom principles.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251201213000 +0000" stop="20251201220000 +0000" channel="93024">
+    <title lang="en">Kenneth Copeland</title>
+    <desc lang="en">You've got the victory; Kenneth Copeland explains how Jesus gave you His authority over death; be reminded of the power and victory you have through Christ's loving sacrifice!</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251201220000 +0000" stop="20251201223000 +0000" channel="93024">
+    <title lang="en">Mark Hankins</title>
+    <desc lang="en">Mark and Trina Hankins minister the spirit of faith, the message of who the believer is in Christ and the work of the Holy Spirit.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251201223000 +0000" stop="20251201230000 +0000" channel="93024">
+    <title lang="en">The Prosperous Life</title>
+    <desc lang="en">Gloria Copeland and Pastor George Pearsons reveal from Scripture that it is God's will for people to be prosperous in every area of their lives.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251201230000 +0000" stop="20251201233000 +0000" channel="93024">
+    <title lang="en">Victory News</title>
+    <desc lang="en">VICTORY News is here to bring you daily news you can trust-always delivered in the spirit of faith; stay informed and encouraged with faith, facts and freedom.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251201233000 +0000" stop="20251202000000 +0000" channel="93024">
+    <title lang="en">Fixing the Money Thing</title>
+    <desc lang="en">Pastor Gary Keesee provides insights and solutions on the topics of finances, family and faith.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251202000000 +0000" stop="20251202003000 +0000" channel="93024">
+    <title lang="en">Rick Renner</title>
+    <sub-title lang="en">Who Is Holding Back the Beast?</sub-title>
+    <desc lang="en">Rick Renner's in-depth Bible teachings, using the Greek text, help listeners gain new insight from God's Word.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251202003000 +0000" stop="20251202010000 +0000" channel="93024">
+    <title lang="en">Kenneth Copeland</title>
+    <desc lang="en">You've got the victory; Kenneth Copeland explains how Jesus gave you His authority over death; be reminded of the power and victory you have through Christ's loving sacrifice!</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251202010000 +0000" stop="20251202020000 +0000" channel="93024">
+    <title lang="en">FlashPoint</title>
+    <desc lang="en">News and commentary about current events and issues facing America and the world in a spirit of faith.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251202020000 +0000" stop="20251202023000 +0000" channel="93024">
+    <title lang="en">Victory News</title>
+    <desc lang="en">VICTORY News is here to bring you daily news you can trust-always delivered in the spirit of faith; stay informed and encouraged with faith, facts and freedom.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251202023000 +0000" stop="20251202030000 +0000" channel="93024">
+    <title lang="en">Kellie</title>
+    <sub-title lang="en">It's Go Time!</sub-title>
+    <desc lang="en">When grace meets obedience, the harvest follows. Hear how two women's surrender led to global impact.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251202030000 +0000" stop="20251202033000 +0000" channel="93024">
+    <title lang="en">Faith School With Keith Moore</title>
+    <desc lang="en">Keith Moore teaches the ABCs of faith in a manner that provides revelation for both new believers and longtime Christians.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251202033000 +0000" stop="20251202040000 +0000" channel="93024">
+    <title lang="en">Kenneth Copeland</title>
+    <desc lang="en">You've got the victory; Kenneth Copeland explains how Jesus gave you His authority over death; be reminded of the power and victory you have through Christ's loving sacrifice!</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251202040000 +0000" stop="20251202043000 +0000" channel="93024">
+    <title lang="en">Andrew Wommack: Gospel Truth</title>
+    <sub-title lang="en">A Believer or a Disciple</sub-title>
+    <desc lang="en">Andrew shares the importance of becoming a disciple and not just being born-again.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251202043000 +0000" stop="20251202050000 +0000" channel="93024">
+    <title lang="en">On the Road to Freedom</title>
+    <sub-title lang="en">Heart Choices</sub-title>
+    <desc lang="en">Join Christi Le Fevre in Lake Tahoe as she shares how making right heart choices determines your destiny.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251202050000 +0000" stop="20251202060000 +0000" channel="93024">
+    <title lang="en">FlashPoint</title>
+    <desc lang="en">News and commentary about current events and issues facing America and the world in a spirit of faith.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251202060000 +0000" stop="20251202063000 +0000" channel="93024">
+    <title lang="en">YouMatter TV With Dean Sikes</title>
+    <desc lang="en">On the road with the team as they minister a Word-based message of hope to teenagers; teaching segments and interviews.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251202063000 +0000" stop="20251202070000 +0000" channel="93024">
+    <title lang="en">Preacher of Righteousness</title>
+    <desc lang="en">Mark T. Barclay is known as a Preacher of Righteousness. He is a proven, precise leader among ministers worldwide.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251202070000 +0000" stop="20251202073000 +0000" channel="93024">
+    <title lang="en">Bill Winston: Believers Walk of Faith</title>
+    <desc lang="en">Biblical teachings on kingdom principles.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251202073000 +0000" stop="20251202080000 +0000" channel="93024">
+    <title lang="en">Mark Hankins</title>
+    <desc lang="en">Mark and Trina Hankins minister the spirit of faith, the message of who the believer is in Christ and the work of the Holy Spirit.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251202080000 +0000" stop="20251202083000 +0000" channel="93024">
+    <title lang="en">Kenneth Copeland</title>
+    <desc lang="en">You've got the victory; Kenneth Copeland explains how Jesus gave you His authority over death; be reminded of the power and victory you have through Christ's loving sacrifice!</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251202083000 +0000" stop="20251202090000 +0000" channel="93024">
+    <title lang="en">Live Your Dreams</title>
+    <sub-title lang="en">5 Ways to Manage Your Time</sub-title>
+    <desc lang="en">Time management and organization can sometimes be a difficult task to master; Terri discusses five ways to manage time better.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251202090000 +0000" stop="20251202093000 +0000" channel="93024">
+    <title lang="en">New Level With Hank and Brenda</title>
+    <desc lang="en">Biblical perspectives on current issues pertinent to daily living as well as insights on topics important to believers.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251202093000 +0000" stop="20251202100000 +0000" channel="93024">
+    <title lang="en">Jesus the Healer With Nancy Dufresne</title>
+    <desc lang="en">The weekly broadcast of Nancy Dufresne ministers from the Word on various topics, including faith, healing and more.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251202100000 +0000" stop="20251202103000 +0000" channel="93024">
+    <title lang="en">The Prosperous Life</title>
+    <desc lang="en">Gloria Copeland and Pastor George Pearsons reveal from Scripture that it is God's will for people to be prosperous in every area of their lives.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251202103000 +0000" stop="20251202110000 +0000" channel="93024">
+    <title lang="en">Fixing the Money Thing</title>
+    <desc lang="en">Pastor Gary Keesee provides insights and solutions on the topics of finances, family and faith.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251202110000 +0000" stop="20251202113000 +0000" channel="93024">
+    <title lang="en">Covenant Living</title>
+    <sub-title lang="en">His Mercy Endures Forever</sub-title>
+    <desc lang="en">God's fierce love for us is the reason He committed Himself forever to keep His covenant that He made of His own free will - to benefit us!</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251202113000 +0000" stop="20251202120000 +0000" channel="93024">
+    <title lang="en">Bill Winston: Believers Walk of Faith</title>
+    <desc lang="en">Biblical teachings on kingdom principles.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251202120000 +0000" stop="20251202123000 +0000" channel="93024">
+    <title lang="en">Kenneth Copeland</title>
+    <desc lang="en">You've got the victory; Kenneth Copeland explains how Jesus gave you His authority over death; be reminded of the power and victory you have through Christ's loving sacrifice!</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251202123000 +0000" stop="20251202130000 +0000" channel="93024">
+    <title lang="en">Jesus the Healer With Nancy Dufresne</title>
+    <desc lang="en">The weekly broadcast of Nancy Dufresne ministers from the Word on various topics, including faith, healing and more.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251202130000 +0000" stop="20251202133000 +0000" channel="93024">
+    <title lang="en">Concepts of Faith with Charles Capps and Annette Capps</title>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251202133000 +0000" stop="20251202140000 +0000" channel="93024">
+    <title lang="en">Kellie</title>
+    <sub-title lang="en">It's Go Time!</sub-title>
+    <desc lang="en">When grace meets obedience, the harvest follows. Hear how two women's surrender led to global impact.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251202140000 +0000" stop="20251202143000 +0000" channel="93024">
+    <title lang="en">Faith Life Church-Keith Moore</title>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251202143000 +0000" stop="20251202150000 +0000" channel="93024">
+    <title lang="en">Victory in Prayer</title>
+    <desc lang="en">Hosts take your prayer requests and agree with you in the spirit of faith - from the Partner Service Center of Kenneth Copeland Ministries in Texas.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251202150000 +0000" stop="20251202153000 +0000" channel="93024">
+    <title lang="en">Faith School With Keith Moore</title>
+    <desc lang="en">Keith Moore teaches the ABCs of faith in a manner that provides revelation for both new believers and longtime Christians.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251202153000 +0000" stop="20251202160000 +0000" channel="93024">
+    <title lang="en">Andrew Wommack: Gospel Truth</title>
+    <sub-title lang="en">A Believer or a Disciple</sub-title>
+    <desc lang="en">Andrew shares the importance of becoming a disciple and not just being born-again.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251202160000 +0000" stop="20251202163000 +0000" channel="93024">
+    <title lang="en">Kenneth Copeland</title>
+    <desc lang="en">You've got the victory; Kenneth Copeland explains how Jesus gave you His authority over death; be reminded of the power and victory you have through Christ's loving sacrifice!</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251202163000 +0000" stop="20251202170000 +0000" channel="93024">
+    <title lang="en">Fixing the Money Thing</title>
+    <desc lang="en">Pastor Gary Keesee provides insights and solutions on the topics of finances, family and faith.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251202170000 +0000" stop="20251202173000 +0000" channel="93024">
+    <title lang="en">Live Your Dreams</title>
+    <sub-title lang="en">5 Ways to Manage Your Time</sub-title>
+    <desc lang="en">Time management and organization can sometimes be a difficult task to master; Terri discusses five ways to manage time better.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251202173000 +0000" stop="20251202180000 +0000" channel="93024">
+    <title lang="en">Victory in Prayer</title>
+    <desc lang="en">Hosts take your prayer requests and agree with you in the spirit of faith - from the Partner Service Center of Kenneth Copeland Ministries in Texas.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251202180000 +0000" stop="20251202183000 +0000" channel="93024">
+    <title lang="en">The Place for Miracles</title>
+    <desc lang="en">Richard and Lindsay Roberts.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251202183000 +0000" stop="20251202190000 +0000" channel="93024">
+    <title lang="en">Rick Renner</title>
+    <sub-title lang="en">Is God Guiding Your Next Step?</sub-title>
+    <desc lang="en">Rick Renner's in-depth Bible teachings, using the Greek text, help listeners gain new insight from God's Word.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251202190000 +0000" stop="20251202193000 +0000" channel="93024">
+    <title lang="en">Jerry Savelle Ministries</title>
+    <sub-title lang="en">Adventures in Faith</sub-title>
+    <desc lang="en">Jerry Savelle shares motivational messages from God's Word designed to teach individuals how to win in life.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251202193000 +0000" stop="20251202200000 +0000" channel="93024">
+    <title lang="en">Jesus the Healer With Nancy Dufresne</title>
+    <desc lang="en">The weekly broadcast of Nancy Dufresne ministers from the Word on various topics, including faith, healing and more.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251202200000 +0000" stop="20251202203000 +0000" channel="93024">
+    <title lang="en">Rally TV</title>
+    <desc lang="en">Rally TV is focused on helping our audience take their faith to the next level. We believe that if God can do it for us, He can do it for you!</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251202203000 +0000" stop="20251202210000 +0000" channel="93024">
+    <title lang="en">Andrew Wommack: Gospel Truth</title>
+    <sub-title lang="en">A Believer or a Disciple</sub-title>
+    <desc lang="en">Andrew shares the importance of becoming a disciple and not just being born-again.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251202210000 +0000" stop="20251202213000 +0000" channel="93024">
+    <title lang="en">Bill Winston: Believers Walk of Faith</title>
+    <desc lang="en">Biblical teachings on kingdom principles.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251202213000 +0000" stop="20251202220000 +0000" channel="93024">
+    <title lang="en">Faith Matters with Andre &amp; Jenny</title>
+    <desc lang="en">Inspiring programs that brings practical, Godly Wisdom straight into the hearts and minds viewers through enlightening discussions and dialogue.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251202220000 +0000" stop="20251202223000 +0000" channel="93024">
+    <title lang="en">Mark Hankins</title>
+    <desc lang="en">Mark and Trina Hankins minister the spirit of faith, the message of who the believer is in Christ and the work of the Holy Spirit.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251202223000 +0000" stop="20251202230000 +0000" channel="93024">
+    <title lang="en">The Prosperous Life</title>
+    <desc lang="en">Gloria Copeland and Pastor George Pearsons reveal from Scripture that it is God's will for people to be prosperous in every area of their lives.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251202230000 +0000" stop="20251202233000 +0000" channel="93024">
+    <title lang="en">Victory News</title>
+    <desc lang="en">VICTORY News is here to bring you daily news you can trust-always delivered in the spirit of faith; stay informed and encouraged with faith, facts and freedom.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251202233000 +0000" stop="20251203000000 +0000" channel="93024">
+    <title lang="en">A Carla Shellis Christmas</title>
+    <sub-title lang="en">Treasured Traditions</sub-title>
+    <desc lang="en">Carla shares her favorite family traditions, hosts a cookie party, and reminds us it's never too late to start making memories that matter.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251203000000 +0000" stop="20251203003000 +0000" channel="93024">
+    <title lang="en">Rick Renner</title>
+    <sub-title lang="en">Is God Guiding Your Next Step?</sub-title>
+    <desc lang="en">Rick Renner's in-depth Bible teachings, using the Greek text, help listeners gain new insight from God's Word.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251203003000 +0000" stop="20251203010000 +0000" channel="93024">
+    <title lang="en">Kenneth Copeland</title>
+    <desc lang="en">You've got the victory; Kenneth Copeland explains how Jesus gave you His authority over death; be reminded of the power and victory you have through Christ's loving sacrifice!</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251203010000 +0000" stop="20251203020000 +0000" channel="93024">
+    <title lang="en">FlashPoint</title>
+    <desc lang="en">News and commentary about current events and issues facing America and the world in a spirit of faith.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251203020000 +0000" stop="20251203023000 +0000" channel="93024">
+    <title lang="en">Victory News</title>
+    <desc lang="en">VICTORY News is here to bring you daily news you can trust-always delivered in the spirit of faith; stay informed and encouraged with faith, facts and freedom.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251203023000 +0000" stop="20251203030000 +0000" channel="93024">
+    <title lang="en">Prophetic Witness</title>
+    <desc lang="en">Dr. Billye Brim discusses biblical events and principles.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251203030000 +0000" stop="20251203033000 +0000" channel="93024">
+    <title lang="en">Faith School With Keith Moore</title>
+    <desc lang="en">Keith Moore teaches the ABCs of faith in a manner that provides revelation for both new believers and longtime Christians.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251203033000 +0000" stop="20251203040000 +0000" channel="93024">
+    <title lang="en">Kenneth Copeland</title>
+    <desc lang="en">You've got the victory; Kenneth Copeland explains how Jesus gave you His authority over death; be reminded of the power and victory you have through Christ's loving sacrifice!</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251203040000 +0000" stop="20251203043000 +0000" channel="93024">
+    <title lang="en">Andrew Wommack: Gospel Truth</title>
+    <sub-title lang="en">A Believer or a Disciple</sub-title>
+    <desc lang="en">Andrew shares the importance of becoming a disciple and not just being born-again.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251203043000 +0000" stop="20251203050000 +0000" channel="93024">
+    <title lang="en">Inside With Mike Barber Ministries</title>
+    <desc lang="en">Pastor Mike Barber shares his testimony INSIDE a Texas prison. He shares his journey from a 10 year career the NFL to full time prison ministry.</desc>
     <rating>
       <value>TV-G</value>
     </rating>
