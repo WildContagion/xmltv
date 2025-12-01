@@ -1,15 +1,5 @@
 [ 
   {
-    "xmltv_id": "15218",
-    "device": "X",
-    "lineup_id": "USA-GNSTR-DEFAULT",
-    "headend_id": "GNSTR",
-    "country": "USA",
-    "postal": "12084",
-    "site_id": "15218",
-    "name": "Programming Unavailable (PRGNOT)"
-  },
-  {
     "xmltv_id": "120551",
     "device": "X",
     "lineup_id": "USA-GNSTR-DEFAULT",
