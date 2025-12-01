@@ -31,9 +31,9 @@ jobs:
           
       - name: execute py script
         run: |
-          python ./gracenote/gracenote.py
-          python ./gracenote/gracenote.py ./gracenote/USA-GNSTR-DEFAULT.json ./guide/USA-GNSTR-DEFAULT.xml
-          python ./gracenote/gracenote.py ./gracenote/USA-C-BAND-DEFAULT.json ./guide/USA-C-BAND-DEFAULT.xml
+          python ./service/gracenote/gracenote.py
+          python ./service/gracenote/gracenote.py ./service/gracenote/USA-GNSTR-DEFAULT.json ./guide/USA-GNSTR-DEFAULT.xml
+          python ./service/gracenote/gracenote.py ./service/gracenote/USA-C-BAND-DEFAULT.json ./guide/USA-C-BAND-DEFAULT.xml
           python ./service/fuel/main.py
           gzip -c ./guide/gracenote.xml > ./guide/gracenote.xml.gz
                 
