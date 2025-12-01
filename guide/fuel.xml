@@ -4,9 +4,6 @@
   <channel id="e48409e7-672d-42f2-b5e0-ebb6744b0425">
     <display-name>Scheduled General News Channel</display-name>
   </channel>
-  <programme start="20251201050000 +0000" stop="20251201060000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
-    <title lang="en">News 9 Recent Stories</title>
-  </programme>
   <programme start="20251201060000 +0000" stop="20251201100000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
     <title lang="en">News 9 Recent Stories</title>
     <desc lang="en">News stories from the last 24 hours in and around the Oklahoma City area.</desc>
@@ -765,17 +762,13 @@
   <programme start="20251215050000 +0000" stop="20251215060000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
     <title lang="en">News 9 Recent Stories</title>
   </programme>
+  <programme start="20251215060000 +0000" stop="20251215100000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 Recent Stories</title>
+    <desc lang="en">News stories from the last 24 hours in and around the Oklahoma City area.</desc>
+  </programme>
   <channel id="4c674289-8bca-4dae-a7ee-1c8338d44961">
     <display-name>O&amp;O - Scheduled Programming (PRIMARY FEED)</display-name>
   </channel>
-  <programme start="20251201050000 +0000" stop="20251201060000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
-    <title lang="en">KSL 5 News Sunday at 10 PM</title>
-    <desc lang="en">The day's top news items presented by Garna Mejia, Ashley Moser and Dan Rascon, along with the sports scores and the latest weather report from Kristen Van Dyke. Saturdays/Sundays</desc>
-  </programme>
-  <programme start="20251201060000 +0000" stop="20251201070000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
-    <title lang="en">KSL News Sunday at 10PM (Repeat)</title>
-    <desc lang="en">The day's major news events, business reports, local sports updates, weather information and tomorrow's forecast are presented by Deanie Wimmer, Mike Headrick, Debbie Worthen, Kevin Eubank and the KSL 5 News Team. Weekdays.</desc>
-  </programme>
   <programme start="20251201070000 +0000" stop="20251201080000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
     <title lang="en">KSL News Sunday at 10PM (Repeat)</title>
   </programme>
@@ -2305,5 +2298,12 @@
   <programme start="20251215050000 +0000" stop="20251215060000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
     <title lang="en">KSL 5 News Sunday at 10 PM</title>
     <desc lang="en">The day's top news items presented by Garna Mejia, Ashley Moser and Dan Rascon, along with the sports scores and the latest weather report from Kristen Van Dyke. Saturdays/Sundays</desc>
+  </programme>
+  <programme start="20251215060000 +0000" stop="20251215070000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News Sunday at 10PM (Repeat)</title>
+    <desc lang="en">The day's major news events, business reports, local sports updates, weather information and tomorrow's forecast are presented by Deanie Wimmer, Mike Headrick, Debbie Worthen, Kevin Eubank and the KSL 5 News Team. Weekdays.</desc>
+  </programme>
+  <programme start="20251215070000 +0000" stop="20251215080000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News Sunday at 10PM (Repeat)</title>
   </programme>
 </tv>
