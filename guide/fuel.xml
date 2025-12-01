@@ -4,14 +4,6 @@
   <channel id="e48409e7-672d-42f2-b5e0-ebb6744b0425">
     <display-name>Scheduled General News Channel</display-name>
   </channel>
-  <programme start="20251201060000 +0000" stop="20251201100000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
-    <title lang="en">News 9 Recent Stories</title>
-    <desc lang="en">News stories from the last 24 hours in and around the Oklahoma City area.</desc>
-  </programme>
-  <programme start="20251201100000 +0000" stop="20251201110000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
-    <title lang="en">News 9 First at 430am</title>
-    <desc lang="en">The News 9 Team presents the news of the day, stories of interest and the current weather forecast.</desc>
-  </programme>
   <programme start="20251201110000 +0000" stop="20251201120000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
     <title lang="en">News 9 at 5am</title>
     <desc lang="en">The News 9 Morning Team presents the news of the day, stories of interest and the current weather forecast.</desc>
@@ -766,27 +758,17 @@
     <title lang="en">News 9 Recent Stories</title>
     <desc lang="en">News stories from the last 24 hours in and around the Oklahoma City area.</desc>
   </programme>
+  <programme start="20251215100000 +0000" stop="20251215110000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 First at 430am</title>
+    <desc lang="en">The News 9 Team presents the news of the day, stories of interest and the current weather forecast.</desc>
+  </programme>
+  <programme start="20251215110000 +0000" stop="20251215120000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 at 5am</title>
+    <desc lang="en">The News 9 Morning Team presents the news of the day, stories of interest and the current weather forecast.</desc>
+  </programme>
   <channel id="4c674289-8bca-4dae-a7ee-1c8338d44961">
     <display-name>O&amp;O - Scheduled Programming (PRIMARY FEED)</display-name>
   </channel>
-  <programme start="20251201070000 +0000" stop="20251201080000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
-    <title lang="en">KSL News Sunday at 10PM (Repeat)</title>
-  </programme>
-  <programme start="20251201080000 +0000" stop="20251201090000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
-    <title lang="en">KSL News Sunday at 10PM (Repeat)</title>
-  </programme>
-  <programme start="20251201090000 +0000" stop="20251201093000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
-    <title lang="en">Rosenesque - History</title>
-  </programme>
-  <programme start="20251201093000 +0000" stop="20251201100000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
-    <title lang="en">Rosenesque - Family Friends &amp; Loved Ones</title>
-  </programme>
-  <programme start="20251201100000 +0000" stop="20251201103000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
-    <title lang="en">Rosenesque - Everybody Dance</title>
-  </programme>
-  <programme start="20251201103000 +0000" stop="20251201110000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
-    <title lang="en">Rosenesque - Carnival Of The Animals</title>
-  </programme>
   <programme start="20251201110000 +0000" stop="20251201113000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
     <title lang="en">Rosenesque - Rosenesque Art</title>
   </programme>
@@ -2305,5 +2287,23 @@
   </programme>
   <programme start="20251215070000 +0000" stop="20251215080000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
     <title lang="en">KSL News Sunday at 10PM (Repeat)</title>
+  </programme>
+  <programme start="20251215080000 +0000" stop="20251215090000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News Sunday at 10PM (Repeat)</title>
+  </programme>
+  <programme start="20251215090000 +0000" stop="20251215093000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Rosenesque - History</title>
+  </programme>
+  <programme start="20251215093000 +0000" stop="20251215100000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Rosenesque - Family Friends &amp; Loved Ones</title>
+  </programme>
+  <programme start="20251215100000 +0000" stop="20251215103000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Rosenesque - Everybody Dance</title>
+  </programme>
+  <programme start="20251215103000 +0000" stop="20251215110000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Rosenesque - Carnival Of The Animals</title>
+  </programme>
+  <programme start="20251215110000 +0000" stop="20251215113000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Rosenesque - Rosenesque Art</title>
   </programme>
 </tv>

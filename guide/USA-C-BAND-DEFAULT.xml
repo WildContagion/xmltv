@@ -1,8 +1,5 @@
 <?xml version="1.0" ?>
 <tv source-info-name="Gracenote TV Listings" source-info-url="https://tvlistings.gracenote.com" generator-info-name="Gracenote TV Converter">
-  <channel id="15218">
-    <display-name>Programming Unavailable (PRGNOT)</display-name>
-  </channel>
   <channel id="73067">
     <display-name>Bounce TV</display-name>
   </channel>
@@ -75,6 +72,9 @@
   <channel id="34169">
     <display-name>Positiv TV</display-name>
   </channel>
+  <channel id="60111">
+    <display-name>Pursuit Channel</display-name>
+  </channel>
   <channel id="11069">
     <display-name>QVC</display-name>
   </channel>
@@ -99,42 +99,6 @@
   <channel id="56725">
     <display-name>World</display-name>
   </channel>
-  <programme start="20251201070000 +0000" stop="20251201110000 +0000" channel="15218">
-    <title>Programming Unavailable</title>
-  </programme>
-  <programme start="20251201110000 +0000" stop="20251201150000 +0000" channel="15218">
-    <title>Programming Unavailable</title>
-  </programme>
-  <programme start="20251201150000 +0000" stop="20251201190000 +0000" channel="15218">
-    <title>Programming Unavailable</title>
-  </programme>
-  <programme start="20251201190000 +0000" stop="20251201230000 +0000" channel="15218">
-    <title>Programming Unavailable</title>
-  </programme>
-  <programme start="20251201230000 +0000" stop="20251202030000 +0000" channel="15218">
-    <title>Programming Unavailable</title>
-  </programme>
-  <programme start="20251202030000 +0000" stop="20251202070000 +0000" channel="15218">
-    <title>Programming Unavailable</title>
-  </programme>
-  <programme start="20251202070000 +0000" stop="20251202110000 +0000" channel="15218">
-    <title>Programming Unavailable</title>
-  </programme>
-  <programme start="20251202110000 +0000" stop="20251202150000 +0000" channel="15218">
-    <title>Programming Unavailable</title>
-  </programme>
-  <programme start="20251202150000 +0000" stop="20251202190000 +0000" channel="15218">
-    <title>Programming Unavailable</title>
-  </programme>
-  <programme start="20251202190000 +0000" stop="20251202230000 +0000" channel="15218">
-    <title>Programming Unavailable</title>
-  </programme>
-  <programme start="20251202230000 +0000" stop="20251203030000 +0000" channel="15218">
-    <title>Programming Unavailable</title>
-  </programme>
-  <programme start="20251203030000 +0000" stop="20251203070000 +0000" channel="15218">
-    <title>Programming Unavailable</title>
-  </programme>
   <programme start="20251201050000 +0000" stop="20251201070000 +0000" channel="73067">
     <title>Armed Response</title>
     <desc>Owners (Ethan Embry, Michael Gladis) of a failing security company in a practically crime-free community decide to boost business by robbing their neighbors' homes.</desc>
@@ -10577,6 +10541,768 @@
   <programme start="20251203033000 +0000" stop="20251203060000 +0000" channel="34169">
     <title>A Christmas Wish</title>
     <desc>The owner (Tess Harper) of a diner helps a homeless woman (Kristy Swanson) and her children during the holidays.</desc>
+  </programme>
+  <programme start="20251201050000 +0000" stop="20251201053000 +0000" channel="60111">
+    <title>Meet Superstar Santa</title>
+    <desc>The breakthrough 7-foot tree that opens in seconds, fully lit and decorated! You have to see it to believe it! The new generation of Christmas trees is finally here! Stores flat after the holidays. No stress. No mess. Just pure Christmas magic!</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251201053000 +0000" stop="20251201060000 +0000" channel="60111">
+    <title>The American Way</title>
+    <sub-title>Thomas Doubles in Indiana</sub-title>
+    <desc>Thomas gets to double up in one day in Indiana.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251201060000 +0000" stop="20251201063000 +0000" channel="60111">
+    <title>Shoot Straight TV</title>
+    <sub-title>Breanna's First Bull</sub-title>
+    <desc>This week on Shoot Straight TV Breanna Schearer is going after elk and mule deer in Montana. Walker and Breanna have their infant son, Bennett along for the ride for his mom's first elk hunt. Marsha will have a delicious recipe from the field.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251201063000 +0000" stop="20251201070000 +0000" channel="60111">
+    <title>Live The Wild Life</title>
+    <sub-title>Salmon River</sub-title>
+    <desc>Join the Live the Wild Life crew and friends as they explore the Salmon River.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251201070000 +0000" stop="20251201073000 +0000" channel="60111">
+    <title>The Ozonics Experience</title>
+    <sub-title>Dream Season</sub-title>
+    <desc>Ozonics takes you inside Team 200 with Texas State Trooper and giant whitetail killer Tarif Alkhatib.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251201073000 +0000" stop="20251201080000 +0000" channel="60111">
+    <title>The Way It Was Tv</title>
+    <sub-title>New Mexico with Pa</sub-title>
+    <desc>On this episode of The Way It Was, Sid and Lynn head to their annual New Mexico elk hunt-a tradition they've cherished for years. This time, Lynn brings along his grandson Amos, hoping he can tag his first New Mexico bull. Along the way, the guys.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251201080000 +0000" stop="20251201083000 +0000" channel="60111">
+    <title>On The Road</title>
+    <sub-title>Montana Speed goat</sub-title>
+    <desc>On this episode Rock and the gang pick up good buddy Donald Trump Jr. and head to Montana for a Antelope hunt.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251201083000 +0000" stop="20251201090000 +0000" channel="60111">
+    <title>NEW Shark Upright Vacuum! PowerDetect</title>
+    <desc>Shark's most advanced, innovative upright vacuum.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251201090000 +0000" stop="20251201093000 +0000" channel="60111">
+    <title>The Aging Brain</title>
+    <desc>Learn what's behind mental decline with age, and how to improve memory, focus and concentration with NeuroQ's Darrin Peterson and Dale Bredesen MD.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251201093000 +0000" stop="20251201100000 +0000" channel="60111">
+    <title>Mass Pursuit Tv</title>
+    <sub-title>Pursuit Channel Presents: Mass Pursuit TV 09/01/25</sub-title>
+    <desc>Pursuit Channel Presents: Mass Pursuit TV 09/01/25.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251201100000 +0000" stop="20251201103000 +0000" channel="60111">
+    <title>Meet Superstar Santa</title>
+    <desc>The breakthrough 7-foot tree that opens in seconds, fully lit and decorated! You have to see it to believe it! The new generation of Christmas trees is finally here! Stores flat after the holidays. No stress. No mess. Just pure Christmas magic!</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251201103000 +0000" stop="20251201110000 +0000" channel="60111">
+    <title>Hunting With HECS</title>
+    <sub-title>Adaptive Tactics Pay Off!</sub-title>
+    <desc>This week HECS founder Mike Slinkard is hunting late season Mule deer in New Mexico, but due to wild weather, he has to adapt his tactics on the fly to be successful!</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251201110000 +0000" stop="20251201113000 +0000" channel="60111">
+    <title>Fly Rod Chronicles</title>
+    <sub-title>I am a Gamechanger</sub-title>
+    <desc>Curtis heads back to the Greenbriar for the 4th annual Gamechanger event and spends the day fly fishing for trout with some of the amazing men and women who are dedicated to keep drugs out of our school systems.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251201113000 +0000" stop="20251201120000 +0000" channel="60111">
+    <title>Innerloc's Out-There</title>
+    <desc>Travel with Corey Bossman to far away places for various game.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251201120000 +0000" stop="20251201123000 +0000" channel="60111">
+    <title>The Big Reveal</title>
+    <sub-title>Aires Tech: The Invisible Shield</sub-title>
+    <desc>Sheriff Mark Lamb (Surviving Mann) and UFC Hall of Famer Ken Shamrock (Surviving Mann) team up to explore a groundbreaking innovation changing how we live in a world surrounded by invisible forces. Josh Bruni, CEO of Aires Tech.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251201123000 +0000" stop="20251201130000 +0000" channel="60111">
+    <title>The Direction</title>
+    <sub-title>The Direction ends and begins</sub-title>
+    <desc>Mark takes you to his home lake in Taylorsville, KY - Taylorsville Lake for some fall bassin'. Mark normally has a guest but with this being his final network filmed show he takes us us on a journey of telling how he got started.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251201130000 +0000" stop="20251201133000 +0000" channel="60111">
+    <title>Just Kill'n Time TV</title>
+    <sub-title>Missouri Monarchs and Iowa Giants</sub-title>
+    <desc>Join Buck as he finishes up his hunt in Missouri. Then join Crew Member Shawn Jenks as he encounters a giant Iowa whitetail.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251201133000 +0000" stop="20251201140000 +0000" channel="60111">
+    <title>Mark Peterson's The Journey Within</title>
+    <sub-title>The Guides-Life Of an Outfitter: Preparation Is Key</sub-title>
+    <desc>This episode takes us back to Lost Bridge Duck Club in the heart of Arkansas, where success isn't left to chance. Even when the migration is slower than it should be, the work doesn't stop. From adjusting tactics and scouting new ground.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251201140000 +0000" stop="20251201143000 +0000" channel="60111">
+    <title>Argo Presents How To Hunt</title>
+    <sub-title>The 5x5 Giant Whitetail That Came From Nowhere: Weber Outfitting Part 1</sub-title>
+    <desc>Ryan Kohler gets an unexpected encounter with a massive 5x5 ghost whitetail that's never been seen before. Saskatchewan delivers big surprises with Weber Outfitting.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251201143000 +0000" stop="20251201150000 +0000" channel="60111">
+    <title>Wicked Tuna</title>
+    <sub-title>Man v. Storm</sub-title>
+    <desc>The Captains have to decide whether to fish or take shelter when an intense storm slams into the shores of Massachusetts.</desc>
+    <episode-num system="xmltv_ns">1.6.0</episode-num>
+    <episode-num system="onscreen">S1E6</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251201150000 +0000" stop="20251201153000 +0000" channel="60111">
+    <title>Wicked Tuna</title>
+    <sub-title>Man v. Storm</sub-title>
+    <desc>The Captains have to decide whether to fish or take shelter when an intense storm slams into the shores of Massachusetts.</desc>
+    <episode-num system="xmltv_ns">1.6.0</episode-num>
+    <episode-num system="onscreen">S1E6</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251201153000 +0000" stop="20251201160000 +0000" channel="60111">
+    <title>Scott Martin Challenge</title>
+    <sub-title>Lake County Florida Big Bass Challenge with Hilary Martin</sub-title>
+    <desc>Scott &amp; Hilary Martin take the BIG BASS Challenge in Lake County Florida on the Harris Chain of Lakes!</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251201160000 +0000" stop="20251201163000 +0000" channel="60111">
+    <title>Dean Partridge's Canadian Whitetail</title>
+    <sub-title>Bent Beam PT2</sub-title>
+    <desc>Part 2 of Taylors Excalibur Crowwbow hunt for an anciant boone and crocket typical.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251201163000 +0000" stop="20251201170000 +0000" channel="60111">
+    <title>The Ozonics Experience</title>
+    <sub-title>Dream Season</sub-title>
+    <desc>Ozonics takes you inside Team 200 with Texas State Trooper and giant whitetail killer Tarif Alkhatib.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251201170000 +0000" stop="20251201173000 +0000" channel="60111">
+    <title>Weird Hunts</title>
+    <sub-title>Welcome to Weird Hunts</sub-title>
+    <desc>Matt Busbice takes us on a wild ride, well… he takes a full body mount buck on a tricycle ride as he tries to coax in a mature buck to shooting range. Then it's off to Wyoming with his good buddies, David Williams and Andy Melton, to hunt.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251201173000 +0000" stop="20251201180000 +0000" channel="60111">
+    <title>Swarovski Optik Quests</title>
+    <sub-title>New Mexico Elk Rut</sub-title>
+    <desc>Elk hunting in the prime of the rut in New Mexico at the Mescalero Apache Reservation.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251201180000 +0000" stop="20251201183000 +0000" channel="60111">
+    <title>Ted Nugent Spirit Of The Wild</title>
+    <sub-title>Collins Creek Ranch</sub-title>
+    <desc>Ted travels to The Collins Creek Ranch and scores on a classic Texas 10 and Shemane talks about the black bear over population in Florida.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251201183000 +0000" stop="20251201190000 +0000" channel="60111">
+    <title>North American Trapper</title>
+    <sub-title>The Strickland Farm</sub-title>
+    <desc>Trapping nest raiders on Cuz Strickland's farm in Mississippi.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251201190000 +0000" stop="20251201193000 +0000" channel="60111">
+    <title>Target Rich Environment</title>
+    <sub-title>A chance to dance!</sub-title>
+    <desc>From night-time thermal hog hunting to high-flying helicopter action, the crew takes on Texas pigs in every way possible - then wraps it up with the opening day of dove season in Avalon, where the skies come alive at first light.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251201193000 +0000" stop="20251201200000 +0000" channel="60111">
+    <title>Code of Silence</title>
+    <sub-title>Cracking the Whitetail Code</sub-title>
+    <desc>Crack the code and become a more successful whitetail hunter with Code of Silence.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251201200000 +0000" stop="20251201203000 +0000" channel="60111">
+    <title>The High Road With Keith Warren</title>
+    <sub-title>First Thermal Hog Hunt</sub-title>
+    <desc>On this episode of The High Road with Keith Warren, Taylor and Tyler Tiller of Timber Creek Outdoors join Keith and Johnny Piazza in Texas for a thermal hog hunt with Bering Optics. Watch as Taylor learns just how difficult hunting hogs.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251201203000 +0000" stop="20251201210000 +0000" channel="60111">
+    <title>Shoot Straight TV</title>
+    <sub-title>Breanna's First Bull</sub-title>
+    <desc>This week on Shoot Straight TV Breanna Schearer is going after elk and mule deer in Montana. Walker and Breanna have their infant son, Bennett along for the ride for his mom's first elk hunt. Marsha will have a delicious recipe from the field.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251201210000 +0000" stop="20251201213000 +0000" channel="60111">
+    <title>Trigger Time Tv</title>
+    <sub-title>Versatility in Action</sub-title>
+    <desc>A: Grip Nuances B: Transitions/Mantis Acadamy C: Lever Action RIA D: External Ballistics.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251201213000 +0000" stop="20251201220000 +0000" channel="60111">
+    <title>DraftKings Sportsbook Report</title>
+    <desc>DraftKings Sportsbook, a top-rated sportsbook app!</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251201220000 +0000" stop="20251201223000 +0000" channel="60111">
+    <title>Hunting With HECS</title>
+    <sub-title>Adaptive Tactics Pay Off!</sub-title>
+    <desc>This week HECS founder Mike Slinkard is hunting late season Mule deer in New Mexico, but due to wild weather, he has to adapt his tactics on the fly to be successful!</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251201223000 +0000" stop="20251201230000 +0000" channel="60111">
+    <title>Take Aim Adventures</title>
+    <sub-title>Doubled In The Bog</sub-title>
+    <desc>Joe had several close encounters with a nice shooter all through bow season, but it just didn't work out. On his way back to the truck on the last archery sit of the year, Joe stumbled across a shooter and put a 1.5 hour stalk on him.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251201230000 +0000" stop="20251201233000 +0000" channel="60111">
+    <title>The Bearded Buck</title>
+    <sub-title>Illinois Proving Grounds Part: 1</sub-title>
+    <desc>Jerry and Austin have a lot of anticipation is they head into their first year hunting their new property in Illinois.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251201233000 +0000" stop="20251202000000 +0000" channel="60111">
+    <title>Higdon Outdoors Tv</title>
+    <sub-title>1107 Ducks in the Arkansas Pines</sub-title>
+    <desc>When you think of Arkansas duck hunting, you're probably not picturing greenheads dropping into pine trees. Rory Herndon of Xpress Boats welcomes the Higdon Crew to his special spot in Arkansas and the duck hunting does not disappoint!</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251202000000 +0000" stop="20251202003000 +0000" channel="60111">
+    <title>The Way It Was Tv</title>
+    <sub-title>New Mexico with Pa</sub-title>
+    <desc>On this episode of The Way It Was, Sid and Lynn head to their annual New Mexico elk hunt-a tradition they've cherished for years. This time, Lynn brings along his grandson Amos, hoping he can tag his first New Mexico bull. Along the way, the guys.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251202003000 +0000" stop="20251202010000 +0000" channel="60111">
+    <title>Wiebe Trapline Adventures</title>
+    <sub-title>Red and Mark Raccoon in SD Part 1</sub-title>
+    <desc>Two aging trappers team up on a raccoon line. Using Cold Creek dog-proof traps they make a fine catch while enjoying each other's company. Join Mark Steck and Red O'Hearn on a South Dakota trapline.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251202010000 +0000" stop="20251202013000 +0000" channel="60111">
+    <title>Dean Partridge's Canadian Whitetail</title>
+    <sub-title>Bent Beam PT2</sub-title>
+    <desc>Part 2 of Taylors Excalibur Crowwbow hunt for an anciant boone and crocket typical.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251202013000 +0000" stop="20251202020000 +0000" channel="60111">
+    <title>Red Arrow Tv</title>
+    <sub-title>Campbell Kids Double Trouble</sub-title>
+    <desc>Kip is still on the hunt with his bow for a monster Texas whitetail while his oldest boy Cade gets a chance at his biggest buck ever! Kip's daughter.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251202020000 +0000" stop="20251202023000 +0000" channel="60111">
+    <title>For Love Or Likes</title>
+    <sub-title>Coyote Ugly</sub-title>
+    <desc>The animals start dropping and points start racking up as the girls get comfortable in front of the camera. A coyote puts on a show chasing an already shot doe and the biggest buck in For Love or Likes history.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251202023000 +0000" stop="20251202030000 +0000" channel="60111">
+    <title>The American Way</title>
+    <sub-title>Thomas Doubles in Indiana</sub-title>
+    <desc>Thomas gets to double up in one day in Indiana.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251202030000 +0000" stop="20251202033000 +0000" channel="60111">
+    <title>Swarovski Optik Quests</title>
+    <sub-title>New Mexico Elk Rut</sub-title>
+    <desc>Elk hunting in the prime of the rut in New Mexico at the Mescalero Apache Reservation.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251202033000 +0000" stop="20251202040000 +0000" channel="60111">
+    <title>Fishing &amp; Hunting Texas</title>
+    <sub-title>Hunting Turkey, Aoudad and Does</sub-title>
+    <desc>Fishing and Hunting Texas Host Clark Wendlandt get's a lesson on Turkey hunting from his friends and then he looks back on a crossbow hunt and share insight on his thoughts on crossbows.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251202040000 +0000" stop="20251202043000 +0000" channel="60111">
+    <title>Maxed Outdoors</title>
+    <sub-title>I Took a Comedian Deer Hunting</sub-title>
+    <desc>Comedian Justin Stagner joins Max in South Texas to prove himself in the outdoor world. Watch as they go on a quail hunt and Justin harvests a mature whitetail. Max also takes hunting lessons from the great Buck Norris.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251202043000 +0000" stop="20251202050000 +0000" channel="60111">
+    <title>The Choice</title>
+    <sub-title>Bull Moose &amp; Brownings '25</sub-title>
+    <desc>Vicki Cianciarulo and Shaundi from Browning go to Efford's Hunting Adventures to spot and stalk Newfoundland Bull Moose!</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251202050000 +0000" stop="20251202053000 +0000" channel="60111">
+    <title>The Bearded Buck</title>
+    <sub-title>Illinois Proving Grounds Part: 1</sub-title>
+    <desc>Jerry and Austin have a lot of anticipation is they head into their first year hunting their new property in Illinois.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251202053000 +0000" stop="20251202060000 +0000" channel="60111">
+    <title>Doug Koenig's Championship Season</title>
+    <sub-title>The Bianchi Cup Part 2</sub-title>
+    <desc>Join Shooting Pro Doug Koenig as he travels with his son Bradley to Columbia, Missouri at the Green Valley Rifle and Pistol Club to compete in Day 2 of the 2025 CMP Bianchi Cup Championship. Koenig is shooting with his Ruger SR1911 pistol.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251202060000 +0000" stop="20251202063000 +0000" channel="60111">
+    <title>The Way It Was Tv</title>
+    <sub-title>New Mexico with Pa</sub-title>
+    <desc>On this episode of The Way It Was, Sid and Lynn head to their annual New Mexico elk hunt-a tradition they've cherished for years. This time, Lynn brings along his grandson Amos, hoping he can tag his first New Mexico bull. Along the way, the guys.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251202063000 +0000" stop="20251202070000 +0000" channel="60111">
+    <title>Game On With Blaine Anthony</title>
+    <sub-title>Bears to Backstraps</sub-title>
+    <desc>Blaine finishes his hunt for bears, than heads to the midwest in search of a big buck.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251202070000 +0000" stop="20251202073000 +0000" channel="60111">
+    <title>Trophy Pond</title>
+    <sub-title>A Three-Acre Pond in East Tennessee</sub-title>
+    <desc>Walt and his employee Eric catch big bluegill.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251202073000 +0000" stop="20251202080000 +0000" channel="60111">
+    <title>For Love Or Likes</title>
+    <sub-title>Coyote Ugly</sub-title>
+    <desc>The animals start dropping and points start racking up as the girls get comfortable in front of the camera. A coyote puts on a show chasing an already shot doe and the biggest buck in For Love or Likes history.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251202080000 +0000" stop="20251202083000 +0000" channel="60111">
+    <title>Viejo Creek Outdoors</title>
+    <sub-title>Buster Simpson</sub-title>
+    <desc>Keith has an enjoyable week guiding his dad to success for whitetail and wild boar at Viejo Creek Ranch.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251202083000 +0000" stop="20251202090000 +0000" channel="60111">
+    <title>NEW Shark Upright Vacuum! PowerDetect</title>
+    <desc>Shark's most advanced, innovative upright vacuum.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251202090000 +0000" stop="20251202093000 +0000" channel="60111">
+    <title>The Aging Brain</title>
+    <desc>Learn what's behind mental decline with age, and how to improve memory, focus and concentration with NeuroQ's Darrin Peterson and Dale Bredesen MD.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251202093000 +0000" stop="20251202100000 +0000" channel="60111">
+    <title>Carolina All Out</title>
+    <sub-title>Satellite Tagging Bull Reds !</sub-title>
+    <desc>A ground breaking research project is coming to the Sounds of North Carolina! Chad Thomas of the North Carolina Marine &amp; Estuary Foundation is standing by as we hook bull reds and bring them to the boat to fit with satellite tags that will help us.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251202100000 +0000" stop="20251202103000 +0000" channel="60111">
+    <title>Skeeter Bass Champs</title>
+    <sub-title>2024 Team Championship Day 1</sub-title>
+    <desc>It's Day 1 at Lake Texoma and West Bay Casino for the 2024 Skeeter Bass Champs Team Championship as we follow a couple of familiar teams!</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251202103000 +0000" stop="20251202110000 +0000" channel="60111">
+    <title>Higdon Outdoors Tv</title>
+    <sub-title>1107 Ducks in the Arkansas Pines</sub-title>
+    <desc>When you think of Arkansas duck hunting, you're probably not picturing greenheads dropping into pine trees. Rory Herndon of Xpress Boats welcomes the Higdon Crew to his special spot in Arkansas and the duck hunting does not disappoint!</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251202110000 +0000" stop="20251202113000 +0000" channel="60111">
+    <title>Jimmy Houston Outdoors</title>
+    <sub-title>Hunting with Merrick</sub-title>
+    <desc>Jimmy and great grandson are hunting.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251202113000 +0000" stop="20251202120000 +0000" channel="60111">
+    <title>Huntech Pro - African Series</title>
+    <sub-title>Moments Made: Annual Hunt with Huntech Pro</sub-title>
+    <desc>Join us for another unforgettable adventure in Season 5 Episode 10 of Huntech Pro, as we host our Annual Hunt - this year at the stunning Dewou Lodge in the Waterberg!</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251202120000 +0000" stop="20251202123000 +0000" channel="60111">
+    <title>Pursue The Wild</title>
+    <sub-title>High Elevation Archery to Bowhunting in the Heartland - Missouri Archery Whitetail</sub-title>
+    <desc>Join Kristy Titus as we dive into the heart-pounding world of bowhunting across the heartland. From the high elevation challenges of the Total Archery Challenge to the pursuit of bowhunting's most iconic species, whitetail deer.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251202123000 +0000" stop="20251202130000 +0000" channel="60111">
+    <title>Mojo Untamed</title>
+    <sub-title>Crushing in Canada</sub-title>
+    <desc>Terry and the crew head to Ranchland Outfitters in Alberta Canada to hunt with long time friend Rob Reynolds.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251202130000 +0000" stop="20251202133000 +0000" channel="60111">
+    <title>The Direction</title>
+    <sub-title>The Direction ends and begins</sub-title>
+    <desc>Mark takes you to his home lake in Taylorsville, KY - Taylorsville Lake for some fall bassin'. Mark normally has a guest but with this being his final network filmed show he takes us us on a journey of telling how he got started.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251202133000 +0000" stop="20251202140000 +0000" channel="60111">
+    <title>Red Arrow Tv</title>
+    <sub-title>Campbell Kids Double Trouble</sub-title>
+    <desc>Kip is still on the hunt with his bow for a monster Texas whitetail while his oldest boy Cade gets a chance at his biggest buck ever! Kip's daughter.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251202140000 +0000" stop="20251202143000 +0000" channel="60111">
+    <title>Fly Rod Chronicles</title>
+    <sub-title>I am a Gamechanger</sub-title>
+    <desc>Curtis heads back to the Greenbriar for the 4th annual Gamechanger event and spends the day fly fishing for trout with some of the amazing men and women who are dedicated to keep drugs out of our school systems.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251202143000 +0000" stop="20251202150000 +0000" channel="60111">
+    <title>Hank Parker's Outdoor Magazine</title>
+    <sub-title>Linker Land with Bass Man Rand</sub-title>
+    <desc>On this episode of Hank Parker's Outdoor Magazine we travel to central FL to connect with Rand AKA the Bass Man! Hank and Rand have been wanting to get together and fish for some time now and as luck would have it the starts aligned.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251202150000 +0000" stop="20251202153000 +0000" channel="60111">
+    <title>DraftKings Sportsbook Report</title>
+    <desc>DraftKings Sportsbook, a top-rated sportsbook app!</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251202153000 +0000" stop="20251202160000 +0000" channel="60111">
+    <title>Open Season</title>
+    <sub-title>Jace's Indiana Whitetail</sub-title>
+    <desc>This week James and Chuck's good friends from verdict ammunition come out to Indiana to hunt Whitetail.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251202160000 +0000" stop="20251202163000 +0000" channel="60111">
+    <title>Dominating The Night - The Shinenyx Equation</title>
+    <sub-title>The Fusion solution.</sub-title>
+    <desc>Expand your hunting opportunities by adding Digital Night Vision and thermal optics to your arsenal. Let Shinenyx take you on a nighttime hunting adventure and see the world in a whole new light.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251202163000 +0000" stop="20251202170000 +0000" channel="60111">
+    <title>Live The Wild Life</title>
+    <sub-title>Salmon River</sub-title>
+    <desc>Join the Live the Wild Life crew and friends as they explore the Salmon River.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251202170000 +0000" stop="20251202173000 +0000" channel="60111">
+    <title>Code of Silence</title>
+    <sub-title>Cracking the Whitetail Code</sub-title>
+    <desc>Crack the code and become a more successful whitetail hunter with Code of Silence.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251202173000 +0000" stop="20251202180000 +0000" channel="60111">
+    <title>Conquest 200 - Life on a Family Deer Farm</title>
+    <sub-title>The Work Behind ConQuest Scents</sub-title>
+    <desc>Step behind the scenes of a working whitetail deer farm to discover the real story behind hunting scents. In Farm Chores, Doug Roberts of Conquest Scents reveals the surprising truth about deer urine collection-how it's regulated.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251202180000 +0000" stop="20251202183000 +0000" channel="60111">
+    <title>Americana Outdoors Presented By Garmin</title>
+    <sub-title>Hunting Big Game With Handguns and Dove Hunting Tips</sub-title>
+    <desc>This week on Americana Outdoors presented by Garmin, we're spending opening weekend of September out in the field with Wade Middleton and his good friend Chris Clarkson and his son, Hunter, as they aim their shotguns high in the sky.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251202183000 +0000" stop="20251202190000 +0000" channel="60111">
+    <title>The Big Reveal</title>
+    <sub-title>Aires Tech: The Invisible Shield</sub-title>
+    <desc>Sheriff Mark Lamb (Surviving Mann) and UFC Hall of Famer Ken Shamrock (Surviving Mann) team up to explore a groundbreaking innovation changing how we live in a world surrounded by invisible forces. Josh Bruni, CEO of Aires Tech.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251202190000 +0000" stop="20251202193000 +0000" channel="60111">
+    <title>Maxed Outdoors</title>
+    <sub-title>I Took a Comedian Deer Hunting</sub-title>
+    <desc>Comedian Justin Stagner joins Max in South Texas to prove himself in the outdoor world. Watch as they go on a quail hunt and Justin harvests a mature whitetail. Max also takes hunting lessons from the great Buck Norris.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251202193000 +0000" stop="20251202200000 +0000" channel="60111">
+    <title>DraftKings Sportsbook Report</title>
+    <desc>DraftKings Sportsbook, a top-rated sportsbook app!</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251202200000 +0000" stop="20251202203000 +0000" channel="60111">
+    <title>Whitetail Frenzy</title>
+    <sub-title>The Whitetail Lottery</sub-title>
+    <desc>Kenny will be bow hunting whitetail in the Appalachian Mountains of Southern West Virginia. Meanwhile the Chili Man Dee Cowger and our grand prize winner John Tipton have both drawn a coveted tag to archery hunt at Twin Falls State Park.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251202203000 +0000" stop="20251202210000 +0000" channel="60111">
+    <title>Shoot Straight TV</title>
+    <sub-title>Breanna's First Bull</sub-title>
+    <desc>This week on Shoot Straight TV Breanna Schearer is going after elk and mule deer in Montana. Walker and Breanna have their infant son, Bennett along for the ride for his mom's first elk hunt. Marsha will have a delicious recipe from the field.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251202210000 +0000" stop="20251202213000 +0000" channel="60111">
+    <title>On The Road</title>
+    <sub-title>Montana Speed goat</sub-title>
+    <desc>On this episode Rock and the gang pick up good buddy Donald Trump Jr. and head to Montana for a Antelope hunt.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251202213000 +0000" stop="20251202220000 +0000" channel="60111">
+    <title>Ted Nugent Spirit Of The Wild</title>
+    <sub-title>Collins Creek Ranch</sub-title>
+    <desc>Ted travels to The Collins Creek Ranch and scores on a classic Texas 10 and Shemane talks about the black bear over population in Florida.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251202220000 +0000" stop="20251202223000 +0000" channel="60111">
+    <title>Fishing &amp; Hunting Texas</title>
+    <sub-title>Hunting Turkey, Aoudad and Does</sub-title>
+    <desc>Fishing and Hunting Texas Host Clark Wendlandt get's a lesson on Turkey hunting from his friends and then he looks back on a crossbow hunt and share insight on his thoughts on crossbows.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251202223000 +0000" stop="20251202230000 +0000" channel="60111">
+    <title>Hunting With HECS</title>
+    <sub-title>Adaptive Tactics Pay Off!</sub-title>
+    <desc>This week HECS founder Mike Slinkard is hunting late season Mule deer in New Mexico, but due to wild weather, he has to adapt his tactics on the fly to be successful!</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251202230000 +0000" stop="20251202233000 +0000" channel="60111">
+    <title>North American Trapper Showcase</title>
+    <sub-title>Coyote and Raccoon Conservation</sub-title>
+    <desc>Protect your land and control nuisance predators effectively with specialized trapping packages from North American Trapper.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251202233000 +0000" stop="20251203000000 +0000" channel="60111">
+    <title>The Ozonics Experience</title>
+    <sub-title>Dream Season</sub-title>
+    <desc>Ozonics takes you inside Team 200 with Texas State Trooper and giant whitetail killer Tarif Alkhatib.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251203000000 +0000" stop="20251203003000 +0000" channel="60111">
+    <title>Scott Martin Challenge</title>
+    <sub-title>Lake County Florida Big Bass Challenge with Hilary Martin</sub-title>
+    <desc>Scott &amp; Hilary Martin take the BIG BASS Challenge in Lake County Florida on the Harris Chain of Lakes!</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251203003000 +0000" stop="20251203010000 +0000" channel="60111">
+    <title>Slock Master</title>
+    <sub-title>Blood Red - Part 10</sub-title>
+    <desc>The Slock Master reveals the tricks and tips that fool predators. Bowhunting coyotes, fox, lion, bobcat and more with incredible close up call ins and amazing archery action. Watch the world's top bow hunter slock em on The Slock Master.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251203010000 +0000" stop="20251203013000 +0000" channel="60111">
+    <title>200</title>
+    <sub-title>Bluegrass Bucks</sub-title>
+    <desc>Shan Twit, the newest member of Team200, chases some big whitetails in his home state of Kentucky!</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251203013000 +0000" stop="20251203020000 +0000" channel="60111">
+    <title>Modern Hunter</title>
+    <sub-title>Elk, Axis and Bears, OH MY!</sub-title>
+    <desc>Brad Rucks looks back on his first every successful hunts of Elk, Axis Deer &amp; Black Bear.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251203020000 +0000" stop="20251203023000 +0000" channel="60111">
+    <title>Game On With Blaine Anthony</title>
+    <sub-title>Bears to Backstraps</sub-title>
+    <desc>Blaine finishes his hunt for bears, than heads to the midwest in search of a big buck.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251203023000 +0000" stop="20251203030000 +0000" channel="60111">
+    <title>Deer and Deer Hunting</title>
+    <sub-title>Surviving Winter</sub-title>
+    <desc>When temperatures plummet and the landscape is buried in snow, the whitetail deer's true resilience is put to the test.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251203030000 +0000" stop="20251203033000 +0000" channel="60111">
+    <title>Yamaha's Whitetail Diaries</title>
+    <sub-title>Bowhunting in Bourbon Country pt 1</sub-title>
+    <desc>Filmed in September Airs 1st week November.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251203033000 +0000" stop="20251203040000 +0000" channel="60111">
+    <title>Dominating The Night - The Shinenyx Equation</title>
+    <sub-title>The Fusion solution.</sub-title>
+    <desc>Expand your hunting opportunities by adding Digital Night Vision and thermal optics to your arsenal. Let Shinenyx take you on a nighttime hunting adventure and see the world in a whole new light.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251203040000 +0000" stop="20251203043000 +0000" channel="60111">
+    <title>Conquest 200 - Life on a Family Deer Farm</title>
+    <sub-title>The Work Behind ConQuest Scents</sub-title>
+    <desc>Step behind the scenes of a working whitetail deer farm to discover the real story behind hunting scents. In Farm Chores, Doug Roberts of Conquest Scents reveals the surprising truth about deer urine collection-how it's regulated.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251203043000 +0000" stop="20251203050000 +0000" channel="60111">
+    <title>Americana Outdoors Presented By Garmin</title>
+    <sub-title>Hunting Big Game With Handguns and Dove Hunting Tips</sub-title>
+    <desc>This week on Americana Outdoors presented by Garmin, we're spending opening weekend of September out in the field with Wade Middleton and his good friend Chris Clarkson and his son, Hunter, as they aim their shotguns high in the sky.</desc>
+    <rating>
+      <value>TV-G</value>
+    </rating>
   </programme>
   <programme start="20251201050000 +0000" stop="20251201060000 +0000" channel="11069">
     <title>Cyber Monday</title>

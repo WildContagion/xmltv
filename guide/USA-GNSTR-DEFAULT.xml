@@ -1,8 +1,5 @@
 <?xml version="1.0" ?>
 <tv source-info-name="Gracenote TV Listings" source-info-url="https://tvlistings.gracenote.com" generator-info-name="Gracenote TV Converter">
-  <channel id="15218">
-    <display-name>Programming Unavailable (PRGNOT)</display-name>
-  </channel>
   <channel id="120551">
     <display-name>AccuWeather NOW</display-name>
   </channel>
@@ -114,42 +111,6 @@
   <channel id="127882">
     <display-name>WSOC Charlotte</display-name>
   </channel>
-  <programme start="20251201070000 +0000" stop="20251201110000 +0000" channel="15218">
-    <title>Programming Unavailable</title>
-  </programme>
-  <programme start="20251201110000 +0000" stop="20251201150000 +0000" channel="15218">
-    <title>Programming Unavailable</title>
-  </programme>
-  <programme start="20251201150000 +0000" stop="20251201190000 +0000" channel="15218">
-    <title>Programming Unavailable</title>
-  </programme>
-  <programme start="20251201190000 +0000" stop="20251201230000 +0000" channel="15218">
-    <title>Programming Unavailable</title>
-  </programme>
-  <programme start="20251201230000 +0000" stop="20251202030000 +0000" channel="15218">
-    <title>Programming Unavailable</title>
-  </programme>
-  <programme start="20251202030000 +0000" stop="20251202070000 +0000" channel="15218">
-    <title>Programming Unavailable</title>
-  </programme>
-  <programme start="20251202070000 +0000" stop="20251202110000 +0000" channel="15218">
-    <title>Programming Unavailable</title>
-  </programme>
-  <programme start="20251202110000 +0000" stop="20251202150000 +0000" channel="15218">
-    <title>Programming Unavailable</title>
-  </programme>
-  <programme start="20251202150000 +0000" stop="20251202190000 +0000" channel="15218">
-    <title>Programming Unavailable</title>
-  </programme>
-  <programme start="20251202190000 +0000" stop="20251202230000 +0000" channel="15218">
-    <title>Programming Unavailable</title>
-  </programme>
-  <programme start="20251202230000 +0000" stop="20251203030000 +0000" channel="15218">
-    <title>Programming Unavailable</title>
-  </programme>
-  <programme start="20251203030000 +0000" stop="20251203070000 +0000" channel="15218">
-    <title>Programming Unavailable</title>
-  </programme>
   <programme start="20251201050000 +0000" stop="20251201053000 +0000" channel="120551">
     <title>AccuWeather Weekend</title>
     <desc>Wherever your destination, traveling local or far, indoor or outdoor, you can be sure AccuWeather Weekend always has you covered.</desc>
