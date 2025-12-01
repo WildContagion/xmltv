@@ -250,6 +250,16 @@
     "name": "Positiv TV"
   },
   {
+    "xmltv_id": "60111",
+    "device": "X",
+    "lineup_id": "USA-C-BAND-DEFAULT",
+    "headend_id": "C-BAND",
+    "country": "USA",
+    "postal": "12084",
+    "site_id": "60111",
+    "name": "Pursuit Channel"
+  },
+  {
     "xmltv_id": "11069",
     "device": "X",
     "lineup_id": "USA-C-BAND-DEFAULT",
