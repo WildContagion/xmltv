@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<channels>
+  <channel xmltv_id="20055" site_id="X/USA-0000001-CUSTOM/0000001/USA/12084/20055">Community Access - COAC</channel>
+  <channel xmltv_id="32011" site_id="X/USA-0000001-CUSTOM/0000001/USA/12084/32011">Community Programming - COMMPRG</channel>
+  <channel xmltv_id="15749" site_id="X/USA-0000001-CUSTOM/0000001/USA/12084/15749">Educational Access - EDAC</channel>
+  <channel xmltv_id="106288" site_id="X/USA-0000001-CUSTOM/0000001/USA/12084/106288">Government Access</channel>
+  <channel xmltv_id="16175" site_id="X/USA-0000001-CUSTOM/0000001/USA/12084/16175">Local Programming</channel>
+  <channel xmltv_id="20114" site_id="X/USA-0000001-CUSTOM/0000001/USA/12084/20114">Paid Programs</channel>
+  <channel xmltv_id="15218" site_id="X/USA-0000001-CUSTOM/0000001/USA/12084/15218">Programming Unavailable (PRGNOT)</channel>
+  <channel xmltv_id="14788" site_id="X/USA-0000001-CUSTOM/0000001/USA/12084/14788">Public Access - PUAC</channel>
+  <channel xmltv_id="22568" site_id="X/USA-0000001-CUSTOM/0000001/USA/12084/22568">Public, Educational, Government PEG</channel>
+  <channel xmltv_id="22564" site_id="X/USA-0000001-CUSTOM/0000001/USA/12084/22564">Radio Channel</channel>
+</channels>
