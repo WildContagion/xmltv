@@ -31,8 +31,8 @@ jobs:
           
       - name: execute py script
         run: |
-          python ./scripts/gracenote_to_xmltv.py ./channels/gracenote.channels.xml -o ./guide/gracenote.xml
-          python ./scripts/gracenote_to_xmltv.py ./channels/USA-C-BAND-DEFAULT.channels.xml -o ./guide/USA-C-BAND-DEFAULT.xml
+          python ./scripts/gracenote_to_xmltv.py ./channels/gracenote/gracenote.channels.xml -o ./guide/gracenote.xml
+          python ./scripts/gracenote_to_xmltv.py ./channels/gracenote/USA-C-BAND-DEFAULT.channels.xml -o ./guide/USA-C-BAND-DEFAULT.xml
           gzip -c ./guide/gracenote.xml > ./guide/gracenote.xml.gz
                 
       - name: Commit and Push Changes
