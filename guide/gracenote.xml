@@ -1,4 +1,5 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <tv source-info-name="Gracenote TV Listings" source-info-url="https://tvlistings.gracenote.com" generator-info-name="Gracenote TV Converter">
   <channel id="20055">
     <display-name>Community Access - COAC</display-name>
@@ -11,9 +12,6 @@
   </channel>
   <channel id="106288">
     <display-name>Government Access</display-name>
-  </channel>
-  <channel id="22579">
-    <display-name>Information Channel - INFO</display-name>
   </channel>
   <channel id="16175">
     <display-name>Local Programming</display-name>
@@ -67,6 +65,24 @@
     <title>Community Access</title>
   </programme>
   <programme start="20251204030000 +0000" stop="20251204070000 +0000" channel="20055">
+    <title>Community Access</title>
+  </programme>
+  <programme start="20251204070000 +0000" stop="20251204110000 +0000" channel="20055">
+    <title>Community Access</title>
+  </programme>
+  <programme start="20251204110000 +0000" stop="20251204150000 +0000" channel="20055">
+    <title>Community Access</title>
+  </programme>
+  <programme start="20251204150000 +0000" stop="20251204190000 +0000" channel="20055">
+    <title>Community Access</title>
+  </programme>
+  <programme start="20251204190000 +0000" stop="20251204230000 +0000" channel="20055">
+    <title>Community Access</title>
+  </programme>
+  <programme start="20251204230000 +0000" stop="20251205030000 +0000" channel="20055">
+    <title>Community Access</title>
+  </programme>
+  <programme start="20251205030000 +0000" stop="20251205070000 +0000" channel="20055">
     <title>Community Access</title>
   </programme>
   <programme start="20251202070000 +0000" stop="20251202110000 +0000" channel="32011">
@@ -141,6 +157,42 @@
       <value>TV-Y</value>
     </rating>
   </programme>
+  <programme start="20251204070000 +0000" stop="20251204110000 +0000" channel="32011">
+    <title>Community Programming</title>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20251204110000 +0000" stop="20251204150000 +0000" channel="32011">
+    <title>Community Programming</title>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20251204150000 +0000" stop="20251204190000 +0000" channel="32011">
+    <title>Community Programming</title>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20251204190000 +0000" stop="20251204230000 +0000" channel="32011">
+    <title>Community Programming</title>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20251204230000 +0000" stop="20251205030000 +0000" channel="32011">
+    <title>Community Programming</title>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20251205030000 +0000" stop="20251205070000 +0000" channel="32011">
+    <title>Community Programming</title>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
   <programme start="20251202070000 +0000" stop="20251202110000 +0000" channel="15749">
     <title>Educational Access</title>
   </programme>
@@ -175,6 +227,24 @@
     <title>Educational Access</title>
   </programme>
   <programme start="20251204030000 +0000" stop="20251204070000 +0000" channel="15749">
+    <title>Educational Access</title>
+  </programme>
+  <programme start="20251204070000 +0000" stop="20251204110000 +0000" channel="15749">
+    <title>Educational Access</title>
+  </programme>
+  <programme start="20251204110000 +0000" stop="20251204150000 +0000" channel="15749">
+    <title>Educational Access</title>
+  </programme>
+  <programme start="20251204150000 +0000" stop="20251204190000 +0000" channel="15749">
+    <title>Educational Access</title>
+  </programme>
+  <programme start="20251204190000 +0000" stop="20251204230000 +0000" channel="15749">
+    <title>Educational Access</title>
+  </programme>
+  <programme start="20251204230000 +0000" stop="20251205030000 +0000" channel="15749">
+    <title>Educational Access</title>
+  </programme>
+  <programme start="20251205030000 +0000" stop="20251205070000 +0000" channel="15749">
     <title>Educational Access</title>
   </programme>
   <programme start="20251202070000 +0000" stop="20251202110000 +0000" channel="106288">
@@ -213,53 +283,23 @@
   <programme start="20251204030000 +0000" stop="20251204070000 +0000" channel="106288">
     <title>Government Access</title>
   </programme>
-  <programme start="20251202070000 +0000" stop="20251202110000 +0000" channel="22579">
-    <title>Information Channel</title>
-    <desc>Instructions on how to order pay per view and how to use your epg.</desc>
+  <programme start="20251204070000 +0000" stop="20251204110000 +0000" channel="106288">
+    <title>Government Access</title>
   </programme>
-  <programme start="20251202110000 +0000" stop="20251202150000 +0000" channel="22579">
-    <title>Information Channel</title>
-    <desc>Instructions on how to order pay per view and how to use your epg.</desc>
+  <programme start="20251204110000 +0000" stop="20251204150000 +0000" channel="106288">
+    <title>Government Access</title>
   </programme>
-  <programme start="20251202150000 +0000" stop="20251202190000 +0000" channel="22579">
-    <title>Information Channel</title>
-    <desc>Instructions on how to order pay per view and how to use your epg.</desc>
+  <programme start="20251204150000 +0000" stop="20251204190000 +0000" channel="106288">
+    <title>Government Access</title>
   </programme>
-  <programme start="20251202190000 +0000" stop="20251202230000 +0000" channel="22579">
-    <title>Information Channel</title>
-    <desc>Instructions on how to order pay per view and how to use your epg.</desc>
+  <programme start="20251204190000 +0000" stop="20251204230000 +0000" channel="106288">
+    <title>Government Access</title>
   </programme>
-  <programme start="20251202230000 +0000" stop="20251203030000 +0000" channel="22579">
-    <title>Information Channel</title>
-    <desc>Instructions on how to order pay per view and how to use your epg.</desc>
+  <programme start="20251204230000 +0000" stop="20251205030000 +0000" channel="106288">
+    <title>Government Access</title>
   </programme>
-  <programme start="20251203030000 +0000" stop="20251203070000 +0000" channel="22579">
-    <title>Information Channel</title>
-    <desc>Instructions on how to order pay per view and how to use your epg.</desc>
-  </programme>
-  <programme start="20251203070000 +0000" stop="20251203110000 +0000" channel="22579">
-    <title>Information Channel</title>
-    <desc>Instructions on how to order pay per view and how to use your epg.</desc>
-  </programme>
-  <programme start="20251203110000 +0000" stop="20251203150000 +0000" channel="22579">
-    <title>Information Channel</title>
-    <desc>Instructions on how to order pay per view and how to use your epg.</desc>
-  </programme>
-  <programme start="20251203150000 +0000" stop="20251203190000 +0000" channel="22579">
-    <title>Information Channel</title>
-    <desc>Instructions on how to order pay per view and how to use your epg.</desc>
-  </programme>
-  <programme start="20251203190000 +0000" stop="20251203230000 +0000" channel="22579">
-    <title>Information Channel</title>
-    <desc>Instructions on how to order pay per view and how to use your epg.</desc>
-  </programme>
-  <programme start="20251203230000 +0000" stop="20251204030000 +0000" channel="22579">
-    <title>Information Channel</title>
-    <desc>Instructions on how to order pay per view and how to use your epg.</desc>
-  </programme>
-  <programme start="20251204030000 +0000" stop="20251204070000 +0000" channel="22579">
-    <title>Information Channel</title>
-    <desc>Instructions on how to order pay per view and how to use your epg.</desc>
+  <programme start="20251205030000 +0000" stop="20251205070000 +0000" channel="106288">
+    <title>Government Access</title>
   </programme>
   <programme start="20251202070000 +0000" stop="20251202110000 +0000" channel="16175">
     <title>LA/PEG</title>
@@ -295,6 +335,24 @@
     <title>LA/PEG</title>
   </programme>
   <programme start="20251204030000 +0000" stop="20251204070000 +0000" channel="16175">
+    <title>LA/PEG</title>
+  </programme>
+  <programme start="20251204070000 +0000" stop="20251204110000 +0000" channel="16175">
+    <title>LA/PEG</title>
+  </programme>
+  <programme start="20251204110000 +0000" stop="20251204150000 +0000" channel="16175">
+    <title>LA/PEG</title>
+  </programme>
+  <programme start="20251204150000 +0000" stop="20251204190000 +0000" channel="16175">
+    <title>LA/PEG</title>
+  </programme>
+  <programme start="20251204190000 +0000" stop="20251204230000 +0000" channel="16175">
+    <title>LA/PEG</title>
+  </programme>
+  <programme start="20251204230000 +0000" stop="20251205030000 +0000" channel="16175">
+    <title>LA/PEG</title>
+  </programme>
+  <programme start="20251205030000 +0000" stop="20251205070000 +0000" channel="16175">
     <title>LA/PEG</title>
   </programme>
   <programme start="20251202070000 +0000" stop="20251202110000 +0000" channel="15218">
@@ -333,6 +391,24 @@
   <programme start="20251204030000 +0000" stop="20251204070000 +0000" channel="15218">
     <title>Programming Unavailable</title>
   </programme>
+  <programme start="20251204070000 +0000" stop="20251204110000 +0000" channel="15218">
+    <title>Programming Unavailable</title>
+  </programme>
+  <programme start="20251204110000 +0000" stop="20251204150000 +0000" channel="15218">
+    <title>Programming Unavailable</title>
+  </programme>
+  <programme start="20251204150000 +0000" stop="20251204190000 +0000" channel="15218">
+    <title>Programming Unavailable</title>
+  </programme>
+  <programme start="20251204190000 +0000" stop="20251204230000 +0000" channel="15218">
+    <title>Programming Unavailable</title>
+  </programme>
+  <programme start="20251204230000 +0000" stop="20251205030000 +0000" channel="15218">
+    <title>Programming Unavailable</title>
+  </programme>
+  <programme start="20251205030000 +0000" stop="20251205070000 +0000" channel="15218">
+    <title>Programming Unavailable</title>
+  </programme>
   <programme start="20251202070000 +0000" stop="20251202110000 +0000" channel="14788">
     <title>Public Access</title>
   </programme>
@@ -367,6 +443,24 @@
     <title>Public Access</title>
   </programme>
   <programme start="20251204030000 +0000" stop="20251204070000 +0000" channel="14788">
+    <title>Public Access</title>
+  </programme>
+  <programme start="20251204070000 +0000" stop="20251204110000 +0000" channel="14788">
+    <title>Public Access</title>
+  </programme>
+  <programme start="20251204110000 +0000" stop="20251204150000 +0000" channel="14788">
+    <title>Public Access</title>
+  </programme>
+  <programme start="20251204150000 +0000" stop="20251204190000 +0000" channel="14788">
+    <title>Public Access</title>
+  </programme>
+  <programme start="20251204190000 +0000" stop="20251204230000 +0000" channel="14788">
+    <title>Public Access</title>
+  </programme>
+  <programme start="20251204230000 +0000" stop="20251205030000 +0000" channel="14788">
+    <title>Public Access</title>
+  </programme>
+  <programme start="20251205030000 +0000" stop="20251205070000 +0000" channel="14788">
     <title>Public Access</title>
   </programme>
   <programme start="20251202070000 +0000" stop="20251202110000 +0000" channel="22568">
@@ -405,6 +499,24 @@
   <programme start="20251204030000 +0000" stop="20251204070000 +0000" channel="22568">
     <title>Public, Educational, Government Access</title>
   </programme>
+  <programme start="20251204070000 +0000" stop="20251204110000 +0000" channel="22568">
+    <title>Public, Educational, Government Access</title>
+  </programme>
+  <programme start="20251204110000 +0000" stop="20251204150000 +0000" channel="22568">
+    <title>Public, Educational, Government Access</title>
+  </programme>
+  <programme start="20251204150000 +0000" stop="20251204190000 +0000" channel="22568">
+    <title>Public, Educational, Government Access</title>
+  </programme>
+  <programme start="20251204190000 +0000" stop="20251204230000 +0000" channel="22568">
+    <title>Public, Educational, Government Access</title>
+  </programme>
+  <programme start="20251204230000 +0000" stop="20251205030000 +0000" channel="22568">
+    <title>Public, Educational, Government Access</title>
+  </programme>
+  <programme start="20251205030000 +0000" stop="20251205070000 +0000" channel="22568">
+    <title>Public, Educational, Government Access</title>
+  </programme>
   <programme start="20251202070000 +0000" stop="20251202110000 +0000" channel="22564">
     <title>Radio Channel</title>
   </programme>
@@ -439,6 +551,24 @@
     <title>Radio Channel</title>
   </programme>
   <programme start="20251204030000 +0000" stop="20251204070000 +0000" channel="22564">
+    <title>Radio Channel</title>
+  </programme>
+  <programme start="20251204070000 +0000" stop="20251204110000 +0000" channel="22564">
+    <title>Radio Channel</title>
+  </programme>
+  <programme start="20251204110000 +0000" stop="20251204150000 +0000" channel="22564">
+    <title>Radio Channel</title>
+  </programme>
+  <programme start="20251204150000 +0000" stop="20251204190000 +0000" channel="22564">
+    <title>Radio Channel</title>
+  </programme>
+  <programme start="20251204190000 +0000" stop="20251204230000 +0000" channel="22564">
+    <title>Radio Channel</title>
+  </programme>
+  <programme start="20251204230000 +0000" stop="20251205030000 +0000" channel="22564">
+    <title>Radio Channel</title>
+  </programme>
+  <programme start="20251205030000 +0000" stop="20251205070000 +0000" channel="22564">
     <title>Radio Channel</title>
   </programme>
 </tv>
