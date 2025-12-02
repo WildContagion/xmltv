@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml version="1.0" encoding="utf-8"?>
 <tv source-info-name="Gracenote TV Listings" source-info-url="https://tvlistings.gracenote.com" generator-info-name="Gracenote TV Converter">
   <channel id="73067">
@@ -161,7 +160,8 @@
   </programme>
   <programme start="20251202120000 +0000" stop="20251202130000 +0000" channel="73067">
     <title lang="en">Sherri</title>
-    <desc lang="en">Actress, comic and Emmy Award-winning longtime co-host of &quot;The View&quot; Sherri Shepherd appears before a live audience with a daily dose of pop culture, comedy, conversations and daytime talk staples, including celebrity and human-interest interviews.</desc>
+    <sub-title lang="en">Debbie Gibson</sub-title>
+    <desc lang="en">Sherri kicks off the show with laughs; musician Debbie Gibson (memoir &quot;Eternally Electric&quot;); Nia Sioux (&quot;Dance Moms,&quot; memoir &quot;Bottom of the Pyramid: A Memoir of Persevering, Dancing for Myself and Starring in My Own Life&quot;); Sherri's Pop Up Shop.</desc>
     <episode-num system="xmltv_ns">4.49.0</episode-num>
     <episode-num system="onscreen">S4E49</episode-num>
     <rating>
@@ -381,7 +381,8 @@
   </programme>
   <programme start="20251203120000 +0000" stop="20251203130000 +0000" channel="73067">
     <title lang="en">Sherri</title>
-    <desc lang="en">Actress, comic and Emmy Award-winning longtime co-host of &quot;The View&quot; Sherri Shepherd appears before a live audience with a daily dose of pop culture, comedy, conversations and daytime talk staples, including celebrity and human-interest interviews.</desc>
+    <sub-title lang="en">Kyle Richards</sub-title>
+    <desc lang="en">Sherri kicks off the show with laughs in The Stand-Up Spot; Kyle Richards (&quot;The Real Housewives of Beverly Hills&quot;); dating advice; the holiday's hottest toys.</desc>
     <episode-num system="xmltv_ns">4.50.0</episode-num>
     <episode-num system="onscreen">S4E50</episode-num>
     <rating>
@@ -601,7 +602,8 @@
   </programme>
   <programme start="20251204120000 +0000" stop="20251204130000 +0000" channel="73067">
     <title lang="en">Sherri</title>
-    <desc lang="en">Actress, comic and Emmy Award-winning longtime co-host of &quot;The View&quot; Sherri Shepherd appears before a live audience with a daily dose of pop culture, comedy, conversations and daytime talk staples, including celebrity and human-interest interviews.</desc>
+    <sub-title lang="en">Michael Urie</sub-title>
+    <desc lang="en">Sherri kicks off the show with laughs in The Stand-Up Spot; actor Michael Urie (Off-Broadway's &quot;Richard II&quot;); chef Carla Hall mixes up some holiday treats and tells about FOX's three-week competition reality show &quot;Next Level Baker.&quot;</desc>
     <episode-num system="xmltv_ns">4.51.0</episode-num>
     <episode-num system="onscreen">S4E51</episode-num>
     <rating>
