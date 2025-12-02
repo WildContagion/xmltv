@@ -229,7 +229,7 @@ def create_xmltv(channels: List[Dict], all_programs: List[List[Dict]]) -> str:
     pretty_xml = parsed.toprettyxml(indent='  ', encoding='utf-8')
     
     # Add XML declaration
-    return b'<?xml version="1.0" encoding="UTF-8"?>\n' + pretty_xml
+    return + pretty_xml
 
 def main():
     args = parse_args()
