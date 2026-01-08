@@ -1,77 +1,74 @@
 # .gitlab-ci.yml
 
-# Stages: Jobs in the same stage run in parallel. The next stage starts when all jobs in the current stage are complete.
+# Define the stages (optional but good practice)
 stages:
   - build
+  - deploy
 
-# Cache: Caching the pip environment for faster runs.
-# The 'pip' cache key can be simplified to just a file list.
+# Define a cache for Python dependencies
 cache:
-  key: ${CI_COMMIT_REF_SLUG}
   paths:
-    - .venv
-    - /usr/local/lib/python3.10/site-packages
-  policy: pull-push
+    - .venv/
 
-# Define the Python image to use for the job.
-# This replaces `runs-on: ubuntu-latest` and part of `actions/setup-python@v5`.
-# We use a specific Python 3.10 image from Docker Hub.
-image: python:3.10-slim
-
-# The 'load' job definition
-load:
+# --- Job to Load and Generate XMLTV ---
+xmltv_generator:
   stage: build
   
-  # Before any script runs, set up the Python environment and install dependencies.
-  # This replaces the `Set up Python` and `Install dependencies` steps.
-  before_script:
-    # Use venv for a cleaner environment setup
+  # Use a suitable Docker image with Python 3.10
+  image: python:3.10-slim
+  
+  # Control when the job runs
+  rules:
+    # 1. Run on a schedule (cron equivalent)
+    - if: $CI_PIPELINE_SOURCE == "schedule"
+    # 2. Run on manual workflow_dispatch (equivalent to a manual trigger)
+    - if: $CI_PIPELINE_SOURCE == "web"
+    # 3. Run on push to main branch, only if paths are modified
+    - if: $CI_COMMIT_BRANCH == "main" && ($CI_COMMIT_BEFORE_SHA != "0000000000000000000000000000000000000000" && changes)
+      changes:
+        - '.gitlab-ci.yml'
+      
+  # Define the necessary commands to run
+  script:
+    - echo "Setting up Python environment and dependencies..."
+    # Set up a virtual environment and use the cache
     - python -m venv .venv
     - source .venv/bin/activate
-    - python -m pip install --upgrade pip
+    
+    # Install dependencies
+    - pip install --upgrade pip
     - pip install -r requirements.txt
-  
-  # Script: The main execution steps. This replaces the `execute py script` and `Commit and Push Changes` steps.
-  script:
+    
+    echo "Executing Python scripts to generate XMLTV files..."
+    # Execute Python scripts
     - python ./scripts/gracenote_to_xmltv.py ./channels/gracenote/gracenote.channels.xml -o ./guide/gracenote.xml
     - python ./scripts/gracenote_to_xmltv.py ./channels/gracenote/USA-C-BAND-DEFAULT.channels.xml -o ./guide/USA-C-BAND-DEFAULT.xml
     - python ./scripts/gracenote_to_xmltv.py ./channels/gracenote/USA-GNSTR-DEFAULT.channels.xml -o ./guide/USA-GNSTR-DEFAULT.xml
+    
+    # Gzip the main file
     - gzip -c ./guide/gracenote.xml > ./guide/gracenote.xml.gz
     
-    # Git commit and push logic
-    # Note: For pushing, you'll need to use a personal access token stored in a CI/CD variable 
-    # instead of hardcoding user/email. $GITLAB_TOKEN is a common placeholder.
-    # The `&& break` is removed as it's not standard in a shell script for this purpose.
+    echo "Committing and pushing changes..."
+    # The following steps require you to configure a **CI/CD Access Token** # with `write_repository` permissions for the GitLab user associated with the token.
+    # The token should be stored in a CI/CD Variable named `GITLAB_PUSH_TOKEN` or similar.
+    # We will use the built-in $CI_JOB_TOKEN for read access, but a dedicated token is better for push.
+    # Assuming you set up a variable like $GITLAB_PUSH_TOKEN
+    
+    # Configure Git
     - git config --global user.name 'bot-1zk1i0zj6u'
     - git config --global user.email 'bot-1zk1i0zj6u@example.com'
+    
+    # Ensure the repository URL uses the token for pushing
+    - REMOTE_URL="https://bot-1zk1i0zj6u:${GITLAB_PUSH_TOKEN}@${CI_SERVER_HOST}/${CI_PROJECT_PATH}.git"
+    
+    # Add, Commit, and Push
     - git add --force ./guide
-    - git commit -m "Update Gracenote XMLTV" || echo "No changes to commit" # '|| echo "..."' prevents failure if no changes
-    - git push http://oauth2:$GITLAB_TOKEN@${CI_SERVER_HOST}/${CI_PROJECT_PATH}.git HEAD:main || echo "Failed to push or branch is up-to-date"
-
-  # Rules: Define when and how the job should run. This replaces the `on:` block.
-  rules:
-    # 1. Scheduled run (equivalent to cron: "0 4 * * *")
-    - if: $CI_PIPELINE_SOURCE == "schedule"
-      variables:
-        # A simple placeholder variable if you need to distinguish schedule runs.
-        SCHEDULE_RUN: "true"
-
-    # 2. Manual run (equivalent to workflow_dispatch)
-    - if: $CI_PIPELINE_SOURCE == "web"
-      when: manual
-      allow_failure: false # Allow a manual trigger to run by default
-
-    # 3. Prevent automatic runs on push/merge to avoid creating infinite loops with the git push step
-    - when: never 
-
-# --------------------------------------------------------------------------------------
-# Optional: To use the `bot-1zk1i0zj6u` user/email without having a hardcoded token in the URL,
-# you can use GitLab's built-in CI_JOB_TOKEN for read/write access to the repository:
-#
-# script:
-#   # ... previous commands
-#   - git config user.name 'bot-1zk1i0zj6u'
-#   - git config user.email 'bot-1zk1i0zj6u@example.com'
-#   - git add --force ./guide
-#   - git commit -m "Update Gracenote XMLTV" || echo "No changes to commit"
-#   - git push "https://${CI_JOB_TOKEN}@${CI_SERVER_HOST}/${CI_PROJECT_PATH}.git" HEAD:main || echo "Failed to push or branch is up-to-date"
+    - git commit -m "Update Gracenote XMLTV [skip ci]" || echo "No changes to commit"
+    # The [skip ci] prevents an infinite loop of pipeline triggers
+    - git push "${REMOTE_URL}" HEAD:main
+    
+  # Define which files to save as artifacts (optional, but good for inspection)
+  artifacts:
+    paths:
+      - ./guide/
+    expire_in: 1 day
