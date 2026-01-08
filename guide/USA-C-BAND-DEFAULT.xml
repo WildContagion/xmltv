@@ -172,7 +172,7 @@
   </programme>
   <programme start="20260108130000 +0000" stop="20260108140000 +0000" channel="73067">
     <title lang="en">Karamo</title>
-    <sub-title lang="en">Toxic: &quot;It's Trash to You&quot;; Truth: Sisters Found 3 Weeks Ago?</sub-title>
+    <sub-title lang="en">Toxic: \&quot;It's Trash to You\&quot;; Truth: Sisters Found 3 Weeks Ago?</sub-title>
     <desc lang="en">India says her best friend Lanaya suddenly cut her off once Lanaya got serious with her girlfriend; Antoinette believes that Assatta and another possible sibling may be the missing links that connect her family once and for all.</desc>
     <episode-num system="xmltv_ns">4.62.0</episode-num>
     <episode-num system="onscreen">S4E62</episode-num>
@@ -10154,7 +10154,7 @@
   <programme start="20260111013000 +0000" stop="20260111033000 +0000" channel="74978">
     <title lang="en">Yeshiva University Basketball</title>
     <sub-title lang="en">Mount St. Mary College at Yeshiva University</sub-title>
-    <desc lang="en">The Knights of Mount St. Mary College visit the Yeshiva University Maccabees live from the Max Stern Athletic Center.</desc>
+    <desc lang="en">The Knights of Mount St. Mary College visits the Yeshiva University Maccabees live from the Max Stern Athletic Center.</desc>
     <rating>
       <value>TV-PG</value>
     </rating>
