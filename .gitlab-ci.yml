@@ -55,8 +55,8 @@ xmltv_generator:
     # Assuming you set up a variable like $GITLAB_PUSH_TOKEN
     
     # Configure Git
-    - git config --global user.name 'bot-1zk1i0zj6u'
-    - git config --global user.email 'bot-1zk1i0zj6u@example.com'
+    - git config --global user.name 'gitlab-ci[bot]'
+    - git config --global user.email 'gitlab-ci[bot]@users.noreply.gitlab.com'
     
     # Ensure the repository URL uses the token for pushing
     - REMOTE_URL="https://Arkina1234:${GITLAB_PUSH_TOKEN}@${CI_SERVER_HOST}/${CI_PROJECT_PATH}.git"
