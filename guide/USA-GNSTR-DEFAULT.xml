@@ -5999,45 +5999,52 @@
     <episode-num system="xmltv_ns">1.8.0</episode-num>
     <episode-num system="onscreen">S1E8</episode-num>
   </programme>
-  <programme start="20260111000000 +0000" stop="20260111003000 +0000" channel="101103">
-    <title lang="en">NYC Revealed</title>
-    <desc lang="en">From garbage trucks to power plants, giving viewers a rare behind-the-scenes look into the sprawling network of infrastructure systems that keep New York City breathing.</desc>
-  </programme>
-  <programme start="20260111003000 +0000" stop="20260111010000 +0000" channel="101103">
-    <title lang="en">NYC Revealed</title>
-    <desc lang="en">From garbage trucks to power plants, giving viewers a rare behind-the-scenes look into the sprawling network of infrastructure systems that keep New York City breathing.</desc>
+  <programme start="20260111000000 +0000" stop="20260111010000 +0000" channel="101103">
+    <title lang="en">Entrepreneur Elevator Pitch</title>
+    <sub-title lang="en">Are You as Passionate as You Say You Are?</sub-title>
+    <desc lang="en">See who gets funding and who gets called out; Sheena Jongeneel spends 60 seconds selling her stylish children's fashion-recycling company Stylette; James Curly sells the importance of data-driven exercise with Tyger Mat.</desc>
+    <episode-num system="xmltv_ns">8.5.0</episode-num>
+    <episode-num system="onscreen">S8E5</episode-num>
   </programme>
   <programme start="20260111010000 +0000" stop="20260111013000 +0000" channel="101103">
-    <title lang="en">NYC Revealed</title>
-    <desc lang="en">From garbage trucks to power plants, giving viewers a rare behind-the-scenes look into the sprawling network of infrastructure systems that keep New York City breathing.</desc>
+    <title lang="en">Power Players</title>
+    <desc lang="en">Logan Paul, Cory Baker, Ali K.</desc>
   </programme>
   <programme start="20260111013000 +0000" stop="20260111020000 +0000" channel="101103">
-    <title lang="en">NYC Revealed</title>
-    <desc lang="en">From garbage trucks to power plants, giving viewers a rare behind-the-scenes look into the sprawling network of infrastructure systems that keep New York City breathing.</desc>
+    <title lang="en">Defense News Weekly</title>
+    <desc lang="en">Deep dive into the world of international defense and military issues.</desc>
+    <episode-num system="xmltv_ns">7.52.0</episode-num>
+    <episode-num system="onscreen">S7E52</episode-num>
   </programme>
   <programme start="20260111020000 +0000" stop="20260111023000 +0000" channel="101103">
-    <title lang="en">NYC Revealed</title>
-    <desc lang="en">From garbage trucks to power plants, giving viewers a rare behind-the-scenes look into the sprawling network of infrastructure systems that keep New York City breathing.</desc>
+    <title lang="en">NYC Innovates</title>
+    <desc lang="en">Is Prenuvo's $2,500 body scan the future of healthcare? How Aescape's A.I. massage provides tailored relief anytime for everybody.</desc>
+    <episode-num system="xmltv_ns">1.1.0</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260111023000 +0000" stop="20260111030000 +0000" channel="101103">
-    <title lang="en">NYC Revealed</title>
-    <desc lang="en">From garbage trucks to power plants, giving viewers a rare behind-the-scenes look into the sprawling network of infrastructure systems that keep New York City breathing.</desc>
+    <title lang="en">Alternative Investments</title>
+    <desc lang="en">Explore the allure and rising momentum of gold as an alternative investment, especially as prices soar to all-time highs; from ancient empires to modern portfolios, discover why gold continues to shine as a hedge against inflation.</desc>
+    <episode-num system="xmltv_ns">1.2.0</episode-num>
+    <episode-num system="onscreen">S1E2</episode-num>
   </programme>
   <programme start="20260111030000 +0000" stop="20260111033000 +0000" channel="101103">
-    <title lang="en">NYC Revealed</title>
-    <desc lang="en">From garbage trucks to power plants, giving viewers a rare behind-the-scenes look into the sprawling network of infrastructure systems that keep New York City breathing.</desc>
+    <title lang="en">Defense News Weekly</title>
+    <desc lang="en">Deep dive into the world of international defense and military issues.</desc>
+    <episode-num system="xmltv_ns">7.52.0</episode-num>
+    <episode-num system="onscreen">S7E52</episode-num>
   </programme>
   <programme start="20260111033000 +0000" stop="20260111040000 +0000" channel="101103">
-    <title lang="en">NYC Revealed</title>
-    <desc lang="en">From garbage trucks to power plants, giving viewers a rare behind-the-scenes look into the sprawling network of infrastructure systems that keep New York City breathing.</desc>
+    <title lang="en">NYC Innovates</title>
+    <desc lang="en">Discover the innovators behind NYC's changing landscape, from Central Park to Brooklyn's Domino Park; an inside look inside Soho's high-tech social wellness club.</desc>
+    <episode-num system="xmltv_ns">1.2.0</episode-num>
+    <episode-num system="onscreen">S1E2</episode-num>
   </programme>
-  <programme start="20260111040000 +0000" stop="20260111043000 +0000" channel="101103">
-    <title lang="en">NYC Revealed</title>
-    <desc lang="en">From garbage trucks to power plants, giving viewers a rare behind-the-scenes look into the sprawling network of infrastructure systems that keep New York City breathing.</desc>
-  </programme>
-  <programme start="20260111043000 +0000" stop="20260111050000 +0000" channel="101103">
-    <title lang="en">NYC Revealed</title>
-    <desc lang="en">From garbage trucks to power plants, giving viewers a rare behind-the-scenes look into the sprawling network of infrastructure systems that keep New York City breathing.</desc>
+  <programme start="20260111040000 +0000" stop="20260111050000 +0000" channel="101103">
+    <title lang="en">National Havoc Robot League</title>
+    <desc lang="en">Welcome to the NHRL. The world's best robot fighting league. NHRL host robot fights from the best competitors all over the world.</desc>
+    <episode-num system="xmltv_ns">1.8.0</episode-num>
+    <episode-num system="onscreen">S1E8</episode-num>
   </programme>
   <programme start="20260108063100 +0000" stop="20260108083300 +0000" channel="122969">
     <title lang="en">Pusher I</title>
@@ -6729,7 +6736,7 @@
   </programme>
   <programme start="20260109132800 +0000" stop="20260109150200 +0000" channel="124328">
     <title lang="en">I, Frankenstein</title>
-    <desc lang="en">200 years later, he's still alive.</desc>
+    <desc lang="en">Still alive in modern times, Frankenstein's creature (Aaron Eckhart) becomes caught in the middle, as gargoyles and demons wage war for the souls of mankind.</desc>
   </programme>
   <programme start="20260109150200 +0000" stop="20260109165500 +0000" channel="124328">
     <title lang="en">Speed Kills</title>
@@ -6760,7 +6767,7 @@
   </programme>
   <programme start="20260110033400 +0000" stop="20260110051900 +0000" channel="124328">
     <title lang="en">Punisher: War Zone</title>
-    <desc lang="en">Vengeance has a name.</desc>
+    <desc lang="en">Frank Castle, known as the Punisher, ruthlessly demolishes organized crime, but it starts an even bigger war.</desc>
     <rating>
       <value>TV-14</value>
     </rating>
@@ -6820,7 +6827,7 @@
   </programme>
   <programme start="20260110172500 +0000" stop="20260110190700 +0000" channel="124328">
     <title lang="en">Guns Akimbo</title>
-    <desc lang="en">Get loaded.</desc>
+    <desc lang="en">Miles is a video game developer who inadvertently becomes the next participant in a real-life death match that streams online. While Miles soon excels at running away from everything, that won't help him outlast Nix, a killer at the top of her game.</desc>
   </programme>
   <programme start="20260110190700 +0000" stop="20260110211500 +0000" channel="124328">
     <title lang="en">Killer Elite</title>
