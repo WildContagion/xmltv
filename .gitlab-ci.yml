@@ -1,0 +1,68 @@
+# Define stages (optional, but good practice)
+stages:
+  - build
+
+# Define the single job
+xmltv_generator:
+  # The equivalent of runs-on: ubuntu-latest
+  image: python:3.10-slim 
+  stage: build
+  
+  # How the job is triggered
+  # 'schedule' corresponds to the manual pipeline schedule created in the GitLab UI
+  # 'web' corresponds to the workflow_dispatch/manual trigger
+  # 'push' on main branch for specified paths
+  rules:
+    - if: $CI_PIPELINE_SOURCE == "schedule" # Triggered by the GitLab CI/CD Schedule (cron)
+    - if: $CI_PIPELINE_SOURCE == "web"       # Triggered by a manual run
+    - if: $CI_COMMIT_BRANCH == "main" && 
+          $CI_PIPELINE_SOURCE == "push" &&
+          (
+            $CI_COMMIT_MESSAGE =~ /\.github\/workflows\/generate\.yml/ || 
+            $CI_COMMIT_MESSAGE =~ /generate\.yml/ # Simple rule for push event on the file path
+          )
+  
+  # Equivalent of steps
+  before_script:
+    # Set up Python dependencies
+    - python -m pip install --upgrade pip
+    - pip install -r requirements.txt
+    
+  script:
+    # Equivalent of execute py script
+    - python ./scripts/gracenote_to_xmltv.py ./channels/gracenote/gracenote.channels.xml -o ./guide/gracenote.xml
+    - python ./scripts/gracenote_to_xmltv.py ./channels/gracenote/USA-C-BAND-DEFAULT.channels.xml -o ./guide/USA-C-BAND-DEFAULT.xml
+    - python ./scripts/gracenote_to_xmltv.py ./channels/gracenote/USA-GNSTR-DEFAULT.channels.xml -o ./guide/USA-GNSTR-DEFAULT.xml
+    - gzip -c ./guide/gracenote.xml > ./guide/gracenote.xml.gz
+
+  # Use the 'artifacts' keyword to save the generated files
+  artifacts:
+    paths:
+      - ./guide/
+    expire_in: 1 week # Optional: keep artifacts for a week
+
+  # This job will require a mechanism to commit changes back,
+  # but directly using 'git push' with a hardcoded token is generally
+  # discouraged for security.
+  # The following is the equivalent, but requires a CI/CD variable
+  # with a Personal Access Token (PAT) that has 'write_repository' permission.
+  # Use CI/CD variables for $GITLAB_PAT or a similar token.
+  # Also, the force/break logic is not directly translated. 
+  # A simple commit and push is shown below.
+  after_script:
+    - git config user.name "bot-1zk1i0zj6u"
+    - git config user.email "bot-1zk1i0zj6u@example.com"
+    # Ensure all changes are visible to Git
+    - git add --force ./guide
+    # Check if there are changes to commit before committing
+    - if ! git diff --quiet HEAD; then
+    -   git commit -m "Update Gracenote XMLTV (triggered by pipeline $CI_PIPELINE_ID)";
+    # Push using the predefined CI_JOB_TOKEN for permission if possible, 
+    # or a dedicated CI/CD variable for PAT.
+    # The CI_JOB_TOKEN typically needs special setup (project access token)
+    # for it to have commit/push rights.
+    # Replace $CI_JOB_TOKEN with a variable like $GITLAB_BOT_TOKEN if needed.
+    -   git push https://oauth2:$CI_JOB_TOKEN@$CI_SERVER_HOST/$CI_PROJECT_PATH.git HEAD:$CI_COMMIT_REF_NAME
+    - else
+    -   echo "No changes to commit.";
+    - fi
