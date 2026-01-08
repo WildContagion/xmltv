@@ -78,7 +78,7 @@ xmltv_generator_job:
     
     - git add --force guide
     - git commit -m "Update XMLTV" || echo "No changes to commit"
-    - git push -u origin $CI_COMMIT_BRANCH
+    - git push -u origin HEAD:main
     
   # 6. Store the generated files as artifacts for download or use in later stages
   artifacts:
