@@ -31,8 +31,6 @@ xmltv_generator_job:
     - if: $CI_COMMIT_BRANCH == "main"
       changes:
         - '.gitlab-ci.yml' # Check for changes in this specific file
-        - 'scripts/*'
-        - 'channels/**/*'
       when: always
       
     # If no rule matches, skip the job
@@ -78,9 +76,9 @@ xmltv_generator_job:
     # Configure the remote URL using the CI_JOB_TOKEN
     - git remote set-url origin "https://gitlab-ci-token:${CI_JOB_TOKEN}@${CI_SERVER_HOST}/${CI_PROJECT_PATH}.git"
     
-    - git add --force ./guide
+    - git add --force guide
     - git commit -m "Update XMLTV" || echo "No changes to commit"
-    - git push origin $CI_COMMIT_BRANCH
+    - git push -u origin $CI_COMMIT_BRANCH
     
   # 6. Store the generated files as artifacts for download or use in later stages
   artifacts:
