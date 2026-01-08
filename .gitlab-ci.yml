@@ -70,8 +70,11 @@ xmltv_generator_job:
     # - git push origin $CI_COMMIT_BRANCH
     
     - echo "Configuring Git and pushing changes with CI_JOB_TOKEN..."
-    - git config --global user.name 'github-actions[bot]'
-    - git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+    - git config --global user.name ${GITLAB_USER_NAME}
+    - git config --global user.email ${GITLAB_USER_EMAIL}
+
+    # Configure the remote URL using the CI_JOB_TOKEN
+    - git remote set-url origin "https://gitlab-ci-token:${CI_JOB_TOKEN}@${CI_SERVER_HOST}/${CI_PROJECT_PATH}.git"
     
     - git add --force guide
     - git commit -m "Update XMLTV" || echo "No changes to commit"
