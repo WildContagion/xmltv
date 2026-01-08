@@ -38,7 +38,7 @@ xmltv_generator:
     # Install dependencies
     - pip install --upgrade pip
     - pip install -r requirements.txt
-    
+   
     echo "Executing Python scripts to generate XMLTV files..."
     # Execute Python scripts
     - python ./scripts/gracenote_to_xmltv.py ./channels/gracenote/gracenote.channels.xml -o ./guide/gracenote.xml
@@ -59,7 +59,7 @@ xmltv_generator:
     - git config --global user.email 'bot-1zk1i0zj6u@example.com'
     
     # Ensure the repository URL uses the token for pushing
-    - REMOTE_URL="https://bot-1zk1i0zj6u:${GITLAB_PUSH_TOKEN}@${CI_SERVER_HOST}/${CI_PROJECT_PATH}.git"
+    - REMOTE_URL="https://Arkina1234:${GITLAB_PUSH_TOKEN}@${CI_SERVER_HOST}/${CI_PROJECT_PATH}.git"
     
     # Add, Commit, and Push
     - git add --force ./guide
