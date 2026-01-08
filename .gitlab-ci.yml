@@ -4,7 +4,7 @@ stages:
   - deploy # Keeping a deploy stage separate for future actions like serving the guide
 
 # 1. Define the base environment for the job
-image: python:3.10-slim
+image: python:3.10
 
 # 2. Define the job
 xmltv_generator_job:
