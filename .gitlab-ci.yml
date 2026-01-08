@@ -38,6 +38,8 @@ xmltv_generator_job:
       
   # 5. The actual execution steps
   before_script:
+    - apt-get update && apt-get install -y git >/dev/null
+    
     # Setup pip cache directory (for the shared 'cache' block)
     - export PIP_CACHE_DIR=".cache/pip"
     - mkdir -p $PIP_CACHE_DIR
