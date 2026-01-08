@@ -70,6 +70,18 @@ xmltv_generator_job:
     # - git add --force ./guide
     # - git commit -m "Update Gracenote XMLTV" || echo "No changes to commit"
     # - git push origin $CI_COMMIT_BRANCH
+
+
+    - echo "Configuring Git and pushing changes with CI_JOB_TOKEN..."
+    - git config user.name "gitlab-ci[bot]"
+    - git config user.email "gitlab-ci[bot]@users.noreply.gitlab.com"
+    
+    # Configure the remote URL using the CI_JOB_TOKEN
+    - git remote set-url origin "https://gitlab-ci-token:${CI_JOB_TOKEN}@${CI_SERVER_HOST}/${CI_PROJECT_PATH}.git"
+    
+    - git add --force ./guide
+    - git commit -m "Update XMLTV" || echo "No changes to commit"
+    - git push origin $CI_COMMIT_BRANCH
     
   # 6. Store the generated files as artifacts for download or use in later stages
   artifacts:
