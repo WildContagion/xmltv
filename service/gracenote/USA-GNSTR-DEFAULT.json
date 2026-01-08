@@ -1,0 +1,372 @@
+[ 
+  {
+    "xmltv_id": "120551",
+    "device": "X",
+    "lineup_id": "USA-GNSTR-DEFAULT",
+    "headend_id": "GNSTR",
+    "country": "USA",
+    "postal": "12084",
+    "site_id": "120551",
+    "name": "AccuWeather NOW"
+  },
+  {
+    "xmltv_id": "130620",
+    "device": "X",
+    "lineup_id": "USA-GNSTR-DEFAULT",
+    "headend_id": "GNSTR",
+    "country": "USA",
+    "postal": "12084",
+    "site_id": "130620",
+    "name": "AsianCrush"
+  },
+  {
+    "xmltv_id": "127883",
+    "device": "X",
+    "lineup_id": "USA-GNSTR-DEFAULT",
+    "headend_id": "GNSTR",
+    "country": "USA",
+    "postal": "12084",
+    "site_id": "127883",
+    "name": "Action News Jax"
+  },
+  {
+    "xmltv_id": "120375",
+    "device": "X",
+    "lineup_id": "USA-GNSTR-DEFAULT",
+    "headend_id": "GNSTR",
+    "country": "USA",
+    "postal": "12084",
+    "site_id": "120375",
+    "name": "beIN SPORTS XTRA Streaming"
+  },
+  {
+    "xmltv_id": "123870",
+    "device": "X",
+    "lineup_id": "USA-GNSTR-DEFAULT",
+    "headend_id": "GNSTR",
+    "country": "USA",
+    "postal": "12084",
+    "site_id": "123870",
+    "name": "Bloomberg Originals"
+  },
+  {
+    "xmltv_id": "146874",
+    "device": "X",
+    "lineup_id": "USA-GNSTR-DEFAULT",
+    "headend_id": "GNSTR",
+    "country": "USA",
+    "postal": "12084",
+    "site_id": "146874",
+    "name": "Bloomberg TV+"
+  },
+  {
+    "xmltv_id": "127887",
+    "device": "X",
+    "lineup_id": "USA-GNSTR-DEFAULT",
+    "headend_id": "GNSTR",
+    "country": "USA",
+    "postal": "12084",
+    "site_id": "127887",
+    "name": "Boston 25"
+  },
+  {
+    "xmltv_id": "113452",
+    "device": "X",
+    "lineup_id": "USA-GNSTR-DEFAULT",
+    "headend_id": "GNSTR",
+    "country": "USA",
+    "postal": "12084",
+    "site_id": "113452",
+    "name": "BUZZR Stream"
+  },
+  {
+    "xmltv_id": "101103",
+    "device": "X",
+    "lineup_id": "USA-GNSTR-DEFAULT",
+    "headend_id": "GNSTR",
+    "country": "USA",
+    "postal": "12084",
+    "site_id": "101103",
+    "name": "Cheddar"
+  },
+  {
+    "xmltv_id": "110480",
+    "device": "X",
+    "lineup_id": "USA-GNSTR-DEFAULT",
+    "headend_id": "GNSTR",
+    "country": "USA",
+    "postal": "12084",
+    "site_id": "110480",
+    "name": "Dove"
+  },
+  {
+    "xmltv_id": "112797",
+    "device": "X",
+    "lineup_id": "USA-GNSTR-DEFAULT",
+    "headend_id": "GNSTR",
+    "country": "USA",
+    "postal": "12084",
+    "site_id": "112797",
+    "name": "ElectricNOW"
+  },
+  {
+    "xmltv_id": "157273",
+    "device": "X",
+    "lineup_id": "USA-GNSTR-DEFAULT",
+    "headend_id": "GNSTR",
+    "country": "USA",
+    "postal": "12084",
+    "site_id": "157273",
+    "name": "Estrella Games"
+  },
+  {
+    "xmltv_id": "121309",
+    "device": "X",
+    "lineup_id": "USA-GNSTR-DEFAULT",
+    "headend_id": "GNSTR",
+    "country": "USA",
+    "postal": "12084",
+    "site_id": "121309",
+    "name": "Estrella News"
+  },
+  {
+    "xmltv_id": "117477",
+    "device": "X",
+    "lineup_id": "USA-GNSTR-DEFAULT",
+    "headend_id": "GNSTR",
+    "country": "USA",
+    "postal": "12084",
+    "site_id": "117477",
+    "name": "Estrella TV"
+  },
+  {
+    "xmltv_id": "106100",
+    "device": "X",
+    "lineup_id": "USA-GNSTR-DEFAULT",
+    "headend_id": "GNSTR",
+    "country": "USA",
+    "postal": "12084",
+    "site_id": "106100",
+    "name": "Fubo Sports Network"
+  },
+  {
+    "xmltv_id": "124225",
+    "device": "X",
+    "lineup_id": "USA-GNSTR-DEFAULT",
+    "headend_id": "GNSTR",
+    "country": "USA",
+    "postal": "12084",
+    "site_id": "124225",
+    "name": "GoTraveler"
+  },
+  {
+    "xmltv_id": "111140",
+    "device": "X",
+    "lineup_id": "USA-GNSTR-DEFAULT",
+    "headend_id": "GNSTR",
+    "country": "USA",
+    "postal": "12084",
+    "site_id": "111140",
+    "name": "Gusto TV"
+  },
+  {
+    "xmltv_id": "128535",
+    "device": "X",
+    "lineup_id": "USA-GNSTR-DEFAULT",
+    "headend_id": "GNSTR",
+    "country": "USA",
+    "postal": "12084",
+    "site_id": "128535",
+    "name": "HBCUGO SPORTS"
+  },
+  {
+    "xmltv_id": "127886",
+    "device": "X",
+    "lineup_id": "USA-GNSTR-DEFAULT",
+    "headend_id": "GNSTR",
+    "country": "USA",
+    "postal": "12084",
+    "site_id": "127886",
+    "name": "KIRO Seattle"
+  },
+  {
+    "xmltv_id": "121350",
+    "device": "X",
+    "lineup_id": "USA-GNSTR-DEFAULT",
+    "headend_id": "GNSTR",
+    "country": "USA",
+    "postal": "12084",
+    "site_id": "121350",
+    "name": "LiveXLive TV"
+  },
+  {
+    "xmltv_id": "114313",
+    "device": "X",
+    "lineup_id": "USA-GNSTR-DEFAULT",
+    "headend_id": "GNSTR",
+    "country": "USA",
+    "postal": "12084",
+    "site_id": "114313",
+    "name": "Outside"
+  },
+  {
+    "xmltv_id": "119355",
+    "device": "X",
+    "lineup_id": "USA-GNSTR-DEFAULT",
+    "headend_id": "GNSTR",
+    "country": "USA",
+    "postal": "12084",
+    "site_id": "119355",
+    "name": "RetroCrush"
+  },
+  {
+    "xmltv_id": "132319",
+    "device": "X",
+    "lineup_id": "USA-GNSTR-DEFAULT",
+    "headend_id": "GNSTR",
+    "country": "USA",
+    "postal": "12084",
+    "site_id": "132319",
+    "name": "Sensical Gaming"
+  },
+  {
+    "xmltv_id": "132317",
+    "device": "X",
+    "lineup_id": "USA-GNSTR-DEFAULT",
+    "headend_id": "GNSTR",
+    "country": "USA",
+    "postal": "12084",
+    "site_id": "132317",
+    "name": "Sensical Jr."
+  },
+  {
+    "xmltv_id": "132320",
+    "device": "X",
+    "lineup_id": "USA-GNSTR-DEFAULT",
+    "headend_id": "GNSTR",
+    "country": "USA",
+    "postal": "12084",
+    "site_id": "132320",
+    "name": "Sensical Makers"
+  },
+  {
+    "xmltv_id": "112732",
+    "device": "X",
+    "lineup_id": "USA-GNSTR-DEFAULT",
+    "headend_id": "GNSTR",
+    "country": "USA",
+    "postal": "12084",
+    "site_id": "112732",
+    "name": "SportsGrid"
+  },
+  {
+    "xmltv_id": "112480",
+    "device": "X",
+    "lineup_id": "USA-GNSTR-DEFAULT",
+    "headend_id": "GNSTR",
+    "country": "USA",
+    "postal": "12084",
+    "site_id": "112480",
+    "name": "Tastemade"
+  },
+  {
+    "xmltv_id": "138176",
+    "device": "X",
+    "lineup_id": "USA-GNSTR-DEFAULT",
+    "headend_id": "GNSTR",
+    "country": "USA",
+    "postal": "12084",
+    "site_id": "138176",
+    "name": "Tastemade En Español"
+  },
+  {
+    "xmltv_id": "125187",
+    "device": "X",
+    "lineup_id": "USA-GNSTR-DEFAULT",
+    "headend_id": "GNSTR",
+    "country": "USA",
+    "postal": "12084",
+    "site_id": "125187",
+    "name": "Tastemade Home"
+  },
+  {
+    "xmltv_id": "120351",
+    "device": "X",
+    "lineup_id": "USA-GNSTR-DEFAULT",
+    "headend_id": "GNSTR",
+    "country": "USA",
+    "postal": "12084",
+    "site_id": "120351",
+    "name": "Tastemade Travel"
+  },
+  {
+    "xmltv_id": "112484",
+    "device": "X",
+    "lineup_id": "USA-GNSTR-DEFAULT",
+    "headend_id": "GNSTR",
+    "country": "USA",
+    "postal": "12084",
+    "site_id": "112484",
+    "name": "The Film Detective"
+  },
+  {
+    "xmltv_id": "121424",
+    "device": "X",
+    "lineup_id": "USA-GNSTR-DEFAULT",
+    "headend_id": "GNSTR",
+    "country": "USA",
+    "postal": "12084",
+    "site_id": "121424",
+    "name": "Waypoint TV"
+  },
+  {
+    "xmltv_id": "127884",
+    "device": "X",
+    "lineup_id": "USA-GNSTR-DEFAULT",
+    "headend_id": "GNSTR",
+    "country": "USA",
+    "postal": "12084",
+    "site_id": "127884",
+    "name": "WHIO Dayton"
+  },
+  {
+    "xmltv_id": "127880",
+    "device": "X",
+    "lineup_id": "USA-GNSTR-DEFAULT",
+    "headend_id": "GNSTR",
+    "country": "USA",
+    "postal": "12084",
+    "site_id": "127880",
+    "name": "WFTV Orlando"
+  },
+  {
+    "xmltv_id": "127885",
+    "device": "X",
+    "lineup_id": "USA-GNSTR-DEFAULT",
+    "headend_id": "GNSTR",
+    "country": "USA",
+    "postal": "12084",
+    "site_id": "127885",
+    "name": "WPXI Pittsburgh"
+  },
+  {
+    "xmltv_id": "127879",
+    "device": "X",
+    "lineup_id": "USA-GNSTR-DEFAULT",
+    "headend_id": "GNSTR",
+    "country": "USA",
+    "postal": "12084",
+    "site_id": "127879",
+    "name": "WSB Atlanta"
+  },
+  {
+    "xmltv_id": "127882",
+    "device": "X",
+    "lineup_id": "USA-GNSTR-DEFAULT",
+    "headend_id": "GNSTR",
+    "country": "USA",
+    "postal": "12084",
+    "site_id": "127882",
+    "name": "WSOC Charlotte"
+  }
+]

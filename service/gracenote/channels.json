@@ -1,0 +1,112 @@
+[
+  {
+    "xmltv_id": "20055",
+    "device": "X",
+    "lineup_id": "USA-0000001-CUSTOM",
+    "headend_id": "0000001",
+    "country": "USA",
+    "postal": "12084",
+    "site_id": "20055",
+    "name": "Community Access - COAC"
+  },
+  {
+    "xmltv_id": "32011",
+    "device": "X",
+    "lineup_id": "USA-0000001-CUSTOM",
+    "headend_id": "0000001",
+    "country": "USA",
+    "postal": "12084",
+    "site_id": "32011",
+    "name": "Community Programming - COMMPRG"
+  },
+  {
+    "xmltv_id": "15749",
+    "device": "X",
+    "lineup_id": "USA-0000001-CUSTOM",
+    "headend_id": "0000001",
+    "country": "USA",
+    "postal": "12084",
+    "site_id": "15749",
+    "name": "Educational Access - EDAC"
+  },
+  {
+    "xmltv_id": "106288",
+    "device": "X",
+    "lineup_id": "USA-0000001-CUSTOM",
+    "headend_id": "0000001",
+    "country": "USA",
+    "postal": "12084",
+    "site_id": "106288",
+    "name": "Government Access"
+  },
+  {
+    "xmltv_id": "22579",
+    "device": "X",
+    "lineup_id": "USA-0000001-CUSTOM",
+    "headend_id": "0000001",
+    "country": "USA",
+    "postal": "12084",
+    "site_id": "22579",
+    "name": "Information Channel - INFO"
+  },
+  {
+    "xmltv_id": "16175",
+    "device": "X",
+    "lineup_id": "USA-0000001-CUSTOM",
+    "headend_id": "0000001",
+    "country": "USA",
+    "postal": "12084",
+    "site_id": "16175",
+    "name": "Local Programming"
+  },
+  {
+    "xmltv_id": "20114",
+    "device": "X",
+    "lineup_id": "USA-0000001-CUSTOM",
+    "headend_id": "0000001",
+    "country": "USA",
+    "postal": "12084",
+    "site_id": "20114",
+    "name": "Paid Programs"
+  },
+  {
+    "xmltv_id": "15218",
+    "device": "X",
+    "lineup_id": "USA-0000001-CUSTOM",
+    "headend_id": "0000001",
+    "country": "USA",
+    "postal": "12084",
+    "site_id": "15218",
+    "name": "Programming Unavailable (PRGNOT)"
+  },
+  {
+    "xmltv_id": "14788",
+    "device": "X",
+    "lineup_id": "USA-0000001-CUSTOM",
+    "headend_id": "0000001",
+    "country": "USA",
+    "postal": "12084",
+    "site_id": "14788",
+    "name": "Public Access - PUAC"
+  },
+  {
+    "xmltv_id": "22568",
+    "device": "X",
+    "lineup_id": "USA-0000001-CUSTOM",
+    "headend_id": "0000001",
+    "country": "USA",
+    "postal": "12084",
+    "site_id": "22568",
+    "name": "Public, Educational, Government PEG"
+  },
+  {
+    "xmltv_id": "22564",
+    "device": "X",
+    "lineup_id": "USA-0000001-CUSTOM",
+    "headend_id": "0000001",
+    "country": "USA",
+    "postal": "12084",
+    "site_id": "22564",
+    "name": "Radio Channel"
+  }
+]

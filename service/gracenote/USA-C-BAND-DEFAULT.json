@@ -1,0 +1,332 @@
+[
+  {
+    "xmltv_id": "73067",
+    "device": "X",
+    "lineup_id": "USA-C-BAND-DEFAULT",
+    "headend_id": "C-BAND",
+    "country": "USA",
+    "postal": "12084",
+    "site_id": "73067",
+    "name": "Bounce TV"
+  },
+  {
+    "xmltv_id": "21855",
+    "device": "X",
+    "lineup_id": "USA-C-BAND-DEFAULT",
+    "headend_id": "C-BAND",
+    "country": "USA",
+    "postal": "12084",
+    "site_id": "21855",
+    "name": "BYU-TV"
+  },
+  {
+    "xmltv_id": "16325",
+    "device": "X",
+    "lineup_id": "USA-C-BAND-DEFAULT",
+    "headend_id": "C-BAND",
+    "country": "USA",
+    "postal": "12084",
+    "site_id": "16325",
+    "name": "Classic Arts Showcase"
+  },
+  {
+    "xmltv_id": "111043",
+    "device": "X",
+    "lineup_id": "USA-C-BAND-DEFAULT",
+    "headend_id": "C-BAND",
+    "country": "USA",
+    "postal": "12084",
+    "site_id": "111043",
+    "name": "Court TV"
+  },
+  {
+    "xmltv_id": "48990",
+    "device": "X",
+    "lineup_id": "USA-C-BAND-DEFAULT",
+    "headend_id": "C-BAND",
+    "country": "USA",
+    "postal": "12084",
+    "site_id": "48990",
+    "name": "Create"
+  },
+  {
+    "xmltv_id": "30174",
+    "device": "X",
+    "lineup_id": "USA-C-BAND-DEFAULT",
+    "headend_id": "C-BAND",
+    "country": "USA",
+    "postal": "12084",
+    "site_id": "30174",
+    "name": "Enlace"
+  },
+  {
+    "xmltv_id": "10183",
+    "device": "X",
+    "lineup_id": "USA-C-BAND-DEFAULT",
+    "headend_id": "C-BAND",
+    "country": "USA",
+    "postal": "12084",
+    "site_id": "10183",
+    "name": "Eternal Word Television Network"
+  },
+  {
+    "xmltv_id": "82462",
+    "device": "X",
+    "lineup_id": "USA-C-BAND-DEFAULT",
+    "headend_id": "C-BAND",
+    "country": "USA",
+    "postal": "12084",
+    "site_id": "82462",
+    "name": "First Nations Experience"
+  },
+  {
+    "xmltv_id": "16220",
+    "device": "X",
+    "lineup_id": "USA-C-BAND-DEFAULT",
+    "headend_id": "C-BAND",
+    "country": "USA",
+    "postal": "12084",
+    "site_id": "16220",
+    "name": "Free Speech TV"
+  },
+  {
+    "xmltv_id": "26643",
+    "device": "X",
+    "lineup_id": "USA-C-BAND-DEFAULT",
+    "headend_id": "C-BAND",
+    "country": "USA",
+    "postal": "12084",
+    "site_id": "26643",
+    "name": "GEMS"
+  },
+  {
+    "xmltv_id": "89922",
+    "device": "X",
+    "lineup_id": "USA-C-BAND-DEFAULT",
+    "headend_id": "C-BAND",
+    "country": "USA",
+    "postal": "12084",
+    "site_id": "89922",
+    "name": "Grit"
+  },
+  {
+    "xmltv_id": "10269",
+    "device": "X",
+    "lineup_id": "USA-C-BAND-DEFAULT",
+    "headend_id": "C-BAND",
+    "country": "USA",
+    "postal": "12084",
+    "site_id": "10269",
+    "name": "Home Shopping Network"
+  },
+  {
+    "xmltv_id": "10270",
+    "device": "X",
+    "lineup_id": "USA-C-BAND-DEFAULT",
+    "headend_id": "C-BAND",
+    "country": "USA",
+    "postal": "12084",
+    "site_id": "10270",
+    "name": "HSN2"
+  },
+  {
+    "xmltv_id": "89923",
+    "device": "X",
+    "lineup_id": "USA-C-BAND-DEFAULT",
+    "headend_id": "C-BAND",
+    "country": "USA",
+    "postal": "12084",
+    "site_id": "89923",
+    "name": "ION Mystery"
+  },
+  {
+    "xmltv_id": "18633",
+    "device": "X",
+    "lineup_id": "USA-C-BAND-DEFAULT",
+    "headend_id": "C-BAND",
+    "country": "USA",
+    "postal": "12084",
+    "site_id": "18633",
+    "name": "ION Television"
+  },
+  {
+    "xmltv_id": "117518",
+    "device": "X",
+    "lineup_id": "USA-C-BAND-DEFAULT",
+    "headend_id": "C-BAND",
+    "country": "USA",
+    "postal": "12084",
+    "site_id": "117518",
+    "name": "ION Plus"
+  },
+  {
+    "xmltv_id": "16604",
+    "device": "X",
+    "lineup_id": "USA-C-BAND-DEFAULT",
+    "headend_id": "C-BAND",
+    "country": "USA",
+    "postal": "12084",
+    "site_id": "16604",
+    "name": "Jewelry Television"
+  },
+  {
+    "xmltv_id": "92091",
+    "device": "X",
+    "lineup_id": "USA-C-BAND-DEFAULT",
+    "headend_id": "C-BAND",
+    "country": "USA",
+    "postal": "12084",
+    "site_id": "92091",
+    "name": "Laff"
+  },
+  {
+    "xmltv_id": "155158",
+    "device": "X",
+    "lineup_id": "USA-C-BAND-DEFAULT",
+    "headend_id": "C-BAND",
+    "country": "USA",
+    "postal": "12084",
+    "site_id": "155158",
+    "name": "Merit Street"
+  },
+  {
+    "xmltv_id": "49208",
+    "device": "X",
+    "lineup_id": "USA-C-BAND-DEFAULT",
+    "headend_id": "C-BAND",
+    "country": "USA",
+    "postal": "12084",
+    "site_id": "49208",
+    "name": "ONTV4U"
+  },
+  {
+    "xmltv_id": "33453",
+    "device": "X",
+    "lineup_id": "USA-C-BAND-DEFAULT",
+    "headend_id": "C-BAND",
+    "country": "USA",
+    "postal": "12084",
+    "site_id": "33453",
+    "name": "PBS HD"
+  },
+  {
+    "xmltv_id": "62271",
+    "device": "X",
+    "lineup_id": "USA-C-BAND-DEFAULT",
+    "headend_id": "C-BAND",
+    "country": "USA",
+    "postal": "12084",
+    "site_id": "62271",
+    "name": "PBS HD (Pacific)"
+  },
+  {
+    "xmltv_id": "101364",
+    "device": "X",
+    "lineup_id": "USA-C-BAND-DEFAULT",
+    "headend_id": "C-BAND",
+    "country": "USA",
+    "postal": "12084",
+    "site_id": "101364",
+    "name": "PBS KIDS HD"
+  },
+  {
+    "xmltv_id": "34169",
+    "device": "X",
+    "lineup_id": "USA-C-BAND-DEFAULT",
+    "headend_id": "C-BAND",
+    "country": "USA",
+    "postal": "12084",
+    "site_id": "34169",
+    "name": "Positiv TV"
+  },
+  {
+    "xmltv_id": "60111",
+    "device": "X",
+    "lineup_id": "USA-C-BAND-DEFAULT",
+    "headend_id": "C-BAND",
+    "country": "USA",
+    "postal": "12084",
+    "site_id": "60111",
+    "name": "Pursuit Channel"
+  },
+  {
+    "xmltv_id": "11069",
+    "device": "X",
+    "lineup_id": "USA-C-BAND-DEFAULT",
+    "headend_id": "C-BAND",
+    "country": "USA",
+    "postal": "12084",
+    "site_id": "11069",
+    "name": "QVC"
+  },
+  {
+    "xmltv_id": "82682",
+    "device": "X",
+    "lineup_id": "USA-C-BAND-DEFAULT",
+    "headend_id": "C-BAND",
+    "country": "USA",
+    "postal": "12084",
+    "site_id": "82682",
+    "name": "QVC2"
+  },
+  {
+    "xmltv_id": "101260",
+    "device": "X",
+    "lineup_id": "USA-C-BAND-DEFAULT",
+    "headend_id": "C-BAND",
+    "country": "USA",
+    "postal": "12084",
+    "site_id": "101260",
+    "name": "QVC3"
+  },
+  {
+    "xmltv_id": "56032",
+    "device": "X",
+    "lineup_id": "USA-C-BAND-DEFAULT",
+    "headend_id": "C-BAND",
+    "country": "USA",
+    "postal": "12084",
+    "site_id": "56032",
+    "name": "Shop LC"
+  },
+  {
+    "xmltv_id": "14767",
+    "device": "X",
+    "lineup_id": "USA-C-BAND-DEFAULT",
+    "headend_id": "C-BAND",
+    "country": "USA",
+    "postal": "12084",
+    "site_id": "14767",
+    "name": "Trinity Broadcasting Network"
+  },
+  {
+    "xmltv_id": "122276",
+    "device": "X",
+    "lineup_id": "USA-C-BAND-DEFAULT",
+    "headend_id": "C-BAND",
+    "country": "USA",
+    "postal": "12084",
+    "site_id": "122276",
+    "name": "TBN Inspire"
+  },
+  {
+    "xmltv_id": "93024",
+    "device": "X",
+    "lineup_id": "USA-C-BAND-DEFAULT",
+    "headend_id": "C-BAND",
+    "country": "USA",
+    "postal": "12084",
+    "site_id": "93024",
+    "name": "Victory Channel"
+  },
+  {
+    "xmltv_id": "56725",
+    "device": "X",
+    "lineup_id": "USA-C-BAND-DEFAULT",
+    "headend_id": "C-BAND",
+    "country": "USA",
+    "postal": "12084",
+    "site_id": "56725",
+    "name": "World"
+  }
+]

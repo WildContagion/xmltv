@@ -1,0 +1,2309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+<tv source-info-name="Bitcentral, Inc." source-info-url="https://bitcentral.com" generator-info-name="FUEL EPG Generator">
+  <channel id="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <display-name>Scheduled General News Channel</display-name>
+  </channel>
+  <programme start="20251202043000 +0000" stop="20251202060000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 Recent Stories</title>
+    <desc lang="en">News stories from the last 24 hours in and around the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251202060000 +0000" stop="20251202100000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 Recent Stories</title>
+    <desc lang="en">News stories from the last 24 hours in and around the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251202100000 +0000" stop="20251202110000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 First at 430am</title>
+    <desc lang="en">The News 9 Team presents the news of the day, stories of interest and the current weather forecast.</desc>
+  </programme>
+  <programme start="20251202110000 +0000" stop="20251202120000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 at 5am</title>
+    <desc lang="en">The News 9 Morning Team presents the news of the day, stories of interest and the current weather forecast.</desc>
+  </programme>
+  <programme start="20251202120000 +0000" stop="20251202130000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 at 6 AM: LIVE</title>
+    <desc lang="en">The News 9 Morning Team presents the news of the day, stories of interest and the current weather forecast.</desc>
+  </programme>
+  <programme start="20251202130000 +0000" stop="20251202150000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 Recent Stories</title>
+    <desc lang="en">News stories from the last 24 hours in and around the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251202150000 +0000" stop="20251202160000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 at 9 AM: LIVE</title>
+    <desc lang="en">The News 9 Morning Team presents the news of the day, stories of interest and the current weather forecast.</desc>
+  </programme>
+  <programme start="20251202160000 +0000" stop="20251202180000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 Recent Stories</title>
+    <desc lang="en">News stories from the last 24 hours in and around the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251202180000 +0000" stop="20251202183000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 at Noon: LIVE</title>
+    <desc lang="en">The News 9 Team presents the latest in local, regional, statewide and national news, along with timely updates on continuing stories of interest in the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251202183000 +0000" stop="20251202220000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 Recent Stories</title>
+    <desc lang="en">News stories from the last 24 hours in and around the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251202220000 +0000" stop="20251202230000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 First at Four: LIVE</title>
+    <desc lang="en">The day's major news events are examined and reported by the News 9 Evening Team, along with the continuing stories of special interest in the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251202230000 +0000" stop="20251202233000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 at 5 PM: LIVE</title>
+    <desc lang="en">The News 9 Evening Team offers a report on the latest local, regional, statewide and national news events of the day, as well as detailed and timely updates about the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251202233000 +0000" stop="20251203000000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 Recent Stories</title>
+    <desc lang="en">News stories from the last 24 hours in and around the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251203000000 +0000" stop="20251203003000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 at 6pm: LIVE</title>
+    <desc lang="en">The latest local, regional, statewide and national news updates of the day, as well as detailed and timely reports on sports events in the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251203003000 +0000" stop="20251203040000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 Recent Stories</title>
+    <desc lang="en">News stories from the last 24 hours in and around the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251203040000 +0000" stop="20251203043000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 at 10 PM: LIVE</title>
+    <desc lang="en">The News 9 Nightly Team presents an in-depth report on the major news events of the day and the details of late-breaking news stories, along with the latest news from the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251203043000 +0000" stop="20251203060000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 Recent Stories</title>
+    <desc lang="en">News stories from the last 24 hours in and around the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251203060000 +0000" stop="20251203100000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 Recent Stories</title>
+    <desc lang="en">News stories from the last 24 hours in and around the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251203100000 +0000" stop="20251203110000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 First at 430am</title>
+    <desc lang="en">The News 9 Team presents the news of the day, stories of interest and the current weather forecast.</desc>
+  </programme>
+  <programme start="20251203110000 +0000" stop="20251203120000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 at 5am</title>
+    <desc lang="en">The News 9 Morning Team presents the news of the day, stories of interest and the current weather forecast.</desc>
+  </programme>
+  <programme start="20251203120000 +0000" stop="20251203130000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 at 6 AM: LIVE</title>
+    <desc lang="en">The News 9 Morning Team presents the news of the day, stories of interest and the current weather forecast.</desc>
+  </programme>
+  <programme start="20251203130000 +0000" stop="20251203150000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 Recent Stories</title>
+    <desc lang="en">News stories from the last 24 hours in and around the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251203150000 +0000" stop="20251203160000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 at 9 AM: LIVE</title>
+    <desc lang="en">The News 9 Morning Team presents the news of the day, stories of interest and the current weather forecast.</desc>
+  </programme>
+  <programme start="20251203160000 +0000" stop="20251203180000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 Recent Stories</title>
+    <desc lang="en">News stories from the last 24 hours in and around the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251203180000 +0000" stop="20251203183000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 at Noon: LIVE</title>
+    <desc lang="en">The News 9 Team presents the latest in local, regional, statewide and national news, along with timely updates on continuing stories of interest in the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251203183000 +0000" stop="20251203220000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 Recent Stories</title>
+    <desc lang="en">News stories from the last 24 hours in and around the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251203220000 +0000" stop="20251203230000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 First at Four: LIVE</title>
+    <desc lang="en">The day's major news events are examined and reported by the News 9 Evening Team, along with the continuing stories of special interest in the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251203230000 +0000" stop="20251203233000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 at 5 PM: LIVE</title>
+    <desc lang="en">The News 9 Evening Team offers a report on the latest local, regional, statewide and national news events of the day, as well as detailed and timely updates about the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251203233000 +0000" stop="20251204000000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 Recent Stories</title>
+    <desc lang="en">News stories from the last 24 hours in and around the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251204000000 +0000" stop="20251204003000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 at 6pm: LIVE</title>
+    <desc lang="en">The latest local, regional, statewide and national news updates of the day, as well as detailed and timely reports on sports events in the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251204003000 +0000" stop="20251204040000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 Recent Stories</title>
+    <desc lang="en">News stories from the last 24 hours in and around the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251204040000 +0000" stop="20251204043000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 at 10 PM: LIVE</title>
+    <desc lang="en">The News 9 Nightly Team presents an in-depth report on the major news events of the day and the details of late-breaking news stories, along with the latest news from the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251204043000 +0000" stop="20251204060000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 Recent Stories</title>
+    <desc lang="en">News stories from the last 24 hours in and around the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251204060000 +0000" stop="20251204100000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 Recent Stories</title>
+    <desc lang="en">News stories from the last 24 hours in and around the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251204100000 +0000" stop="20251204110000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 First at 430am</title>
+    <desc lang="en">The News 9 Team presents the news of the day, stories of interest and the current weather forecast.</desc>
+  </programme>
+  <programme start="20251204110000 +0000" stop="20251204120000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 at 5am</title>
+    <desc lang="en">The News 9 Morning Team presents the news of the day, stories of interest and the current weather forecast.</desc>
+  </programme>
+  <programme start="20251204120000 +0000" stop="20251204130000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 at 6 AM: LIVE</title>
+    <desc lang="en">The News 9 Morning Team presents the news of the day, stories of interest and the current weather forecast.</desc>
+  </programme>
+  <programme start="20251204130000 +0000" stop="20251204150000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 Recent Stories</title>
+    <desc lang="en">News stories from the last 24 hours in and around the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251204150000 +0000" stop="20251204160000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 at 9 AM: LIVE</title>
+    <desc lang="en">The News 9 Morning Team presents the news of the day, stories of interest and the current weather forecast.</desc>
+  </programme>
+  <programme start="20251204160000 +0000" stop="20251204180000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 Recent Stories</title>
+    <desc lang="en">News stories from the last 24 hours in and around the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251204180000 +0000" stop="20251204183000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 at Noon: LIVE</title>
+    <desc lang="en">The News 9 Team presents the latest in local, regional, statewide and national news, along with timely updates on continuing stories of interest in the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251204183000 +0000" stop="20251204220000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 Recent Stories</title>
+    <desc lang="en">News stories from the last 24 hours in and around the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251204220000 +0000" stop="20251204230000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 First at Four: LIVE</title>
+    <desc lang="en">The day's major news events are examined and reported by the News 9 Evening Team, along with the continuing stories of special interest in the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251204230000 +0000" stop="20251204233000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 at 5 PM: LIVE</title>
+    <desc lang="en">The News 9 Evening Team offers a report on the latest local, regional, statewide and national news events of the day, as well as detailed and timely updates about the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251204233000 +0000" stop="20251205000000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 Recent Stories</title>
+    <desc lang="en">News stories from the last 24 hours in and around the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251205000000 +0000" stop="20251205003000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 at 6pm: LIVE</title>
+    <desc lang="en">The latest local, regional, statewide and national news updates of the day, as well as detailed and timely reports on sports events in the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251205003000 +0000" stop="20251205040000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 Recent Stories</title>
+    <desc lang="en">News stories from the last 24 hours in and around the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251205040000 +0000" stop="20251205043000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 at 10 PM: LIVE</title>
+    <desc lang="en">The News 9 Nightly Team presents an in-depth report on the major news events of the day and the details of late-breaking news stories, along with the latest news from the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251205043000 +0000" stop="20251205060000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 Recent Stories</title>
+    <desc lang="en">News stories from the last 24 hours in and around the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251205060000 +0000" stop="20251205100000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 Recent Stories</title>
+    <desc lang="en">News stories from the last 24 hours in and around the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251205100000 +0000" stop="20251205110000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 First at 430am</title>
+    <desc lang="en">The News 9 Team presents the news of the day, stories of interest and the current weather forecast.</desc>
+  </programme>
+  <programme start="20251205110000 +0000" stop="20251205120000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 at 5am</title>
+    <desc lang="en">The News 9 Morning Team presents the news of the day, stories of interest and the current weather forecast.</desc>
+  </programme>
+  <programme start="20251205120000 +0000" stop="20251205130000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 at 6 AM: LIVE</title>
+    <desc lang="en">The News 9 Morning Team presents the news of the day, stories of interest and the current weather forecast.</desc>
+  </programme>
+  <programme start="20251205130000 +0000" stop="20251205150000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 Recent Stories</title>
+    <desc lang="en">News stories from the last 24 hours in and around the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251205150000 +0000" stop="20251205160000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 at 9 AM: LIVE</title>
+    <desc lang="en">The News 9 Morning Team presents the news of the day, stories of interest and the current weather forecast.</desc>
+  </programme>
+  <programme start="20251205160000 +0000" stop="20251205180000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 Recent Stories</title>
+    <desc lang="en">News stories from the last 24 hours in and around the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251205180000 +0000" stop="20251205183000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 at Noon: LIVE</title>
+    <desc lang="en">The News 9 Team presents the latest in local, regional, statewide and national news, along with timely updates on continuing stories of interest in the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251205183000 +0000" stop="20251205220000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 Recent Stories</title>
+    <desc lang="en">News stories from the last 24 hours in and around the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251205220000 +0000" stop="20251205230000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 First at Four: LIVE</title>
+    <desc lang="en">The day's major news events are examined and reported by the News 9 Evening Team, along with the continuing stories of special interest in the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251205230000 +0000" stop="20251205233000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 at 5 PM: LIVE</title>
+    <desc lang="en">The News 9 Evening Team offers a report on the latest local, regional, statewide and national news events of the day, as well as detailed and timely updates about the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251205233000 +0000" stop="20251206000000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 Recent Stories</title>
+    <desc lang="en">News stories from the last 24 hours in and around the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251206000000 +0000" stop="20251206003000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 at 6pm: LIVE</title>
+    <desc lang="en">The latest local, regional, statewide and national news updates of the day, as well as detailed and timely reports on sports events in the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251206003000 +0000" stop="20251206040000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 Recent Stories</title>
+    <desc lang="en">News stories from the last 24 hours in and around the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251206040000 +0000" stop="20251206043000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 at 10 PM: LIVE</title>
+    <desc lang="en">The News 9 Nightly Team presents an in-depth report on the major news events of the day and the details of late-breaking news stories, along with the latest news from the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251206043000 +0000" stop="20251206060000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 Recent Stories</title>
+    <desc lang="en">News stories from the last 24 hours in and around the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251206060000 +0000" stop="20251206140000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 Recent Stories</title>
+    <desc lang="en">News stories from the last 24 hours in and around the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251206140000 +0000" stop="20251206160000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 Saturday Morning Edition</title>
+    <desc lang="en">The news of the weekend, topics of interest in the Oklahoma City area, weather forecasts and sports scores are presented by the News 9 Weekend Team.</desc>
+  </programme>
+  <programme start="20251206160000 +0000" stop="20251207003000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 Recent Stories</title>
+    <desc lang="en">News stories from the last 24 hours in and around the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251207003000 +0000" stop="20251207010000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 at 6:30 PM: LIVE</title>
+    <desc lang="en">The day's major news events and late breaking stories are presented by the news team, along with the latest weather, sports coverage and traffic.</desc>
+  </programme>
+  <programme start="20251207010000 +0000" stop="20251207040000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 Recent Stories</title>
+    <desc lang="en">News stories from the last 24 hours in and around the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251207040000 +0000" stop="20251207043000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 at 10 PM: LIVE</title>
+    <desc lang="en">The News 9 Nightly Team presents an in-depth report on the major news events of the day and the details of late-breaking news stories, along with the latest news from the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251207043000 +0000" stop="20251207060000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 Recent Stories</title>
+    <desc lang="en">News stories from the last 24 hours in and around the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251207060000 +0000" stop="20251207130000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 Recent Stories</title>
+    <desc lang="en">News stories from the last 24 hours in and around the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251207130000 +0000" stop="20251207140000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 Sunday Morning Edition: LIVE</title>
+    <desc lang="en">News of the weekend, topics of interest in the Oklahoma City area, weather forecasts, and sports scores are presented by the News 9 Weekend Team.</desc>
+  </programme>
+  <programme start="20251207140000 +0000" stop="20251207233000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 Recent Stories</title>
+    <desc lang="en">News stories from the last 24 hours in and around the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251207233000 +0000" stop="20251208000000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 at 5:30 PM: LIVE</title>
+    <desc lang="en">News of the weekend, topics of interest in the Oklahoma City area, weather forecasts, and sports scores are presented by the News 9 Weekend Team.</desc>
+  </programme>
+  <programme start="20251208000000 +0000" stop="20251208040000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 Recent Stories</title>
+    <desc lang="en">News stories from the last 24 hours in and around the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251208040000 +0000" stop="20251208042600 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 at 10 PM: LIVE</title>
+    <desc lang="en">The News 9 Nightly Team presents an in-depth report on the major news events of the day and the details of late-breaking news stories, along with the latest news from the Oklahoma City area.Late Newscast</desc>
+  </programme>
+  <programme start="20251208042600 +0000" stop="20251208050000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">Sports Blitz: LIVE</title>
+    <desc lang="en">Weekly sports coverage from across Oklahoma, co-hosted by News On 6 in Tulsa.</desc>
+  </programme>
+  <programme start="20251208050000 +0000" stop="20251208060000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 Recent Stories</title>
+  </programme>
+  <programme start="20251208060000 +0000" stop="20251208100000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 Recent Stories</title>
+    <desc lang="en">News stories from the last 24 hours in and around the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251208100000 +0000" stop="20251208110000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 First at 430am</title>
+    <desc lang="en">The News 9 Team presents the news of the day, stories of interest and the current weather forecast.</desc>
+  </programme>
+  <programme start="20251208110000 +0000" stop="20251208120000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 at 5am</title>
+    <desc lang="en">The News 9 Morning Team presents the news of the day, stories of interest and the current weather forecast.</desc>
+  </programme>
+  <programme start="20251208120000 +0000" stop="20251208130000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 at 6 AM: LIVE</title>
+    <desc lang="en">The News 9 Morning Team presents the news of the day, stories of interest and the current weather forecast.</desc>
+  </programme>
+  <programme start="20251208130000 +0000" stop="20251208150000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 Recent Stories</title>
+    <desc lang="en">News stories from the last 24 hours in and around the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251208150000 +0000" stop="20251208160000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 at 9 AM: LIVE</title>
+    <desc lang="en">The News 9 Morning Team presents the news of the day, stories of interest and the current weather forecast.</desc>
+  </programme>
+  <programme start="20251208160000 +0000" stop="20251208180000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 Recent Stories</title>
+    <desc lang="en">News stories from the last 24 hours in and around the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251208180000 +0000" stop="20251208183000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 at Noon: LIVE</title>
+    <desc lang="en">The News 9 Team presents the latest in local, regional, statewide and national news, along with timely updates on continuing stories of interest in the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251208183000 +0000" stop="20251208220000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 Recent Stories</title>
+    <desc lang="en">News stories from the last 24 hours in and around the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251208220000 +0000" stop="20251208230000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 First at Four: LIVE</title>
+    <desc lang="en">The day's major news events are examined and reported by the News 9 Evening Team, along with the continuing stories of special interest in the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251208230000 +0000" stop="20251208233000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 at 5 PM: LIVE</title>
+    <desc lang="en">The News 9 Evening Team offers a report on the latest local, regional, statewide and national news events of the day, as well as detailed and timely updates about the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251208233000 +0000" stop="20251209000000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 Recent Stories</title>
+    <desc lang="en">News stories from the last 24 hours in and around the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251209000000 +0000" stop="20251209003000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 at 6pm: LIVE</title>
+    <desc lang="en">The latest local, regional, statewide and national news updates of the day, as well as detailed and timely reports on sports events in the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251209003000 +0000" stop="20251209040000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 Recent Stories</title>
+    <desc lang="en">News stories from the last 24 hours in and around the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251209040000 +0000" stop="20251209043000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 at 10 PM: LIVE</title>
+    <desc lang="en">The News 9 Nightly Team presents an in-depth report on the major news events of the day and the details of late-breaking news stories, along with the latest news from the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251209043000 +0000" stop="20251209060000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 Recent Stories</title>
+    <desc lang="en">News stories from the last 24 hours in and around the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251209060000 +0000" stop="20251209100000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 Recent Stories</title>
+    <desc lang="en">News stories from the last 24 hours in and around the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251209100000 +0000" stop="20251209110000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 First at 430am</title>
+    <desc lang="en">The News 9 Team presents the news of the day, stories of interest and the current weather forecast.</desc>
+  </programme>
+  <programme start="20251209110000 +0000" stop="20251209120000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 at 5am</title>
+    <desc lang="en">The News 9 Morning Team presents the news of the day, stories of interest and the current weather forecast.</desc>
+  </programme>
+  <programme start="20251209120000 +0000" stop="20251209130000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 at 6 AM: LIVE</title>
+    <desc lang="en">The News 9 Morning Team presents the news of the day, stories of interest and the current weather forecast.</desc>
+  </programme>
+  <programme start="20251209130000 +0000" stop="20251209150000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 Recent Stories</title>
+    <desc lang="en">News stories from the last 24 hours in and around the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251209150000 +0000" stop="20251209160000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 at 9 AM: LIVE</title>
+    <desc lang="en">The News 9 Morning Team presents the news of the day, stories of interest and the current weather forecast.</desc>
+  </programme>
+  <programme start="20251209160000 +0000" stop="20251209180000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 Recent Stories</title>
+    <desc lang="en">News stories from the last 24 hours in and around the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251209180000 +0000" stop="20251209183000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 at Noon: LIVE</title>
+    <desc lang="en">The News 9 Team presents the latest in local, regional, statewide and national news, along with timely updates on continuing stories of interest in the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251209183000 +0000" stop="20251209220000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 Recent Stories</title>
+    <desc lang="en">News stories from the last 24 hours in and around the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251209220000 +0000" stop="20251209230000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 First at Four: LIVE</title>
+    <desc lang="en">The day's major news events are examined and reported by the News 9 Evening Team, along with the continuing stories of special interest in the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251209230000 +0000" stop="20251209233000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 at 5 PM: LIVE</title>
+    <desc lang="en">The News 9 Evening Team offers a report on the latest local, regional, statewide and national news events of the day, as well as detailed and timely updates about the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251209233000 +0000" stop="20251210000000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 Recent Stories</title>
+    <desc lang="en">News stories from the last 24 hours in and around the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251210000000 +0000" stop="20251210003000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 at 6pm: LIVE</title>
+    <desc lang="en">The latest local, regional, statewide and national news updates of the day, as well as detailed and timely reports on sports events in the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251210003000 +0000" stop="20251210040000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 Recent Stories</title>
+    <desc lang="en">News stories from the last 24 hours in and around the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251210040000 +0000" stop="20251210043000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 at 10 PM: LIVE</title>
+    <desc lang="en">The News 9 Nightly Team presents an in-depth report on the major news events of the day and the details of late-breaking news stories, along with the latest news from the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251210043000 +0000" stop="20251210060000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 Recent Stories</title>
+    <desc lang="en">News stories from the last 24 hours in and around the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251210060000 +0000" stop="20251210100000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 Recent Stories</title>
+    <desc lang="en">News stories from the last 24 hours in and around the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251210100000 +0000" stop="20251210110000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 First at 430am</title>
+    <desc lang="en">The News 9 Team presents the news of the day, stories of interest and the current weather forecast.</desc>
+  </programme>
+  <programme start="20251210110000 +0000" stop="20251210120000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 at 5am</title>
+    <desc lang="en">The News 9 Morning Team presents the news of the day, stories of interest and the current weather forecast.</desc>
+  </programme>
+  <programme start="20251210120000 +0000" stop="20251210130000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 at 6 AM: LIVE</title>
+    <desc lang="en">The News 9 Morning Team presents the news of the day, stories of interest and the current weather forecast.</desc>
+  </programme>
+  <programme start="20251210130000 +0000" stop="20251210150000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 Recent Stories</title>
+    <desc lang="en">News stories from the last 24 hours in and around the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251210150000 +0000" stop="20251210160000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 at 9 AM: LIVE</title>
+    <desc lang="en">The News 9 Morning Team presents the news of the day, stories of interest and the current weather forecast.</desc>
+  </programme>
+  <programme start="20251210160000 +0000" stop="20251210180000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 Recent Stories</title>
+    <desc lang="en">News stories from the last 24 hours in and around the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251210180000 +0000" stop="20251210183000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 at Noon: LIVE</title>
+    <desc lang="en">The News 9 Team presents the latest in local, regional, statewide and national news, along with timely updates on continuing stories of interest in the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251210183000 +0000" stop="20251210220000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 Recent Stories</title>
+    <desc lang="en">News stories from the last 24 hours in and around the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251210220000 +0000" stop="20251210230000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 First at Four: LIVE</title>
+    <desc lang="en">The day's major news events are examined and reported by the News 9 Evening Team, along with the continuing stories of special interest in the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251210230000 +0000" stop="20251210233000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 at 5 PM: LIVE</title>
+    <desc lang="en">The News 9 Evening Team offers a report on the latest local, regional, statewide and national news events of the day, as well as detailed and timely updates about the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251210233000 +0000" stop="20251211000000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 Recent Stories</title>
+    <desc lang="en">News stories from the last 24 hours in and around the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251211000000 +0000" stop="20251211003000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 at 6pm: LIVE</title>
+    <desc lang="en">The latest local, regional, statewide and national news updates of the day, as well as detailed and timely reports on sports events in the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251211003000 +0000" stop="20251211040000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 Recent Stories</title>
+    <desc lang="en">News stories from the last 24 hours in and around the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251211040000 +0000" stop="20251211043000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 at 10 PM: LIVE</title>
+    <desc lang="en">The News 9 Nightly Team presents an in-depth report on the major news events of the day and the details of late-breaking news stories, along with the latest news from the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251211043000 +0000" stop="20251211060000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 Recent Stories</title>
+    <desc lang="en">News stories from the last 24 hours in and around the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251211060000 +0000" stop="20251211100000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 Recent Stories</title>
+    <desc lang="en">News stories from the last 24 hours in and around the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251211100000 +0000" stop="20251211110000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 First at 430am</title>
+    <desc lang="en">The News 9 Team presents the news of the day, stories of interest and the current weather forecast.</desc>
+  </programme>
+  <programme start="20251211110000 +0000" stop="20251211120000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 at 5am</title>
+    <desc lang="en">The News 9 Morning Team presents the news of the day, stories of interest and the current weather forecast.</desc>
+  </programme>
+  <programme start="20251211120000 +0000" stop="20251211130000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 at 6 AM: LIVE</title>
+    <desc lang="en">The News 9 Morning Team presents the news of the day, stories of interest and the current weather forecast.</desc>
+  </programme>
+  <programme start="20251211130000 +0000" stop="20251211150000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 Recent Stories</title>
+    <desc lang="en">News stories from the last 24 hours in and around the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251211150000 +0000" stop="20251211160000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 at 9 AM: LIVE</title>
+    <desc lang="en">The News 9 Morning Team presents the news of the day, stories of interest and the current weather forecast.</desc>
+  </programme>
+  <programme start="20251211160000 +0000" stop="20251211180000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 Recent Stories</title>
+    <desc lang="en">News stories from the last 24 hours in and around the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251211180000 +0000" stop="20251211183000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 at Noon: LIVE</title>
+    <desc lang="en">The News 9 Team presents the latest in local, regional, statewide and national news, along with timely updates on continuing stories of interest in the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251211183000 +0000" stop="20251211220000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 Recent Stories</title>
+    <desc lang="en">News stories from the last 24 hours in and around the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251211220000 +0000" stop="20251211230000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 First at Four: LIVE</title>
+    <desc lang="en">The day's major news events are examined and reported by the News 9 Evening Team, along with the continuing stories of special interest in the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251211230000 +0000" stop="20251211233000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 at 5 PM: LIVE</title>
+    <desc lang="en">The News 9 Evening Team offers a report on the latest local, regional, statewide and national news events of the day, as well as detailed and timely updates about the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251211233000 +0000" stop="20251212000000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 Recent Stories</title>
+    <desc lang="en">News stories from the last 24 hours in and around the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251212000000 +0000" stop="20251212003000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 at 6pm: LIVE</title>
+    <desc lang="en">The latest local, regional, statewide and national news updates of the day, as well as detailed and timely reports on sports events in the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251212003000 +0000" stop="20251212040000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 Recent Stories</title>
+    <desc lang="en">News stories from the last 24 hours in and around the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251212040000 +0000" stop="20251212043000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 at 10 PM: LIVE</title>
+    <desc lang="en">The News 9 Nightly Team presents an in-depth report on the major news events of the day and the details of late-breaking news stories, along with the latest news from the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251212043000 +0000" stop="20251212060000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 Recent Stories</title>
+    <desc lang="en">News stories from the last 24 hours in and around the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251212060000 +0000" stop="20251212100000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 Recent Stories</title>
+    <desc lang="en">News stories from the last 24 hours in and around the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251212100000 +0000" stop="20251212110000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 First at 430am</title>
+    <desc lang="en">The News 9 Team presents the news of the day, stories of interest and the current weather forecast.</desc>
+  </programme>
+  <programme start="20251212110000 +0000" stop="20251212120000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 at 5am</title>
+    <desc lang="en">The News 9 Morning Team presents the news of the day, stories of interest and the current weather forecast.</desc>
+  </programme>
+  <programme start="20251212120000 +0000" stop="20251212130000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 at 6 AM: LIVE</title>
+    <desc lang="en">The News 9 Morning Team presents the news of the day, stories of interest and the current weather forecast.</desc>
+  </programme>
+  <programme start="20251212130000 +0000" stop="20251212150000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 Recent Stories</title>
+    <desc lang="en">News stories from the last 24 hours in and around the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251212150000 +0000" stop="20251212160000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 at 9 AM: LIVE</title>
+    <desc lang="en">The News 9 Morning Team presents the news of the day, stories of interest and the current weather forecast.</desc>
+  </programme>
+  <programme start="20251212160000 +0000" stop="20251212180000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 Recent Stories</title>
+    <desc lang="en">News stories from the last 24 hours in and around the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251212180000 +0000" stop="20251212183000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 at Noon: LIVE</title>
+    <desc lang="en">The News 9 Team presents the latest in local, regional, statewide and national news, along with timely updates on continuing stories of interest in the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251212183000 +0000" stop="20251212220000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 Recent Stories</title>
+    <desc lang="en">News stories from the last 24 hours in and around the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251212220000 +0000" stop="20251212230000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 First at Four: LIVE</title>
+    <desc lang="en">The day's major news events are examined and reported by the News 9 Evening Team, along with the continuing stories of special interest in the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251212230000 +0000" stop="20251212233000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 at 5 PM: LIVE</title>
+    <desc lang="en">The News 9 Evening Team offers a report on the latest local, regional, statewide and national news events of the day, as well as detailed and timely updates about the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251212233000 +0000" stop="20251213000000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 Recent Stories</title>
+    <desc lang="en">News stories from the last 24 hours in and around the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251213000000 +0000" stop="20251213003000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 at 6pm: LIVE</title>
+    <desc lang="en">The latest local, regional, statewide and national news updates of the day, as well as detailed and timely reports on sports events in the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251213003000 +0000" stop="20251213040000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 Recent Stories</title>
+    <desc lang="en">News stories from the last 24 hours in and around the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251213040000 +0000" stop="20251213043000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 at 10 PM: LIVE</title>
+    <desc lang="en">The News 9 Nightly Team presents an in-depth report on the major news events of the day and the details of late-breaking news stories, along with the latest news from the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251213043000 +0000" stop="20251213060000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 Recent Stories</title>
+    <desc lang="en">News stories from the last 24 hours in and around the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251213060000 +0000" stop="20251213140000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 Recent Stories</title>
+    <desc lang="en">News stories from the last 24 hours in and around the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251213140000 +0000" stop="20251213160000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 Saturday Morning Edition</title>
+    <desc lang="en">The news of the weekend, topics of interest in the Oklahoma City area, weather forecasts and sports scores are presented by the News 9 Weekend Team.</desc>
+  </programme>
+  <programme start="20251213160000 +0000" stop="20251214003000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 Recent Stories</title>
+    <desc lang="en">News stories from the last 24 hours in and around the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251214003000 +0000" stop="20251214010000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 at 6:30 PM: LIVE</title>
+    <desc lang="en">The day's major news events and late breaking stories are presented by the news team, along with the latest weather, sports coverage and traffic.</desc>
+  </programme>
+  <programme start="20251214010000 +0000" stop="20251214040000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 Recent Stories</title>
+    <desc lang="en">News stories from the last 24 hours in and around the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251214040000 +0000" stop="20251214043000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 at 10 PM: LIVE</title>
+    <desc lang="en">The News 9 Nightly Team presents an in-depth report on the major news events of the day and the details of late-breaking news stories, along with the latest news from the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251214043000 +0000" stop="20251214060000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 Recent Stories</title>
+    <desc lang="en">News stories from the last 24 hours in and around the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251214060000 +0000" stop="20251214130000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 Recent Stories</title>
+    <desc lang="en">News stories from the last 24 hours in and around the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251214130000 +0000" stop="20251214140000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 Sunday Morning Edition: LIVE</title>
+    <desc lang="en">News of the weekend, topics of interest in the Oklahoma City area, weather forecasts, and sports scores are presented by the News 9 Weekend Team.</desc>
+  </programme>
+  <programme start="20251214140000 +0000" stop="20251214233000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 Recent Stories</title>
+    <desc lang="en">News stories from the last 24 hours in and around the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251214233000 +0000" stop="20251215000000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 at 5:30 PM: LIVE</title>
+    <desc lang="en">News of the weekend, topics of interest in the Oklahoma City area, weather forecasts, and sports scores are presented by the News 9 Weekend Team.</desc>
+  </programme>
+  <programme start="20251215000000 +0000" stop="20251215040000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 Recent Stories</title>
+    <desc lang="en">News stories from the last 24 hours in and around the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251215040000 +0000" stop="20251215042600 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 at 10 PM: LIVE</title>
+    <desc lang="en">The News 9 Nightly Team presents an in-depth report on the major news events of the day and the details of late-breaking news stories, along with the latest news from the Oklahoma City area.Late Newscast</desc>
+  </programme>
+  <programme start="20251215042600 +0000" stop="20251215050000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">Sports Blitz: LIVE</title>
+    <desc lang="en">Weekly sports coverage from across Oklahoma, co-hosted by News On 6 in Tulsa.</desc>
+  </programme>
+  <programme start="20251215050000 +0000" stop="20251215060000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 Recent Stories</title>
+  </programme>
+  <programme start="20251215060000 +0000" stop="20251215100000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 Recent Stories</title>
+    <desc lang="en">News stories from the last 24 hours in and around the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251215100000 +0000" stop="20251215110000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 First at 430am</title>
+    <desc lang="en">The News 9 Team presents the news of the day, stories of interest and the current weather forecast.</desc>
+  </programme>
+  <programme start="20251215110000 +0000" stop="20251215120000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 at 5am</title>
+    <desc lang="en">The News 9 Morning Team presents the news of the day, stories of interest and the current weather forecast.</desc>
+  </programme>
+  <programme start="20251215120000 +0000" stop="20251215130000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 at 6 AM: LIVE</title>
+    <desc lang="en">The News 9 Morning Team presents the news of the day, stories of interest and the current weather forecast.</desc>
+  </programme>
+  <programme start="20251215130000 +0000" stop="20251215150000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 Recent Stories</title>
+    <desc lang="en">News stories from the last 24 hours in and around the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251215150000 +0000" stop="20251215160000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 at 9 AM: LIVE</title>
+    <desc lang="en">The News 9 Morning Team presents the news of the day, stories of interest and the current weather forecast.</desc>
+  </programme>
+  <programme start="20251215160000 +0000" stop="20251215180000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 Recent Stories</title>
+    <desc lang="en">News stories from the last 24 hours in and around the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251215180000 +0000" stop="20251215183000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 at Noon: LIVE</title>
+    <desc lang="en">The News 9 Team presents the latest in local, regional, statewide and national news, along with timely updates on continuing stories of interest in the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251215183000 +0000" stop="20251215220000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 Recent Stories</title>
+    <desc lang="en">News stories from the last 24 hours in and around the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251215220000 +0000" stop="20251215230000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 First at Four: LIVE</title>
+    <desc lang="en">The day's major news events are examined and reported by the News 9 Evening Team, along with the continuing stories of special interest in the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251215230000 +0000" stop="20251215233000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 at 5 PM: LIVE</title>
+    <desc lang="en">The News 9 Evening Team offers a report on the latest local, regional, statewide and national news events of the day, as well as detailed and timely updates about the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251215233000 +0000" stop="20251216000000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 Recent Stories</title>
+    <desc lang="en">News stories from the last 24 hours in and around the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251216000000 +0000" stop="20251216003000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 at 6pm: LIVE</title>
+    <desc lang="en">The latest local, regional, statewide and national news updates of the day, as well as detailed and timely reports on sports events in the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251216003000 +0000" stop="20251216040000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 Recent Stories</title>
+    <desc lang="en">News stories from the last 24 hours in and around the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251216040000 +0000" stop="20251216043000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 at 10 PM: LIVE</title>
+    <desc lang="en">The News 9 Nightly Team presents an in-depth report on the major news events of the day and the details of late-breaking news stories, along with the latest news from the Oklahoma City area.</desc>
+  </programme>
+  <programme start="20251216043000 +0000" stop="20251216060000 +0000" channel="e48409e7-672d-42f2-b5e0-ebb6744b0425">
+    <title lang="en">News 9 Recent Stories</title>
+    <desc lang="en">News stories from the last 24 hours in and around the Oklahoma City area.</desc>
+  </programme>
+  <channel id="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <display-name>O&amp;O - Scheduled Programming (PRIMARY FEED)</display-name>
+  </channel>
+  <programme start="20251202043000 +0000" stop="20251202050000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Sound Advice</title>
+  </programme>
+  <programme start="20251202050000 +0000" stop="20251202053000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">LIVE: KSL 5 News at 10 PM</title>
+    <desc lang="en">The day's major news events, business reports, local sports updates, weather information and tomorrow's forecast are presented by Deanie Wimmer, Mike Headrick, Debbie Worthen, Kevin Eubank and the KSL 5 News Team. Weekdays.</desc>
+  </programme>
+  <programme start="20251202053000 +0000" stop="20251202060000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News at 10PM (Repeat)</title>
+    <desc lang="en">The day's major news events, business reports, local sports updates, weather information and tomorrow's forecast are presented by Deanie Wimmer, Mike Headrick, Debbie Worthen, Kevin Eubank and the KSL 5 News Team. Weekdays.</desc>
+  </programme>
+  <programme start="20251202060000 +0000" stop="20251202063000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News at 10PM (Replay)</title>
+    <desc lang="en">The day's major news events, business reports, local sports updates, weather information and tomorrow's forecast are presented by Deanie Wimmer, Mike Headrick, Debbie Worthen, Kevin Eubank and the KSL 5 News Team. Weekdays.</desc>
+  </programme>
+  <programme start="20251202063000 +0000" stop="20251202070000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News at 10PM (Replay)</title>
+    <desc lang="en">The day's major news events, business reports, local sports updates, weather information and tomorrow's forecast are presented by Deanie Wimmer, Mike Headrick, Debbie Worthen, Kevin Eubank and the KSL 5 News Team. Weekdays.</desc>
+  </programme>
+  <programme start="20251202070000 +0000" stop="20251202073000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News at 10PM (Replay)</title>
+    <desc lang="en">The day's major news events, business reports, local sports updates, weather information and tomorrow's forecast are presented by Deanie Wimmer, Mike Headrick, Debbie Worthen, Kevin Eubank and the KSL 5 News Team. Weekdays.</desc>
+  </programme>
+  <programme start="20251202073000 +0000" stop="20251202080000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News at 10PM (Replay)</title>
+    <desc lang="en">The day's major news events, business reports, local sports updates, weather information and tomorrow's forecast are presented by Deanie Wimmer, Mike Headrick, Debbie Worthen, Kevin Eubank and the KSL 5 News Team. Weekdays.</desc>
+  </programme>
+  <programme start="20251202080000 +0000" stop="20251202083000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News at 10PM (Nested)</title>
+    <desc lang="en">The day's major news events, business reports, local sports updates, weather information and tomorrow's forecast are presented by Deanie Wimmer, Mike Headrick, Debbie Worthen, Kevin Eubank and the KSL 5 News Team. Weekdays.</desc>
+  </programme>
+  <programme start="20251202083000 +0000" stop="20251202090000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News at 10PM (Replay)</title>
+    <desc lang="en">The day's major news events, business reports, local sports updates, weather information and tomorrow's forecast are presented by Deanie Wimmer, Mike Headrick, Debbie Worthen, Kevin Eubank and the KSL 5 News Team. Weekdays.</desc>
+  </programme>
+  <programme start="20251202090000 +0000" stop="20251202100000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Cool Stuff in Utah - Entertainment</title>
+  </programme>
+  <programme start="20251202100000 +0000" stop="20251202103000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Your Life Your Health 1</title>
+  </programme>
+  <programme start="20251202103000 +0000" stop="20251202113000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Cool Stuff in Utah - Halloween</title>
+  </programme>
+  <programme start="20251202113000 +0000" stop="20251202120000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">LIVE: KSL 5 News at 4:30 AM</title>
+    <desc lang="en">KSL 5 News at LIVE at 4:30 AM</desc>
+  </programme>
+  <programme start="20251202120000 +0000" stop="20251202130000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">LIVE: KSL 5 News Today at 5 AM</title>
+    <desc lang="en">Start your week day with the KSL TODAY team. Lori and Tamara help you prepare for the day ahead, and Matt keeps you informed on the weather so you Know Before You Go!</desc>
+  </programme>
+  <programme start="20251202130000 +0000" stop="20251202140000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">LIVE: KSL 5 News Today at 6 AM</title>
+    <desc lang="en">KSL 5 News LIVE at 6AM</desc>
+  </programme>
+  <programme start="20251202140000 +0000" stop="20251202150000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News Today (Nested)</title>
+    <desc lang="en">Start your week day with the KSL TODAY team. Lori and Tamara help you prepare for the day ahead, and Matt keeps you informed on the weather so you Know Before You Go!</desc>
+  </programme>
+  <programme start="20251202150000 +0000" stop="20251202160000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News Today (Replay)</title>
+    <desc lang="en">Start your week day with the KSL TODAY team. Lori and Tamara help you prepare for the day ahead, and Matt keeps you informed on the weather so you Know Before You Go!</desc>
+  </programme>
+  <programme start="20251202160000 +0000" stop="20251202170000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Cool Stuff in Utah - Churches</title>
+  </programme>
+  <programme start="20251202170000 +0000" stop="20251202173000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Your Life Your Health 1</title>
+  </programme>
+  <programme start="20251202173000 +0000" stop="20251202180000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Your Life Your Health 2</title>
+  </programme>
+  <programme start="20251202180000 +0000" stop="20251202190000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Cool Stuff in Utah - Halloween</title>
+  </programme>
+  <programme start="20251202190000 +0000" stop="20251202200000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">LIVE: The Noon Show</title>
+    <desc lang="en">A comprehensive look at local, statewide, and national news events with Brooke Walker, Tamara Vaifanua, and Matt Johnson, along with updates on sports and your weather forecast.</desc>
+  </programme>
+  <programme start="20251202200000 +0000" stop="20251202210000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Replay: The Noon Show</title>
+  </programme>
+  <programme start="20251202210000 +0000" stop="20251202220000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">The Drew Barrymore Show</title>
+    <desc lang="en">Drew Barrymore presents human-interest stories, celebrity guests, lifestyle segments and field pieces, all driven by her infectious brand of humor, optimism and love for life.</desc>
+  </programme>
+  <programme start="20251202220000 +0000" stop="20251202230000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">The Kelly Clarkson Show</title>
+  </programme>
+  <programme start="20251202230000 +0000" stop="20251203000000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">LIVE: KSL News at 4PM</title>
+    <desc lang="en">Mike Headrick and Debbie Worthen bring you up to the minute on breaking local news as well as national and international headlines, along with updates on the topics dominating dinner table conversations everywhere from family finances to health and entertainment reports.</desc>
+  </programme>
+  <programme start="20251203000000 +0000" stop="20251203003000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">LIVE: KSL 5 News at 5 PM</title>
+    <desc lang="en">The day's top news items are presented by Mike Headrick and Debbie Worthen including local, national and international headlines and their impact here at home. Kevin Eubank also tracks the forecast and the chance it could disrupt your plans. Weekdays.</desc>
+  </programme>
+  <programme start="20251203003000 +0000" stop="20251203010000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News This Evening</title>
+  </programme>
+  <programme start="20251203010000 +0000" stop="20251203020000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">LIVE: KSL 5 News at 6 PM</title>
+    <desc lang="en">The day's top news items are presented by Deanie Wimmer, Mike Headrick, along with the KSL Sports team celebrating the incredible achievements of Utah athletes locally and professionally. We also get the latest weather report from Kevin Eubank. Weekdays.</desc>
+  </programme>
+  <programme start="20251203020000 +0000" stop="20251203030000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News Tonight (Nested)</title>
+  </programme>
+  <programme start="20251203030000 +0000" stop="20251203033000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Get Gephardt 1</title>
+  </programme>
+  <programme start="20251203033000 +0000" stop="20251203040000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Get Gephardt 2</title>
+  </programme>
+  <programme start="20251203040000 +0000" stop="20251203043000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Get Gephardt 3</title>
+  </programme>
+  <programme start="20251203043000 +0000" stop="20251203050000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Get Gephardt 4</title>
+  </programme>
+  <programme start="20251203050000 +0000" stop="20251203053000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">LIVE: KSL 5 News at 10 PM</title>
+    <desc lang="en">The day's major news events, business reports, local sports updates, weather information and tomorrow's forecast are presented by Deanie Wimmer, Mike Headrick, Debbie Worthen, Kevin Eubank and the KSL 5 News Team. Weekdays.</desc>
+  </programme>
+  <programme start="20251203053000 +0000" stop="20251203060000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News at 10PM (Repeat)</title>
+    <desc lang="en">The day's major news events, business reports, local sports updates, weather information and tomorrow's forecast are presented by Deanie Wimmer, Mike Headrick, Debbie Worthen, Kevin Eubank and the KSL 5 News Team. Weekdays.</desc>
+  </programme>
+  <programme start="20251203060000 +0000" stop="20251203063000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News at 10PM (Replay)</title>
+    <desc lang="en">The day's major news events, business reports, local sports updates, weather information and tomorrow's forecast are presented by Deanie Wimmer, Mike Headrick, Debbie Worthen, Kevin Eubank and the KSL 5 News Team. Weekdays.</desc>
+  </programme>
+  <programme start="20251203063000 +0000" stop="20251203070000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News at 10PM (Replay)</title>
+    <desc lang="en">The day's major news events, business reports, local sports updates, weather information and tomorrow's forecast are presented by Deanie Wimmer, Mike Headrick, Debbie Worthen, Kevin Eubank and the KSL 5 News Team. Weekdays.</desc>
+  </programme>
+  <programme start="20251203070000 +0000" stop="20251203073000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News at 10PM (Replay)</title>
+    <desc lang="en">The day's major news events, business reports, local sports updates, weather information and tomorrow's forecast are presented by Deanie Wimmer, Mike Headrick, Debbie Worthen, Kevin Eubank and the KSL 5 News Team. Weekdays.</desc>
+  </programme>
+  <programme start="20251203073000 +0000" stop="20251203080000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News at 10PM (Replay)</title>
+    <desc lang="en">The day's major news events, business reports, local sports updates, weather information and tomorrow's forecast are presented by Deanie Wimmer, Mike Headrick, Debbie Worthen, Kevin Eubank and the KSL 5 News Team. Weekdays.</desc>
+  </programme>
+  <programme start="20251203080000 +0000" stop="20251203083000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News at 10PM (Nested)</title>
+    <desc lang="en">The day's major news events, business reports, local sports updates, weather information and tomorrow's forecast are presented by Deanie Wimmer, Mike Headrick, Debbie Worthen, Kevin Eubank and the KSL 5 News Team. Weekdays.</desc>
+  </programme>
+  <programme start="20251203083000 +0000" stop="20251203090000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News at 10PM (Replay)</title>
+    <desc lang="en">The day's major news events, business reports, local sports updates, weather information and tomorrow's forecast are presented by Deanie Wimmer, Mike Headrick, Debbie Worthen, Kevin Eubank and the KSL 5 News Team. Weekdays.</desc>
+  </programme>
+  <programme start="20251203090000 +0000" stop="20251203093000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Rosenesque - History</title>
+  </programme>
+  <programme start="20251203093000 +0000" stop="20251203100000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Rosenesque - Family Friends &amp; Loved Ones</title>
+  </programme>
+  <programme start="20251203100000 +0000" stop="20251203103000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Rosenesque - Everybody Dance</title>
+  </programme>
+  <programme start="20251203103000 +0000" stop="20251203110000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Rosenesque - Carnival Of The Animals</title>
+  </programme>
+  <programme start="20251203110000 +0000" stop="20251203113000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Rosenesque - Rosenesque Art</title>
+  </programme>
+  <programme start="20251203113000 +0000" stop="20251203120000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">LIVE: KSL 5 News at 4:30 AM</title>
+    <desc lang="en">KSL 5 News at LIVE at 4:30 AM</desc>
+  </programme>
+  <programme start="20251203120000 +0000" stop="20251203130000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">LIVE: KSL 5 News Today at 5 AM</title>
+    <desc lang="en">Start your week day with the KSL TODAY team. Lori and Tamara help you prepare for the day ahead, and Matt keeps you informed on the weather so you Know Before You Go!</desc>
+  </programme>
+  <programme start="20251203130000 +0000" stop="20251203140000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">LIVE: KSL 5 News Today at 6 AM</title>
+    <desc lang="en">KSL 5 News LIVE at 6AM</desc>
+  </programme>
+  <programme start="20251203140000 +0000" stop="20251203150000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News Today (Nested)</title>
+    <desc lang="en">Start your week day with the KSL TODAY team. Lori and Tamara help you prepare for the day ahead, and Matt keeps you informed on the weather so you Know Before You Go!</desc>
+  </programme>
+  <programme start="20251203150000 +0000" stop="20251203160000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News Today (Replay)</title>
+    <desc lang="en">Start your week day with the KSL TODAY team. Lori and Tamara help you prepare for the day ahead, and Matt keeps you informed on the weather so you Know Before You Go!</desc>
+  </programme>
+  <programme start="20251203160000 +0000" stop="20251203170000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Cool Stuff in Utah - Arenas</title>
+  </programme>
+  <programme start="20251203170000 +0000" stop="20251203173000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Get Gephardt</title>
+  </programme>
+  <programme start="20251203173000 +0000" stop="20251203180000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Get Gephardt</title>
+  </programme>
+  <programme start="20251203180000 +0000" stop="20251203183000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Get Gephardt</title>
+  </programme>
+  <programme start="20251203183000 +0000" stop="20251203190000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Get Gephardt</title>
+  </programme>
+  <programme start="20251203190000 +0000" stop="20251203200000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">LIVE: The Noon Show</title>
+    <desc lang="en">A comprehensive look at local, statewide, and national news events with Brooke Walker, Tamara Vaifanua, and Matt Johnson, along with updates on sports and your weather forecast.</desc>
+  </programme>
+  <programme start="20251203200000 +0000" stop="20251203210000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Replay: The Noon Show</title>
+  </programme>
+  <programme start="20251203210000 +0000" stop="20251203220000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">The Drew Barrymore Show</title>
+    <desc lang="en">Drew Barrymore presents human-interest stories, celebrity guests, lifestyle segments and field pieces, all driven by her infectious brand of humor, optimism and love for life.</desc>
+  </programme>
+  <programme start="20251203220000 +0000" stop="20251203230000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">The Kelly Clarkson Show</title>
+  </programme>
+  <programme start="20251203230000 +0000" stop="20251204000000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">LIVE: KSL News at 4PM</title>
+    <desc lang="en">Mike Headrick and Debbie Worthen bring you up to the minute on breaking local news as well as national and international headlines, along with updates on the topics dominating dinner table conversations everywhere from family finances to health and entertainment reports.</desc>
+  </programme>
+  <programme start="20251204000000 +0000" stop="20251204003000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">LIVE: KSL 5 News at 5 PM</title>
+    <desc lang="en">The day's top news items are presented by Mike Headrick and Debbie Worthen including local, national and international headlines and their impact here at home. Kevin Eubank also tracks the forecast and the chance it could disrupt your plans. Weekdays.</desc>
+  </programme>
+  <programme start="20251204003000 +0000" stop="20251204010000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News This Evening</title>
+  </programme>
+  <programme start="20251204010000 +0000" stop="20251204020000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">LIVE: KSL 5 News at 6 PM</title>
+    <desc lang="en">The day's top news items are presented by Deanie Wimmer, Mike Headrick, along with the KSL Sports team celebrating the incredible achievements of Utah athletes locally and professionally. We also get the latest weather report from Kevin Eubank. Weekdays.</desc>
+  </programme>
+  <programme start="20251204020000 +0000" stop="20251204030000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News Tonight (Nested)</title>
+  </programme>
+  <programme start="20251204030000 +0000" stop="20251204040000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Cool Stuff in Utah - Entertainment</title>
+  </programme>
+  <programme start="20251204040000 +0000" stop="20251204043000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Rosenesque - History</title>
+  </programme>
+  <programme start="20251204043000 +0000" stop="20251204050000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Rosenesque - Family Friends &amp; Loved Ones</title>
+  </programme>
+  <programme start="20251204050000 +0000" stop="20251204053000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">LIVE: KSL 5 News at 10 PM</title>
+    <desc lang="en">The day's major news events, business reports, local sports updates, weather information and tomorrow's forecast are presented by Deanie Wimmer, Mike Headrick, Debbie Worthen, Kevin Eubank and the KSL 5 News Team. Weekdays.</desc>
+  </programme>
+  <programme start="20251204053000 +0000" stop="20251204060000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News at 10PM (Repeat)</title>
+    <desc lang="en">The day's major news events, business reports, local sports updates, weather information and tomorrow's forecast are presented by Deanie Wimmer, Mike Headrick, Debbie Worthen, Kevin Eubank and the KSL 5 News Team. Weekdays.</desc>
+  </programme>
+  <programme start="20251204060000 +0000" stop="20251204063000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News at 10PM (Replay)</title>
+    <desc lang="en">The day's major news events, business reports, local sports updates, weather information and tomorrow's forecast are presented by Deanie Wimmer, Mike Headrick, Debbie Worthen, Kevin Eubank and the KSL 5 News Team. Weekdays.</desc>
+  </programme>
+  <programme start="20251204063000 +0000" stop="20251204070000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News at 10PM (Replay)</title>
+    <desc lang="en">The day's major news events, business reports, local sports updates, weather information and tomorrow's forecast are presented by Deanie Wimmer, Mike Headrick, Debbie Worthen, Kevin Eubank and the KSL 5 News Team. Weekdays.</desc>
+  </programme>
+  <programme start="20251204070000 +0000" stop="20251204073000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News at 10PM (Replay)</title>
+    <desc lang="en">The day's major news events, business reports, local sports updates, weather information and tomorrow's forecast are presented by Deanie Wimmer, Mike Headrick, Debbie Worthen, Kevin Eubank and the KSL 5 News Team. Weekdays.</desc>
+  </programme>
+  <programme start="20251204073000 +0000" stop="20251204080000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News at 10PM (Replay)</title>
+    <desc lang="en">The day's major news events, business reports, local sports updates, weather information and tomorrow's forecast are presented by Deanie Wimmer, Mike Headrick, Debbie Worthen, Kevin Eubank and the KSL 5 News Team. Weekdays.</desc>
+  </programme>
+  <programme start="20251204080000 +0000" stop="20251204083000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News at 10PM (Nested)</title>
+    <desc lang="en">The day's major news events, business reports, local sports updates, weather information and tomorrow's forecast are presented by Deanie Wimmer, Mike Headrick, Debbie Worthen, Kevin Eubank and the KSL 5 News Team. Weekdays.</desc>
+  </programme>
+  <programme start="20251204083000 +0000" stop="20251204090000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News at 10PM (Replay)</title>
+    <desc lang="en">The day's major news events, business reports, local sports updates, weather information and tomorrow's forecast are presented by Deanie Wimmer, Mike Headrick, Debbie Worthen, Kevin Eubank and the KSL 5 News Team. Weekdays.</desc>
+  </programme>
+  <programme start="20251204090000 +0000" stop="20251204100000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Cool Stuff in Utah - Entertainment</title>
+  </programme>
+  <programme start="20251204100000 +0000" stop="20251204103000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Your Life Your Health 1</title>
+  </programme>
+  <programme start="20251204103000 +0000" stop="20251204113000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Cool Stuff in Utah - Halloween</title>
+  </programme>
+  <programme start="20251204113000 +0000" stop="20251204120000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">LIVE: KSL 5 News at 4:30 AM</title>
+    <desc lang="en">KSL 5 News at LIVE at 4:30 AM</desc>
+  </programme>
+  <programme start="20251204120000 +0000" stop="20251204130000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">LIVE: KSL 5 News Today at 5 AM</title>
+    <desc lang="en">Start your week day with the KSL TODAY team. Lori and Tamara help you prepare for the day ahead, and Matt keeps you informed on the weather so you Know Before You Go!</desc>
+  </programme>
+  <programme start="20251204130000 +0000" stop="20251204140000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">LIVE: KSL 5 News Today at 6 AM</title>
+    <desc lang="en">KSL 5 News LIVE at 6AM</desc>
+  </programme>
+  <programme start="20251204140000 +0000" stop="20251204150000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News Today (Nested)</title>
+    <desc lang="en">Start your week day with the KSL TODAY team. Lori and Tamara help you prepare for the day ahead, and Matt keeps you informed on the weather so you Know Before You Go!</desc>
+  </programme>
+  <programme start="20251204150000 +0000" stop="20251204160000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News Today (Replay)</title>
+    <desc lang="en">Start your week day with the KSL TODAY team. Lori and Tamara help you prepare for the day ahead, and Matt keeps you informed on the weather so you Know Before You Go!</desc>
+  </programme>
+  <programme start="20251204160000 +0000" stop="20251204170000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Cool Stuff in Utah - Halloween</title>
+  </programme>
+  <programme start="20251204170000 +0000" stop="20251204173000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Your Life Your Health 1</title>
+  </programme>
+  <programme start="20251204173000 +0000" stop="20251204180000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Your Life Your Health 2</title>
+  </programme>
+  <programme start="20251204180000 +0000" stop="20251204190000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Cool Stuff in Utah - Halloween</title>
+  </programme>
+  <programme start="20251204190000 +0000" stop="20251204200000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">LIVE: The Noon Show</title>
+    <desc lang="en">A comprehensive look at local, statewide, and national news events with Brooke Walker, Tamara Vaifanua, and Matt Johnson, along with updates on sports and your weather forecast.</desc>
+  </programme>
+  <programme start="20251204200000 +0000" stop="20251204210000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Replay: The Noon Show</title>
+  </programme>
+  <programme start="20251204210000 +0000" stop="20251204220000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">The Drew Barrymore Show</title>
+    <desc lang="en">Drew Barrymore presents human-interest stories, celebrity guests, lifestyle segments and field pieces, all driven by her infectious brand of humor, optimism and love for life.</desc>
+  </programme>
+  <programme start="20251204220000 +0000" stop="20251204230000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">The Kelly Clarkson Show</title>
+  </programme>
+  <programme start="20251204230000 +0000" stop="20251205000000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">LIVE: KSL News at 4PM</title>
+    <desc lang="en">Mike Headrick and Debbie Worthen bring you up to the minute on breaking local news as well as national and international headlines, along with updates on the topics dominating dinner table conversations everywhere from family finances to health and entertainment reports.</desc>
+  </programme>
+  <programme start="20251205000000 +0000" stop="20251205003000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">LIVE: KSL 5 News at 5 PM</title>
+    <desc lang="en">The day's top news items are presented by Mike Headrick and Debbie Worthen including local, national and international headlines and their impact here at home. Kevin Eubank also tracks the forecast and the chance it could disrupt your plans. Weekdays.</desc>
+  </programme>
+  <programme start="20251205003000 +0000" stop="20251205010000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News This Evening</title>
+  </programme>
+  <programme start="20251205010000 +0000" stop="20251205020000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">LIVE: KSL 5 News at 6 PM</title>
+    <desc lang="en">The day's top news items are presented by Deanie Wimmer, Mike Headrick, along with the KSL Sports team celebrating the incredible achievements of Utah athletes locally and professionally. We also get the latest weather report from Kevin Eubank. Weekdays.</desc>
+  </programme>
+  <programme start="20251205020000 +0000" stop="20251205030000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News Tonight (Nested)</title>
+  </programme>
+  <programme start="20251205030000 +0000" stop="20251205040000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Cool Stuff in Utah - Churches</title>
+  </programme>
+  <programme start="20251205040000 +0000" stop="20251205043000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Rosenesque - Carnival Of The Animals</title>
+  </programme>
+  <programme start="20251205043000 +0000" stop="20251205045753 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Rosenesque - Everybody Dance</title>
+  </programme>
+  <programme start="20251205050000 +0000" stop="20251205053000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">LIVE: KSL 5 News at 10 PM</title>
+    <desc lang="en">The day's major news events, business reports, local sports updates, weather information and tomorrow's forecast are presented by Deanie Wimmer, Mike Headrick, Debbie Worthen, Kevin Eubank and the KSL 5 News Team. Weekdays.</desc>
+  </programme>
+  <programme start="20251205053000 +0000" stop="20251205060000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News at 10PM (Repeat)</title>
+    <desc lang="en">The day's major news events, business reports, local sports updates, weather information and tomorrow's forecast are presented by Deanie Wimmer, Mike Headrick, Debbie Worthen, Kevin Eubank and the KSL 5 News Team. Weekdays.</desc>
+  </programme>
+  <programme start="20251205060000 +0000" stop="20251205063000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News at 10PM (Replay)</title>
+    <desc lang="en">The day's major news events, business reports, local sports updates, weather information and tomorrow's forecast are presented by Deanie Wimmer, Mike Headrick, Debbie Worthen, Kevin Eubank and the KSL 5 News Team. Weekdays.</desc>
+  </programme>
+  <programme start="20251205063000 +0000" stop="20251205070000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News at 10PM (Replay)</title>
+    <desc lang="en">The day's major news events, business reports, local sports updates, weather information and tomorrow's forecast are presented by Deanie Wimmer, Mike Headrick, Debbie Worthen, Kevin Eubank and the KSL 5 News Team. Weekdays.</desc>
+  </programme>
+  <programme start="20251205070000 +0000" stop="20251205073000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News at 10PM (Replay)</title>
+    <desc lang="en">The day's major news events, business reports, local sports updates, weather information and tomorrow's forecast are presented by Deanie Wimmer, Mike Headrick, Debbie Worthen, Kevin Eubank and the KSL 5 News Team. Weekdays.</desc>
+  </programme>
+  <programme start="20251205073000 +0000" stop="20251205080000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News at 10PM (Replay)</title>
+    <desc lang="en">The day's major news events, business reports, local sports updates, weather information and tomorrow's forecast are presented by Deanie Wimmer, Mike Headrick, Debbie Worthen, Kevin Eubank and the KSL 5 News Team. Weekdays.</desc>
+  </programme>
+  <programme start="20251205080000 +0000" stop="20251205083000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News at 10PM (Nested)</title>
+    <desc lang="en">The day's major news events, business reports, local sports updates, weather information and tomorrow's forecast are presented by Deanie Wimmer, Mike Headrick, Debbie Worthen, Kevin Eubank and the KSL 5 News Team. Weekdays.</desc>
+  </programme>
+  <programme start="20251205083000 +0000" stop="20251205090000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News at 10PM (Replay)</title>
+    <desc lang="en">The day's major news events, business reports, local sports updates, weather information and tomorrow's forecast are presented by Deanie Wimmer, Mike Headrick, Debbie Worthen, Kevin Eubank and the KSL 5 News Team. Weekdays.</desc>
+  </programme>
+  <programme start="20251205090000 +0000" stop="20251205093000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Rosenesque - History</title>
+  </programme>
+  <programme start="20251205093000 +0000" stop="20251205100000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Rosenesque - Family Friends &amp; Loved Ones</title>
+  </programme>
+  <programme start="20251205100000 +0000" stop="20251205103000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Rosenesque - Everybody Dance</title>
+  </programme>
+  <programme start="20251205103000 +0000" stop="20251205110000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Rosenesque - Carnival Of The Animals</title>
+  </programme>
+  <programme start="20251205110000 +0000" stop="20251205113000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Rosenesque - Rosenesque Art</title>
+  </programme>
+  <programme start="20251205113000 +0000" stop="20251205120000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">LIVE: KSL 5 News at 4:30 AM</title>
+    <desc lang="en">KSL 5 News at LIVE at 4:30 AM</desc>
+  </programme>
+  <programme start="20251205120000 +0000" stop="20251205130000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">LIVE: KSL 5 News Today at 5 AM</title>
+    <desc lang="en">Start your week day with the KSL TODAY team. Lori and Tamara help you prepare for the day ahead, and Matt keeps you informed on the weather so you Know Before You Go!</desc>
+  </programme>
+  <programme start="20251205130000 +0000" stop="20251205140000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">LIVE: KSL 5 News Today at 6 AM</title>
+    <desc lang="en">KSL 5 News LIVE at 6AM</desc>
+  </programme>
+  <programme start="20251205140000 +0000" stop="20251205150000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News Today (Nested)</title>
+    <desc lang="en">Start your week day with the KSL TODAY team. Lori and Tamara help you prepare for the day ahead, and Matt keeps you informed on the weather so you Know Before You Go!</desc>
+  </programme>
+  <programme start="20251205150000 +0000" stop="20251205160000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News Today (Replay)</title>
+    <desc lang="en">Start your week day with the KSL TODAY team. Lori and Tamara help you prepare for the day ahead, and Matt keeps you informed on the weather so you Know Before You Go!</desc>
+  </programme>
+  <programme start="20251205160000 +0000" stop="20251205170000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Cool Stuff in Utah - Airports</title>
+  </programme>
+  <programme start="20251205170000 +0000" stop="20251205173000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Get Gephardt</title>
+  </programme>
+  <programme start="20251205173000 +0000" stop="20251205180000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Get Gephardt</title>
+  </programme>
+  <programme start="20251205180000 +0000" stop="20251205183000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Get Gephardt</title>
+  </programme>
+  <programme start="20251205183000 +0000" stop="20251205190000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Get Gephardt</title>
+  </programme>
+  <programme start="20251205190000 +0000" stop="20251205200000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">LIVE: The Noon Show</title>
+    <desc lang="en">A comprehensive look at local, statewide, and national news events with Brooke Walker, Tamara Vaifanua, and Matt Johnson, along with updates on sports and your weather forecast.</desc>
+  </programme>
+  <programme start="20251205200000 +0000" stop="20251205210000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Replay: The Noon Show</title>
+  </programme>
+  <programme start="20251205210000 +0000" stop="20251205220000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">The Drew Barrymore Show</title>
+    <desc lang="en">Drew Barrymore presents human-interest stories, celebrity guests, lifestyle segments and field pieces, all driven by her infectious brand of humor, optimism and love for life.</desc>
+  </programme>
+  <programme start="20251205220000 +0000" stop="20251205230000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">The Kelly Clarkson Show</title>
+  </programme>
+  <programme start="20251205230000 +0000" stop="20251206000000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">LIVE: KSL News at 4PM</title>
+    <desc lang="en">Mike Headrick and Debbie Worthen bring you up to the minute on breaking local news as well as national and international headlines, along with updates on the topics dominating dinner table conversations everywhere from family finances to health and entertainment reports.</desc>
+  </programme>
+  <programme start="20251206000000 +0000" stop="20251206003000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">LIVE: KSL 5 News at 5 PM</title>
+    <desc lang="en">The day's top news items are presented by Mike Headrick and Debbie Worthen including local, national and international headlines and their impact here at home. Kevin Eubank also tracks the forecast and the chance it could disrupt your plans. Weekdays.</desc>
+  </programme>
+  <programme start="20251206003000 +0000" stop="20251206010000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News This Evening</title>
+  </programme>
+  <programme start="20251206010000 +0000" stop="20251206020000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">LIVE: KSL 5 News at 6 PM</title>
+    <desc lang="en">The day's top news items are presented by Deanie Wimmer, Mike Headrick, along with the KSL Sports team celebrating the incredible achievements of Utah athletes locally and professionally. We also get the latest weather report from Kevin Eubank. Weekdays.</desc>
+  </programme>
+  <programme start="20251206020000 +0000" stop="20251206050000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">LIVE: High School Sports</title>
+  </programme>
+  <programme start="20251206050000 +0000" stop="20251206053000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">LIVE: KSL 5 News at 10 PM</title>
+    <desc lang="en">The day's major news events, business reports, local sports updates, weather information and tomorrow's forecast are presented by Deanie Wimmer, Mike Headrick, Debbie Worthen, Kevin Eubank and the KSL 5 News Team. Weekdays.</desc>
+  </programme>
+  <programme start="20251206053000 +0000" stop="20251206060000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News at 10PM (Repeat)</title>
+    <desc lang="en">The day's major news events, business reports, local sports updates, weather information and tomorrow's forecast are presented by Deanie Wimmer, Mike Headrick, Debbie Worthen, Kevin Eubank and the KSL 5 News Team. Weekdays.</desc>
+  </programme>
+  <programme start="20251206060000 +0000" stop="20251206063000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News at 10PM (Replay)</title>
+    <desc lang="en">The day's major news events, business reports, local sports updates, weather information and tomorrow's forecast are presented by Deanie Wimmer, Mike Headrick, Debbie Worthen, Kevin Eubank and the KSL 5 News Team. Weekdays.</desc>
+  </programme>
+  <programme start="20251206063000 +0000" stop="20251206070000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News at 10PM (Replay)</title>
+    <desc lang="en">The day's major news events, business reports, local sports updates, weather information and tomorrow's forecast are presented by Deanie Wimmer, Mike Headrick, Debbie Worthen, Kevin Eubank and the KSL 5 News Team. Weekdays.</desc>
+  </programme>
+  <programme start="20251206070000 +0000" stop="20251206073000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News at 10PM (Replay)</title>
+    <desc lang="en">The day's major news events, business reports, local sports updates, weather information and tomorrow's forecast are presented by Deanie Wimmer, Mike Headrick, Debbie Worthen, Kevin Eubank and the KSL 5 News Team. Weekdays.</desc>
+  </programme>
+  <programme start="20251206073000 +0000" stop="20251206080000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News at 10PM (Replay)</title>
+    <desc lang="en">The day's major news events, business reports, local sports updates, weather information and tomorrow's forecast are presented by Deanie Wimmer, Mike Headrick, Debbie Worthen, Kevin Eubank and the KSL 5 News Team. Weekdays.</desc>
+  </programme>
+  <programme start="20251206080000 +0000" stop="20251206083000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News at 10PM (Nested)</title>
+    <desc lang="en">The day's major news events, business reports, local sports updates, weather information and tomorrow's forecast are presented by Deanie Wimmer, Mike Headrick, Debbie Worthen, Kevin Eubank and the KSL 5 News Team. Weekdays.</desc>
+  </programme>
+  <programme start="20251206083000 +0000" stop="20251206090000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News at 10PM (Replay)</title>
+    <desc lang="en">The day's major news events, business reports, local sports updates, weather information and tomorrow's forecast are presented by Deanie Wimmer, Mike Headrick, Debbie Worthen, Kevin Eubank and the KSL 5 News Team. Weekdays.</desc>
+  </programme>
+  <programme start="20251206090000 +0000" stop="20251206100000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Cool Stuff in Utah - Entertainment</title>
+  </programme>
+  <programme start="20251206100000 +0000" stop="20251206130000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">GNL - High School Football Replay</title>
+  </programme>
+  <programme start="20251206130000 +0000" stop="20251206133000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Your Life Your Health</title>
+  </programme>
+  <programme start="20251206133000 +0000" stop="20251206140000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Your Life Your Health</title>
+  </programme>
+  <programme start="20251206140000 +0000" stop="20251206143000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Get Gephardt</title>
+  </programme>
+  <programme start="20251206143000 +0000" stop="20251206150000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Get Gephardt</title>
+  </programme>
+  <programme start="20251206150000 +0000" stop="20251206153000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Get Gephardt</title>
+  </programme>
+  <programme start="20251206153000 +0000" stop="20251206160000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Get Gephardt</title>
+  </programme>
+  <programme start="20251206160000 +0000" stop="20251206163000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Sound Advice 1</title>
+  </programme>
+  <programme start="20251206163000 +0000" stop="20251206170000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Sound Advice 2</title>
+    <desc lang="en">Episode 2</desc>
+  </programme>
+  <programme start="20251206170000 +0000" stop="20251206173000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Sound Advice 3</title>
+  </programme>
+  <programme start="20251206173000 +0000" stop="20251206180000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Sound Advice 4</title>
+  </programme>
+  <programme start="20251206180000 +0000" stop="20251206210000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">GNL - High School Football Replay</title>
+  </programme>
+  <programme start="20251206210000 +0000" stop="20251206213000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Chopper 5 (Fall 1)</title>
+  </programme>
+  <programme start="20251206213000 +0000" stop="20251206220000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Chopper 5 (Fall 2)</title>
+  </programme>
+  <programme start="20251206220000 +0000" stop="20251206223000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Your Life Your Health</title>
+  </programme>
+  <programme start="20251206223000 +0000" stop="20251206233000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Cool Stuff in Utah - Halloween</title>
+  </programme>
+  <programme start="20251206233000 +0000" stop="20251207003000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL 5 News at 4:30 PM</title>
+    <desc lang="en">Mike Headrick and Debbie Worthen bring you up to the minute on breaking local news as well as national and international headlines, along with updates on the topics dominating dinner table conversations everywhere from family finances to health and entertainment reports.</desc>
+  </programme>
+  <programme start="20251207003000 +0000" stop="20251207010000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Rosenesque - Rosenesque Art</title>
+  </programme>
+  <programme start="20251207010000 +0000" stop="20251207040000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">GNL - High School Football Replay</title>
+  </programme>
+  <programme start="20251207040000 +0000" stop="20251207043000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL 5 News at 9</title>
+    <desc lang="en">The day's major news events, business reports, local sports updates, weather information and tomorrow's forecast are presented by Deanie Wimmer, Mike Headrick, Debbie Worthen, Kevin Eubank and the KSL 5 News Team. Weekdays.</desc>
+  </programme>
+  <programme start="20251207043000 +0000" stop="20251207050000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News at 9 (Replay)</title>
+  </programme>
+  <programme start="20251207050000 +0000" stop="20251207053000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News at 9 (Replay)</title>
+  </programme>
+  <programme start="20251207053000 +0000" stop="20251207060000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News at 10PM (Repeat)</title>
+    <desc lang="en">The day's major news events, business reports, local sports updates, weather information and tomorrow's forecast are presented by Deanie Wimmer, Mike Headrick, Debbie Worthen, Kevin Eubank and the KSL 5 News Team. Weekdays.</desc>
+  </programme>
+  <programme start="20251207060000 +0000" stop="20251207063000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News at 10PM (Replay)</title>
+    <desc lang="en">The day's major news events, business reports, local sports updates, weather information and tomorrow's forecast are presented by Deanie Wimmer, Mike Headrick, Debbie Worthen, Kevin Eubank and the KSL 5 News Team. Weekdays.</desc>
+  </programme>
+  <programme start="20251207063000 +0000" stop="20251207070000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News at 10PM (Replay)</title>
+    <desc lang="en">The day's major news events, business reports, local sports updates, weather information and tomorrow's forecast are presented by Deanie Wimmer, Mike Headrick, Debbie Worthen, Kevin Eubank and the KSL 5 News Team. Weekdays.</desc>
+  </programme>
+  <programme start="20251207070000 +0000" stop="20251207073000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News at 10PM (Replay)</title>
+    <desc lang="en">The day's major news events, business reports, local sports updates, weather information and tomorrow's forecast are presented by Deanie Wimmer, Mike Headrick, Debbie Worthen, Kevin Eubank and the KSL 5 News Team. Weekdays.</desc>
+  </programme>
+  <programme start="20251207073000 +0000" stop="20251207080000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News at 10PM (Replay)</title>
+    <desc lang="en">The day's major news events, business reports, local sports updates, weather information and tomorrow's forecast are presented by Deanie Wimmer, Mike Headrick, Debbie Worthen, Kevin Eubank and the KSL 5 News Team. Weekdays.</desc>
+  </programme>
+  <programme start="20251207080000 +0000" stop="20251207083000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News at 10PM (Nested)</title>
+    <desc lang="en">The day's major news events, business reports, local sports updates, weather information and tomorrow's forecast are presented by Deanie Wimmer, Mike Headrick, Debbie Worthen, Kevin Eubank and the KSL 5 News Team. Weekdays.</desc>
+  </programme>
+  <programme start="20251207083000 +0000" stop="20251207090000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News at 10PM (Replay)</title>
+    <desc lang="en">The day's major news events, business reports, local sports updates, weather information and tomorrow's forecast are presented by Deanie Wimmer, Mike Headrick, Debbie Worthen, Kevin Eubank and the KSL 5 News Team. Weekdays.</desc>
+  </programme>
+  <programme start="20251207090000 +0000" stop="20251207120000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">GNL - High School Football Replay</title>
+  </programme>
+  <programme start="20251207123000 +0000" stop="20251207130000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News at 10PM (Replay)</title>
+  </programme>
+  <programme start="20251207130000 +0000" stop="20251207140000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Wonderama</title>
+    <desc lang="en">Wonderama is a fun and interactive kids TV show. With exciting talent, music, messy games, and more!</desc>
+  </programme>
+  <programme start="20251207140000 +0000" stop="20251207143000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Get Gephardt</title>
+  </programme>
+  <programme start="20251207143000 +0000" stop="20251207150000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Get Gephardt</title>
+  </programme>
+  <programme start="20251207150000 +0000" stop="20251207153000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Get Gephardt</title>
+  </programme>
+  <programme start="20251207153000 +0000" stop="20251207160000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Get Gephardt</title>
+  </programme>
+  <programme start="20251207160000 +0000" stop="20251207163000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Sunday Edition</title>
+    <desc lang="en">Deanie Wimmer hosts this weekly discussion on the topics that will build up, inform, and celebrate Utah families and communities.</desc>
+  </programme>
+  <programme start="20251207163000 +0000" stop="20251207170000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Music &amp; The Spoken Word</title>
+    <desc lang="en">Broadcast weekly from the Salt Lake Tabernacle in Salt Lake City, Utah, the program primarily features performances of music by Tabernacle Choir —often accompanied by the Salt Lake Tabernacle organ and the Orchestra at Temple Square.</desc>
+  </programme>
+  <programme start="20251207170000 +0000" stop="20251207180000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Replay: Sunday Edition</title>
+  </programme>
+  <programme start="20251207180000 +0000" stop="20251207210000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">GNL - High School Football Replay</title>
+  </programme>
+  <programme start="20251207210000 +0000" stop="20251207220000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Temples Dot The Land</title>
+  </programme>
+  <programme start="20251207220000 +0000" stop="20251207230000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Breaking Barriers</title>
+  </programme>
+  <programme start="20251207230000 +0000" stop="20251207233000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL 5 News at 4:30 PM</title>
+    <desc lang="en">The day's top news items presented by Garna Mejia, Ashley Moser and Dan Rascon, along with the sports scores and the latest weather report from Kristen Van Dyke. Saturdays/Sundays</desc>
+  </programme>
+  <programme start="20251207233000 +0000" stop="20251208003000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Replay: Sunday Edition</title>
+  </programme>
+  <programme start="20251208003000 +0000" stop="20251208010000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Chopper 5 (Fall 1)</title>
+  </programme>
+  <programme start="20251208010000 +0000" stop="20251208040000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">GNL - High School Football Replay</title>
+  </programme>
+  <programme start="20251208043000 +0000" stop="20251208050000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL NFL Edition</title>
+  </programme>
+  <programme start="20251208050000 +0000" stop="20251208060000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL 5 News Sunday at 10 PM</title>
+    <desc lang="en">The day's top news items presented by Garna Mejia, Ashley Moser and Dan Rascon, along with the sports scores and the latest weather report from Kristen Van Dyke. Saturdays/Sundays</desc>
+  </programme>
+  <programme start="20251208060000 +0000" stop="20251208070000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News Sunday at 10PM (Repeat)</title>
+    <desc lang="en">The day's major news events, business reports, local sports updates, weather information and tomorrow's forecast are presented by Deanie Wimmer, Mike Headrick, Debbie Worthen, Kevin Eubank and the KSL 5 News Team. Weekdays.</desc>
+  </programme>
+  <programme start="20251208070000 +0000" stop="20251208080000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News Sunday at 10PM (Repeat)</title>
+  </programme>
+  <programme start="20251208080000 +0000" stop="20251208090000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News Sunday at 10PM (Repeat)</title>
+  </programme>
+  <programme start="20251208090000 +0000" stop="20251208093000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Rosenesque - History</title>
+  </programme>
+  <programme start="20251208093000 +0000" stop="20251208100000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Rosenesque - Family Friends &amp; Loved Ones</title>
+  </programme>
+  <programme start="20251208100000 +0000" stop="20251208103000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Rosenesque - Everybody Dance</title>
+  </programme>
+  <programme start="20251208103000 +0000" stop="20251208110000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Rosenesque - Carnival Of The Animals</title>
+  </programme>
+  <programme start="20251208110000 +0000" stop="20251208113000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Rosenesque - Rosenesque Art</title>
+  </programme>
+  <programme start="20251208113000 +0000" stop="20251208120000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">LIVE: KSL 5 News at 4:30 AM</title>
+    <desc lang="en">KSL 5 News at LIVE at 4:30 AM</desc>
+  </programme>
+  <programme start="20251208120000 +0000" stop="20251208130000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">LIVE: KSL 5 News Today at 5 AM</title>
+    <desc lang="en">Start your week day with the KSL TODAY team. Lori and Tamara help you prepare for the day ahead, and Matt keeps you informed on the weather so you Know Before You Go!</desc>
+  </programme>
+  <programme start="20251208130000 +0000" stop="20251208140000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">LIVE: KSL 5 News Today at 6 AM</title>
+    <desc lang="en">KSL 5 News LIVE at 6AM</desc>
+  </programme>
+  <programme start="20251208140000 +0000" stop="20251208150000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News Today (Nested)</title>
+    <desc lang="en">Start your week day with the KSL TODAY team. Lori and Tamara help you prepare for the day ahead, and Matt keeps you informed on the weather so you Know Before You Go!</desc>
+  </programme>
+  <programme start="20251208150000 +0000" stop="20251208160000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News Today (Replay)</title>
+    <desc lang="en">Start your week day with the KSL TODAY team. Lori and Tamara help you prepare for the day ahead, and Matt keeps you informed on the weather so you Know Before You Go!</desc>
+  </programme>
+  <programme start="20251208160000 +0000" stop="20251208170000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Cool Stuff in Utah - Entertainment</title>
+  </programme>
+  <programme start="20251208170000 +0000" stop="20251208173000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Get Gephardt</title>
+  </programme>
+  <programme start="20251208173000 +0000" stop="20251208180000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Get Gephardt</title>
+  </programme>
+  <programme start="20251208180000 +0000" stop="20251208183000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Get Gephardt</title>
+  </programme>
+  <programme start="20251208183000 +0000" stop="20251208190000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Get Gephardt</title>
+  </programme>
+  <programme start="20251208190000 +0000" stop="20251208200000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">LIVE: The Noon Show</title>
+    <desc lang="en">A comprehensive look at local, statewide, and national news events with Brooke Walker, Tamara Vaifanua, and Matt Johnson, along with updates on sports and your weather forecast.</desc>
+  </programme>
+  <programme start="20251208200000 +0000" stop="20251208210000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Replay: The Noon Show</title>
+  </programme>
+  <programme start="20251208210000 +0000" stop="20251208220000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">The Drew Barrymore Show</title>
+    <desc lang="en">Drew Barrymore presents human-interest stories, celebrity guests, lifestyle segments and field pieces, all driven by her infectious brand of humor, optimism and love for life.</desc>
+  </programme>
+  <programme start="20251208220000 +0000" stop="20251208230000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">The Kelly Clarkson Show</title>
+  </programme>
+  <programme start="20251208230000 +0000" stop="20251209000000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">LIVE: KSL News at 4PM</title>
+    <desc lang="en">Mike Headrick and Debbie Worthen bring you up to the minute on breaking local news as well as national and international headlines, along with updates on the topics dominating dinner table conversations everywhere from family finances to health and entertainment reports.</desc>
+  </programme>
+  <programme start="20251209000000 +0000" stop="20251209003000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">LIVE: KSL 5 News at 5 PM</title>
+    <desc lang="en">The day's top news items are presented by Mike Headrick and Debbie Worthen including local, national and international headlines and their impact here at home. Kevin Eubank also tracks the forecast and the chance it could disrupt your plans. Weekdays.</desc>
+  </programme>
+  <programme start="20251209003000 +0000" stop="20251209010000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News This Evening</title>
+  </programme>
+  <programme start="20251209010000 +0000" stop="20251209020000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">LIVE: KSL 5 News at 6 PM</title>
+    <desc lang="en">The day's top news items are presented by Deanie Wimmer, Mike Headrick, along with the KSL Sports team celebrating the incredible achievements of Utah athletes locally and professionally. We also get the latest weather report from Kevin Eubank. Weekdays.</desc>
+  </programme>
+  <programme start="20251209020000 +0000" stop="20251209030000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News Tonight (Nested)</title>
+  </programme>
+  <programme start="20251209030000 +0000" stop="20251209033000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Sound Advice</title>
+  </programme>
+  <programme start="20251209033000 +0000" stop="20251209040000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Sound Advice</title>
+    <desc lang="en">Episode 2</desc>
+  </programme>
+  <programme start="20251209040000 +0000" stop="20251209043000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Sound Advice</title>
+  </programme>
+  <programme start="20251209043000 +0000" stop="20251209050000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Sound Advice</title>
+  </programme>
+  <programme start="20251209050000 +0000" stop="20251209053000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">LIVE: KSL 5 News at 10 PM</title>
+    <desc lang="en">The day's major news events, business reports, local sports updates, weather information and tomorrow's forecast are presented by Deanie Wimmer, Mike Headrick, Debbie Worthen, Kevin Eubank and the KSL 5 News Team. Weekdays.</desc>
+  </programme>
+  <programme start="20251209053000 +0000" stop="20251209060000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News at 10PM (Repeat)</title>
+    <desc lang="en">The day's major news events, business reports, local sports updates, weather information and tomorrow's forecast are presented by Deanie Wimmer, Mike Headrick, Debbie Worthen, Kevin Eubank and the KSL 5 News Team. Weekdays.</desc>
+  </programme>
+  <programme start="20251209060000 +0000" stop="20251209063000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News at 10PM (Replay)</title>
+    <desc lang="en">The day's major news events, business reports, local sports updates, weather information and tomorrow's forecast are presented by Deanie Wimmer, Mike Headrick, Debbie Worthen, Kevin Eubank and the KSL 5 News Team. Weekdays.</desc>
+  </programme>
+  <programme start="20251209063000 +0000" stop="20251209070000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News at 10PM (Replay)</title>
+    <desc lang="en">The day's major news events, business reports, local sports updates, weather information and tomorrow's forecast are presented by Deanie Wimmer, Mike Headrick, Debbie Worthen, Kevin Eubank and the KSL 5 News Team. Weekdays.</desc>
+  </programme>
+  <programme start="20251209070000 +0000" stop="20251209073000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News at 10PM (Replay)</title>
+    <desc lang="en">The day's major news events, business reports, local sports updates, weather information and tomorrow's forecast are presented by Deanie Wimmer, Mike Headrick, Debbie Worthen, Kevin Eubank and the KSL 5 News Team. Weekdays.</desc>
+  </programme>
+  <programme start="20251209073000 +0000" stop="20251209080000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News at 10PM (Replay)</title>
+    <desc lang="en">The day's major news events, business reports, local sports updates, weather information and tomorrow's forecast are presented by Deanie Wimmer, Mike Headrick, Debbie Worthen, Kevin Eubank and the KSL 5 News Team. Weekdays.</desc>
+  </programme>
+  <programme start="20251209080000 +0000" stop="20251209083000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News at 10PM (Nested)</title>
+    <desc lang="en">The day's major news events, business reports, local sports updates, weather information and tomorrow's forecast are presented by Deanie Wimmer, Mike Headrick, Debbie Worthen, Kevin Eubank and the KSL 5 News Team. Weekdays.</desc>
+  </programme>
+  <programme start="20251209083000 +0000" stop="20251209090000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News at 10PM (Replay)</title>
+    <desc lang="en">The day's major news events, business reports, local sports updates, weather information and tomorrow's forecast are presented by Deanie Wimmer, Mike Headrick, Debbie Worthen, Kevin Eubank and the KSL 5 News Team. Weekdays.</desc>
+  </programme>
+  <programme start="20251209090000 +0000" stop="20251209100000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Cool Stuff in Utah - Entertainment</title>
+  </programme>
+  <programme start="20251209100000 +0000" stop="20251209103000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Your Life Your Health 1</title>
+  </programme>
+  <programme start="20251209103000 +0000" stop="20251209113000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Cool Stuff in Utah - Halloween</title>
+  </programme>
+  <programme start="20251209113000 +0000" stop="20251209120000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">LIVE: KSL 5 News at 4:30 AM</title>
+    <desc lang="en">KSL 5 News at LIVE at 4:30 AM</desc>
+  </programme>
+  <programme start="20251209120000 +0000" stop="20251209130000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">LIVE: KSL 5 News Today at 5 AM</title>
+    <desc lang="en">Start your week day with the KSL TODAY team. Lori and Tamara help you prepare for the day ahead, and Matt keeps you informed on the weather so you Know Before You Go!</desc>
+  </programme>
+  <programme start="20251209130000 +0000" stop="20251209140000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">LIVE: KSL 5 News Today at 6 AM</title>
+    <desc lang="en">KSL 5 News LIVE at 6AM</desc>
+  </programme>
+  <programme start="20251209140000 +0000" stop="20251209150000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News Today (Nested)</title>
+    <desc lang="en">Start your week day with the KSL TODAY team. Lori and Tamara help you prepare for the day ahead, and Matt keeps you informed on the weather so you Know Before You Go!</desc>
+  </programme>
+  <programme start="20251209150000 +0000" stop="20251209160000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News Today (Replay)</title>
+    <desc lang="en">Start your week day with the KSL TODAY team. Lori and Tamara help you prepare for the day ahead, and Matt keeps you informed on the weather so you Know Before You Go!</desc>
+  </programme>
+  <programme start="20251209160000 +0000" stop="20251209170000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Cool Stuff in Utah - Churches</title>
+  </programme>
+  <programme start="20251209170000 +0000" stop="20251209173000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Your Life Your Health 1</title>
+  </programme>
+  <programme start="20251209173000 +0000" stop="20251209180000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Your Life Your Health 2</title>
+  </programme>
+  <programme start="20251209180000 +0000" stop="20251209190000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Cool Stuff in Utah - Halloween</title>
+  </programme>
+  <programme start="20251209190000 +0000" stop="20251209200000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">LIVE: The Noon Show</title>
+    <desc lang="en">A comprehensive look at local, statewide, and national news events with Brooke Walker, Tamara Vaifanua, and Matt Johnson, along with updates on sports and your weather forecast.</desc>
+  </programme>
+  <programme start="20251209200000 +0000" stop="20251209210000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Replay: The Noon Show</title>
+  </programme>
+  <programme start="20251209210000 +0000" stop="20251209220000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">The Drew Barrymore Show</title>
+    <desc lang="en">Drew Barrymore presents human-interest stories, celebrity guests, lifestyle segments and field pieces, all driven by her infectious brand of humor, optimism and love for life.</desc>
+  </programme>
+  <programme start="20251209220000 +0000" stop="20251209230000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">The Kelly Clarkson Show</title>
+  </programme>
+  <programme start="20251209230000 +0000" stop="20251210000000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">LIVE: KSL News at 4PM</title>
+    <desc lang="en">Mike Headrick and Debbie Worthen bring you up to the minute on breaking local news as well as national and international headlines, along with updates on the topics dominating dinner table conversations everywhere from family finances to health and entertainment reports.</desc>
+  </programme>
+  <programme start="20251210000000 +0000" stop="20251210003000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">LIVE: KSL 5 News at 5 PM</title>
+    <desc lang="en">The day's top news items are presented by Mike Headrick and Debbie Worthen including local, national and international headlines and their impact here at home. Kevin Eubank also tracks the forecast and the chance it could disrupt your plans. Weekdays.</desc>
+  </programme>
+  <programme start="20251210003000 +0000" stop="20251210010000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News This Evening</title>
+  </programme>
+  <programme start="20251210010000 +0000" stop="20251210020000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">LIVE: KSL 5 News at 6 PM</title>
+    <desc lang="en">The day's top news items are presented by Deanie Wimmer, Mike Headrick, along with the KSL Sports team celebrating the incredible achievements of Utah athletes locally and professionally. We also get the latest weather report from Kevin Eubank. Weekdays.</desc>
+  </programme>
+  <programme start="20251210020000 +0000" stop="20251210030000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News Tonight (Nested)</title>
+  </programme>
+  <programme start="20251210030000 +0000" stop="20251210033000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Get Gephardt 1</title>
+  </programme>
+  <programme start="20251210033000 +0000" stop="20251210040000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Get Gephardt 2</title>
+  </programme>
+  <programme start="20251210040000 +0000" stop="20251210043000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Get Gephardt 3</title>
+  </programme>
+  <programme start="20251210043000 +0000" stop="20251210050000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Get Gephardt 4</title>
+  </programme>
+  <programme start="20251210050000 +0000" stop="20251210053000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">LIVE: KSL 5 News at 10 PM</title>
+    <desc lang="en">The day's major news events, business reports, local sports updates, weather information and tomorrow's forecast are presented by Deanie Wimmer, Mike Headrick, Debbie Worthen, Kevin Eubank and the KSL 5 News Team. Weekdays.</desc>
+  </programme>
+  <programme start="20251210053000 +0000" stop="20251210060000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News at 10PM (Repeat)</title>
+    <desc lang="en">The day's major news events, business reports, local sports updates, weather information and tomorrow's forecast are presented by Deanie Wimmer, Mike Headrick, Debbie Worthen, Kevin Eubank and the KSL 5 News Team. Weekdays.</desc>
+  </programme>
+  <programme start="20251210060000 +0000" stop="20251210063000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News at 10PM (Replay)</title>
+    <desc lang="en">The day's major news events, business reports, local sports updates, weather information and tomorrow's forecast are presented by Deanie Wimmer, Mike Headrick, Debbie Worthen, Kevin Eubank and the KSL 5 News Team. Weekdays.</desc>
+  </programme>
+  <programme start="20251210063000 +0000" stop="20251210070000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News at 10PM (Replay)</title>
+    <desc lang="en">The day's major news events, business reports, local sports updates, weather information and tomorrow's forecast are presented by Deanie Wimmer, Mike Headrick, Debbie Worthen, Kevin Eubank and the KSL 5 News Team. Weekdays.</desc>
+  </programme>
+  <programme start="20251210070000 +0000" stop="20251210073000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News at 10PM (Replay)</title>
+    <desc lang="en">The day's major news events, business reports, local sports updates, weather information and tomorrow's forecast are presented by Deanie Wimmer, Mike Headrick, Debbie Worthen, Kevin Eubank and the KSL 5 News Team. Weekdays.</desc>
+  </programme>
+  <programme start="20251210073000 +0000" stop="20251210080000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News at 10PM (Replay)</title>
+    <desc lang="en">The day's major news events, business reports, local sports updates, weather information and tomorrow's forecast are presented by Deanie Wimmer, Mike Headrick, Debbie Worthen, Kevin Eubank and the KSL 5 News Team. Weekdays.</desc>
+  </programme>
+  <programme start="20251210080000 +0000" stop="20251210083000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News at 10PM (Nested)</title>
+    <desc lang="en">The day's major news events, business reports, local sports updates, weather information and tomorrow's forecast are presented by Deanie Wimmer, Mike Headrick, Debbie Worthen, Kevin Eubank and the KSL 5 News Team. Weekdays.</desc>
+  </programme>
+  <programme start="20251210083000 +0000" stop="20251210090000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News at 10PM (Replay)</title>
+    <desc lang="en">The day's major news events, business reports, local sports updates, weather information and tomorrow's forecast are presented by Deanie Wimmer, Mike Headrick, Debbie Worthen, Kevin Eubank and the KSL 5 News Team. Weekdays.</desc>
+  </programme>
+  <programme start="20251210090000 +0000" stop="20251210093000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Rosenesque - History</title>
+  </programme>
+  <programme start="20251210093000 +0000" stop="20251210100000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Rosenesque - Family Friends &amp; Loved Ones</title>
+  </programme>
+  <programme start="20251210100000 +0000" stop="20251210103000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Rosenesque - Everybody Dance</title>
+  </programme>
+  <programme start="20251210103000 +0000" stop="20251210110000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Rosenesque - Carnival Of The Animals</title>
+  </programme>
+  <programme start="20251210110000 +0000" stop="20251210113000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Rosenesque - Rosenesque Art</title>
+  </programme>
+  <programme start="20251210113000 +0000" stop="20251210120000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">LIVE: KSL 5 News at 4:30 AM</title>
+    <desc lang="en">KSL 5 News at LIVE at 4:30 AM</desc>
+  </programme>
+  <programme start="20251210120000 +0000" stop="20251210130000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">LIVE: KSL 5 News Today at 5 AM</title>
+    <desc lang="en">Start your week day with the KSL TODAY team. Lori and Tamara help you prepare for the day ahead, and Matt keeps you informed on the weather so you Know Before You Go!</desc>
+  </programme>
+  <programme start="20251210130000 +0000" stop="20251210140000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">LIVE: KSL 5 News Today at 6 AM</title>
+    <desc lang="en">KSL 5 News LIVE at 6AM</desc>
+  </programme>
+  <programme start="20251210140000 +0000" stop="20251210150000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News Today (Nested)</title>
+    <desc lang="en">Start your week day with the KSL TODAY team. Lori and Tamara help you prepare for the day ahead, and Matt keeps you informed on the weather so you Know Before You Go!</desc>
+  </programme>
+  <programme start="20251210150000 +0000" stop="20251210160000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News Today (Replay)</title>
+    <desc lang="en">Start your week day with the KSL TODAY team. Lori and Tamara help you prepare for the day ahead, and Matt keeps you informed on the weather so you Know Before You Go!</desc>
+  </programme>
+  <programme start="20251210160000 +0000" stop="20251210170000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Cool Stuff in Utah - Arenas</title>
+  </programme>
+  <programme start="20251210170000 +0000" stop="20251210173000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Get Gephardt</title>
+  </programme>
+  <programme start="20251210173000 +0000" stop="20251210180000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Get Gephardt</title>
+  </programme>
+  <programme start="20251210180000 +0000" stop="20251210183000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Get Gephardt</title>
+  </programme>
+  <programme start="20251210183000 +0000" stop="20251210190000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Get Gephardt</title>
+  </programme>
+  <programme start="20251210190000 +0000" stop="20251210200000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">LIVE: The Noon Show</title>
+    <desc lang="en">A comprehensive look at local, statewide, and national news events with Brooke Walker, Tamara Vaifanua, and Matt Johnson, along with updates on sports and your weather forecast.</desc>
+  </programme>
+  <programme start="20251210200000 +0000" stop="20251210210000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Replay: The Noon Show</title>
+  </programme>
+  <programme start="20251210210000 +0000" stop="20251210220000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">The Drew Barrymore Show</title>
+    <desc lang="en">Drew Barrymore presents human-interest stories, celebrity guests, lifestyle segments and field pieces, all driven by her infectious brand of humor, optimism and love for life.</desc>
+  </programme>
+  <programme start="20251210220000 +0000" stop="20251210230000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">The Kelly Clarkson Show</title>
+  </programme>
+  <programme start="20251210230000 +0000" stop="20251211000000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">LIVE: KSL News at 4PM</title>
+    <desc lang="en">Mike Headrick and Debbie Worthen bring you up to the minute on breaking local news as well as national and international headlines, along with updates on the topics dominating dinner table conversations everywhere from family finances to health and entertainment reports.</desc>
+  </programme>
+  <programme start="20251211000000 +0000" stop="20251211003000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">LIVE: KSL 5 News at 5 PM</title>
+    <desc lang="en">The day's top news items are presented by Mike Headrick and Debbie Worthen including local, national and international headlines and their impact here at home. Kevin Eubank also tracks the forecast and the chance it could disrupt your plans. Weekdays.</desc>
+  </programme>
+  <programme start="20251211003000 +0000" stop="20251211010000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News This Evening</title>
+  </programme>
+  <programme start="20251211010000 +0000" stop="20251211020000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">LIVE: KSL 5 News at 6 PM</title>
+    <desc lang="en">The day's top news items are presented by Deanie Wimmer, Mike Headrick, along with the KSL Sports team celebrating the incredible achievements of Utah athletes locally and professionally. We also get the latest weather report from Kevin Eubank. Weekdays.</desc>
+  </programme>
+  <programme start="20251211020000 +0000" stop="20251211030000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News Tonight (Nested)</title>
+  </programme>
+  <programme start="20251211030000 +0000" stop="20251211040000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Cool Stuff in Utah - Entertainment</title>
+  </programme>
+  <programme start="20251211040000 +0000" stop="20251211043000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Rosenesque - History</title>
+  </programme>
+  <programme start="20251211043000 +0000" stop="20251211050000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Rosenesque - Family Friends &amp; Loved Ones</title>
+  </programme>
+  <programme start="20251211050000 +0000" stop="20251211053000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">LIVE: KSL 5 News at 10 PM</title>
+    <desc lang="en">The day's major news events, business reports, local sports updates, weather information and tomorrow's forecast are presented by Deanie Wimmer, Mike Headrick, Debbie Worthen, Kevin Eubank and the KSL 5 News Team. Weekdays.</desc>
+  </programme>
+  <programme start="20251211053000 +0000" stop="20251211060000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News at 10PM (Repeat)</title>
+    <desc lang="en">The day's major news events, business reports, local sports updates, weather information and tomorrow's forecast are presented by Deanie Wimmer, Mike Headrick, Debbie Worthen, Kevin Eubank and the KSL 5 News Team. Weekdays.</desc>
+  </programme>
+  <programme start="20251211060000 +0000" stop="20251211063000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News at 10PM (Replay)</title>
+    <desc lang="en">The day's major news events, business reports, local sports updates, weather information and tomorrow's forecast are presented by Deanie Wimmer, Mike Headrick, Debbie Worthen, Kevin Eubank and the KSL 5 News Team. Weekdays.</desc>
+  </programme>
+  <programme start="20251211063000 +0000" stop="20251211070000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News at 10PM (Replay)</title>
+    <desc lang="en">The day's major news events, business reports, local sports updates, weather information and tomorrow's forecast are presented by Deanie Wimmer, Mike Headrick, Debbie Worthen, Kevin Eubank and the KSL 5 News Team. Weekdays.</desc>
+  </programme>
+  <programme start="20251211070000 +0000" stop="20251211073000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News at 10PM (Replay)</title>
+    <desc lang="en">The day's major news events, business reports, local sports updates, weather information and tomorrow's forecast are presented by Deanie Wimmer, Mike Headrick, Debbie Worthen, Kevin Eubank and the KSL 5 News Team. Weekdays.</desc>
+  </programme>
+  <programme start="20251211073000 +0000" stop="20251211080000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News at 10PM (Replay)</title>
+    <desc lang="en">The day's major news events, business reports, local sports updates, weather information and tomorrow's forecast are presented by Deanie Wimmer, Mike Headrick, Debbie Worthen, Kevin Eubank and the KSL 5 News Team. Weekdays.</desc>
+  </programme>
+  <programme start="20251211080000 +0000" stop="20251211083000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News at 10PM (Nested)</title>
+    <desc lang="en">The day's major news events, business reports, local sports updates, weather information and tomorrow's forecast are presented by Deanie Wimmer, Mike Headrick, Debbie Worthen, Kevin Eubank and the KSL 5 News Team. Weekdays.</desc>
+  </programme>
+  <programme start="20251211083000 +0000" stop="20251211090000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News at 10PM (Replay)</title>
+    <desc lang="en">The day's major news events, business reports, local sports updates, weather information and tomorrow's forecast are presented by Deanie Wimmer, Mike Headrick, Debbie Worthen, Kevin Eubank and the KSL 5 News Team. Weekdays.</desc>
+  </programme>
+  <programme start="20251211090000 +0000" stop="20251211100000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Cool Stuff in Utah - Entertainment</title>
+  </programme>
+  <programme start="20251211100000 +0000" stop="20251211103000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Your Life Your Health 1</title>
+  </programme>
+  <programme start="20251211103000 +0000" stop="20251211113000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Cool Stuff in Utah - Halloween</title>
+  </programme>
+  <programme start="20251211113000 +0000" stop="20251211120000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">LIVE: KSL 5 News at 4:30 AM</title>
+    <desc lang="en">KSL 5 News at LIVE at 4:30 AM</desc>
+  </programme>
+  <programme start="20251211120000 +0000" stop="20251211130000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">LIVE: KSL 5 News Today at 5 AM</title>
+    <desc lang="en">Start your week day with the KSL TODAY team. Lori and Tamara help you prepare for the day ahead, and Matt keeps you informed on the weather so you Know Before You Go!</desc>
+  </programme>
+  <programme start="20251211130000 +0000" stop="20251211140000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">LIVE: KSL 5 News Today at 6 AM</title>
+    <desc lang="en">KSL 5 News LIVE at 6AM</desc>
+  </programme>
+  <programme start="20251211140000 +0000" stop="20251211150000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News Today (Nested)</title>
+    <desc lang="en">Start your week day with the KSL TODAY team. Lori and Tamara help you prepare for the day ahead, and Matt keeps you informed on the weather so you Know Before You Go!</desc>
+  </programme>
+  <programme start="20251211150000 +0000" stop="20251211160000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News Today (Replay)</title>
+    <desc lang="en">Start your week day with the KSL TODAY team. Lori and Tamara help you prepare for the day ahead, and Matt keeps you informed on the weather so you Know Before You Go!</desc>
+  </programme>
+  <programme start="20251211160000 +0000" stop="20251211170000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Cool Stuff in Utah - Halloween</title>
+  </programme>
+  <programme start="20251211170000 +0000" stop="20251211173000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Your Life Your Health 1</title>
+  </programme>
+  <programme start="20251211173000 +0000" stop="20251211180000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Your Life Your Health 2</title>
+  </programme>
+  <programme start="20251211180000 +0000" stop="20251211190000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Cool Stuff in Utah - Halloween</title>
+  </programme>
+  <programme start="20251211190000 +0000" stop="20251211200000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">LIVE: The Noon Show</title>
+    <desc lang="en">A comprehensive look at local, statewide, and national news events with Brooke Walker, Tamara Vaifanua, and Matt Johnson, along with updates on sports and your weather forecast.</desc>
+  </programme>
+  <programme start="20251211200000 +0000" stop="20251211210000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Replay: The Noon Show</title>
+  </programme>
+  <programme start="20251211210000 +0000" stop="20251211220000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">The Drew Barrymore Show</title>
+    <desc lang="en">Drew Barrymore presents human-interest stories, celebrity guests, lifestyle segments and field pieces, all driven by her infectious brand of humor, optimism and love for life.</desc>
+  </programme>
+  <programme start="20251211220000 +0000" stop="20251211230000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">The Kelly Clarkson Show</title>
+  </programme>
+  <programme start="20251211230000 +0000" stop="20251212000000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">LIVE: KSL News at 4PM</title>
+    <desc lang="en">Mike Headrick and Debbie Worthen bring you up to the minute on breaking local news as well as national and international headlines, along with updates on the topics dominating dinner table conversations everywhere from family finances to health and entertainment reports.</desc>
+  </programme>
+  <programme start="20251212000000 +0000" stop="20251212003000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">LIVE: KSL 5 News at 5 PM</title>
+    <desc lang="en">The day's top news items are presented by Mike Headrick and Debbie Worthen including local, national and international headlines and their impact here at home. Kevin Eubank also tracks the forecast and the chance it could disrupt your plans. Weekdays.</desc>
+  </programme>
+  <programme start="20251212003000 +0000" stop="20251212010000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News This Evening</title>
+  </programme>
+  <programme start="20251212010000 +0000" stop="20251212020000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">LIVE: KSL 5 News at 6 PM</title>
+    <desc lang="en">The day's top news items are presented by Deanie Wimmer, Mike Headrick, along with the KSL Sports team celebrating the incredible achievements of Utah athletes locally and professionally. We also get the latest weather report from Kevin Eubank. Weekdays.</desc>
+  </programme>
+  <programme start="20251212020000 +0000" stop="20251212030000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News Tonight (Nested)</title>
+  </programme>
+  <programme start="20251212030000 +0000" stop="20251212040000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Cool Stuff in Utah - Churches</title>
+  </programme>
+  <programme start="20251212040000 +0000" stop="20251212043000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Rosenesque - Carnival Of The Animals</title>
+  </programme>
+  <programme start="20251212043000 +0000" stop="20251212045753 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Rosenesque - Everybody Dance</title>
+  </programme>
+  <programme start="20251212050000 +0000" stop="20251212053000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">LIVE: KSL 5 News at 10 PM</title>
+    <desc lang="en">The day's major news events, business reports, local sports updates, weather information and tomorrow's forecast are presented by Deanie Wimmer, Mike Headrick, Debbie Worthen, Kevin Eubank and the KSL 5 News Team. Weekdays.</desc>
+  </programme>
+  <programme start="20251212053000 +0000" stop="20251212060000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News at 10PM (Repeat)</title>
+    <desc lang="en">The day's major news events, business reports, local sports updates, weather information and tomorrow's forecast are presented by Deanie Wimmer, Mike Headrick, Debbie Worthen, Kevin Eubank and the KSL 5 News Team. Weekdays.</desc>
+  </programme>
+  <programme start="20251212060000 +0000" stop="20251212063000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News at 10PM (Replay)</title>
+    <desc lang="en">The day's major news events, business reports, local sports updates, weather information and tomorrow's forecast are presented by Deanie Wimmer, Mike Headrick, Debbie Worthen, Kevin Eubank and the KSL 5 News Team. Weekdays.</desc>
+  </programme>
+  <programme start="20251212063000 +0000" stop="20251212070000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News at 10PM (Replay)</title>
+    <desc lang="en">The day's major news events, business reports, local sports updates, weather information and tomorrow's forecast are presented by Deanie Wimmer, Mike Headrick, Debbie Worthen, Kevin Eubank and the KSL 5 News Team. Weekdays.</desc>
+  </programme>
+  <programme start="20251212070000 +0000" stop="20251212073000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News at 10PM (Replay)</title>
+    <desc lang="en">The day's major news events, business reports, local sports updates, weather information and tomorrow's forecast are presented by Deanie Wimmer, Mike Headrick, Debbie Worthen, Kevin Eubank and the KSL 5 News Team. Weekdays.</desc>
+  </programme>
+  <programme start="20251212073000 +0000" stop="20251212080000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News at 10PM (Replay)</title>
+    <desc lang="en">The day's major news events, business reports, local sports updates, weather information and tomorrow's forecast are presented by Deanie Wimmer, Mike Headrick, Debbie Worthen, Kevin Eubank and the KSL 5 News Team. Weekdays.</desc>
+  </programme>
+  <programme start="20251212080000 +0000" stop="20251212083000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News at 10PM (Nested)</title>
+    <desc lang="en">The day's major news events, business reports, local sports updates, weather information and tomorrow's forecast are presented by Deanie Wimmer, Mike Headrick, Debbie Worthen, Kevin Eubank and the KSL 5 News Team. Weekdays.</desc>
+  </programme>
+  <programme start="20251212083000 +0000" stop="20251212090000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News at 10PM (Replay)</title>
+    <desc lang="en">The day's major news events, business reports, local sports updates, weather information and tomorrow's forecast are presented by Deanie Wimmer, Mike Headrick, Debbie Worthen, Kevin Eubank and the KSL 5 News Team. Weekdays.</desc>
+  </programme>
+  <programme start="20251212090000 +0000" stop="20251212093000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Rosenesque - History</title>
+  </programme>
+  <programme start="20251212093000 +0000" stop="20251212100000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Rosenesque - Family Friends &amp; Loved Ones</title>
+  </programme>
+  <programme start="20251212100000 +0000" stop="20251212103000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Rosenesque - Everybody Dance</title>
+  </programme>
+  <programme start="20251212103000 +0000" stop="20251212110000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Rosenesque - Carnival Of The Animals</title>
+  </programme>
+  <programme start="20251212110000 +0000" stop="20251212113000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Rosenesque - Rosenesque Art</title>
+  </programme>
+  <programme start="20251212113000 +0000" stop="20251212120000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">LIVE: KSL 5 News at 4:30 AM</title>
+    <desc lang="en">KSL 5 News at LIVE at 4:30 AM</desc>
+  </programme>
+  <programme start="20251212120000 +0000" stop="20251212130000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">LIVE: KSL 5 News Today at 5 AM</title>
+    <desc lang="en">Start your week day with the KSL TODAY team. Lori and Tamara help you prepare for the day ahead, and Matt keeps you informed on the weather so you Know Before You Go!</desc>
+  </programme>
+  <programme start="20251212130000 +0000" stop="20251212140000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">LIVE: KSL 5 News Today at 6 AM</title>
+    <desc lang="en">KSL 5 News LIVE at 6AM</desc>
+  </programme>
+  <programme start="20251212140000 +0000" stop="20251212150000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News Today (Nested)</title>
+    <desc lang="en">Start your week day with the KSL TODAY team. Lori and Tamara help you prepare for the day ahead, and Matt keeps you informed on the weather so you Know Before You Go!</desc>
+  </programme>
+  <programme start="20251212150000 +0000" stop="20251212160000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News Today (Replay)</title>
+    <desc lang="en">Start your week day with the KSL TODAY team. Lori and Tamara help you prepare for the day ahead, and Matt keeps you informed on the weather so you Know Before You Go!</desc>
+  </programme>
+  <programme start="20251212160000 +0000" stop="20251212170000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Cool Stuff in Utah - Airports</title>
+  </programme>
+  <programme start="20251212170000 +0000" stop="20251212173000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Get Gephardt</title>
+  </programme>
+  <programme start="20251212173000 +0000" stop="20251212180000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Get Gephardt</title>
+  </programme>
+  <programme start="20251212180000 +0000" stop="20251212183000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Get Gephardt</title>
+  </programme>
+  <programme start="20251212183000 +0000" stop="20251212190000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Get Gephardt</title>
+  </programme>
+  <programme start="20251212190000 +0000" stop="20251212200000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">LIVE: The Noon Show</title>
+    <desc lang="en">A comprehensive look at local, statewide, and national news events with Brooke Walker, Tamara Vaifanua, and Matt Johnson, along with updates on sports and your weather forecast.</desc>
+  </programme>
+  <programme start="20251212200000 +0000" stop="20251212210000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Replay: The Noon Show</title>
+  </programme>
+  <programme start="20251212210000 +0000" stop="20251212220000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">The Drew Barrymore Show</title>
+    <desc lang="en">Drew Barrymore presents human-interest stories, celebrity guests, lifestyle segments and field pieces, all driven by her infectious brand of humor, optimism and love for life.</desc>
+  </programme>
+  <programme start="20251212220000 +0000" stop="20251212230000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">The Kelly Clarkson Show</title>
+  </programme>
+  <programme start="20251212230000 +0000" stop="20251213000000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">LIVE: KSL News at 4PM</title>
+    <desc lang="en">Mike Headrick and Debbie Worthen bring you up to the minute on breaking local news as well as national and international headlines, along with updates on the topics dominating dinner table conversations everywhere from family finances to health and entertainment reports.</desc>
+  </programme>
+  <programme start="20251213000000 +0000" stop="20251213003000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">LIVE: KSL 5 News at 5 PM</title>
+    <desc lang="en">The day's top news items are presented by Mike Headrick and Debbie Worthen including local, national and international headlines and their impact here at home. Kevin Eubank also tracks the forecast and the chance it could disrupt your plans. Weekdays.</desc>
+  </programme>
+  <programme start="20251213003000 +0000" stop="20251213010000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News This Evening</title>
+  </programme>
+  <programme start="20251213010000 +0000" stop="20251213020000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">LIVE: KSL 5 News at 6 PM</title>
+    <desc lang="en">The day's top news items are presented by Deanie Wimmer, Mike Headrick, along with the KSL Sports team celebrating the incredible achievements of Utah athletes locally and professionally. We also get the latest weather report from Kevin Eubank. Weekdays.</desc>
+  </programme>
+  <programme start="20251213020000 +0000" stop="20251213050000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">LIVE: High School Sports</title>
+  </programme>
+  <programme start="20251213050000 +0000" stop="20251213053000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">LIVE: KSL 5 News at 10 PM</title>
+    <desc lang="en">The day's major news events, business reports, local sports updates, weather information and tomorrow's forecast are presented by Deanie Wimmer, Mike Headrick, Debbie Worthen, Kevin Eubank and the KSL 5 News Team. Weekdays.</desc>
+  </programme>
+  <programme start="20251213053000 +0000" stop="20251213060000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News at 10PM (Repeat)</title>
+    <desc lang="en">The day's major news events, business reports, local sports updates, weather information and tomorrow's forecast are presented by Deanie Wimmer, Mike Headrick, Debbie Worthen, Kevin Eubank and the KSL 5 News Team. Weekdays.</desc>
+  </programme>
+  <programme start="20251213060000 +0000" stop="20251213063000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News at 10PM (Replay)</title>
+    <desc lang="en">The day's major news events, business reports, local sports updates, weather information and tomorrow's forecast are presented by Deanie Wimmer, Mike Headrick, Debbie Worthen, Kevin Eubank and the KSL 5 News Team. Weekdays.</desc>
+  </programme>
+  <programme start="20251213063000 +0000" stop="20251213070000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News at 10PM (Replay)</title>
+    <desc lang="en">The day's major news events, business reports, local sports updates, weather information and tomorrow's forecast are presented by Deanie Wimmer, Mike Headrick, Debbie Worthen, Kevin Eubank and the KSL 5 News Team. Weekdays.</desc>
+  </programme>
+  <programme start="20251213070000 +0000" stop="20251213073000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News at 10PM (Replay)</title>
+    <desc lang="en">The day's major news events, business reports, local sports updates, weather information and tomorrow's forecast are presented by Deanie Wimmer, Mike Headrick, Debbie Worthen, Kevin Eubank and the KSL 5 News Team. Weekdays.</desc>
+  </programme>
+  <programme start="20251213073000 +0000" stop="20251213080000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News at 10PM (Replay)</title>
+    <desc lang="en">The day's major news events, business reports, local sports updates, weather information and tomorrow's forecast are presented by Deanie Wimmer, Mike Headrick, Debbie Worthen, Kevin Eubank and the KSL 5 News Team. Weekdays.</desc>
+  </programme>
+  <programme start="20251213080000 +0000" stop="20251213083000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News at 10PM (Nested)</title>
+    <desc lang="en">The day's major news events, business reports, local sports updates, weather information and tomorrow's forecast are presented by Deanie Wimmer, Mike Headrick, Debbie Worthen, Kevin Eubank and the KSL 5 News Team. Weekdays.</desc>
+  </programme>
+  <programme start="20251213083000 +0000" stop="20251213090000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News at 10PM (Replay)</title>
+    <desc lang="en">The day's major news events, business reports, local sports updates, weather information and tomorrow's forecast are presented by Deanie Wimmer, Mike Headrick, Debbie Worthen, Kevin Eubank and the KSL 5 News Team. Weekdays.</desc>
+  </programme>
+  <programme start="20251213090000 +0000" stop="20251213100000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Cool Stuff in Utah - Entertainment</title>
+  </programme>
+  <programme start="20251213100000 +0000" stop="20251213130000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">GNL - High School Football Replay</title>
+  </programme>
+  <programme start="20251213130000 +0000" stop="20251213133000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Your Life Your Health</title>
+  </programme>
+  <programme start="20251213133000 +0000" stop="20251213140000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Your Life Your Health</title>
+  </programme>
+  <programme start="20251213140000 +0000" stop="20251213143000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Get Gephardt</title>
+  </programme>
+  <programme start="20251213143000 +0000" stop="20251213150000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Get Gephardt</title>
+  </programme>
+  <programme start="20251213150000 +0000" stop="20251213153000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Get Gephardt</title>
+  </programme>
+  <programme start="20251213153000 +0000" stop="20251213160000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Get Gephardt</title>
+  </programme>
+  <programme start="20251213160000 +0000" stop="20251213163000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Sound Advice 1</title>
+  </programme>
+  <programme start="20251213163000 +0000" stop="20251213170000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Sound Advice 2</title>
+    <desc lang="en">Episode 2</desc>
+  </programme>
+  <programme start="20251213170000 +0000" stop="20251213173000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Sound Advice 3</title>
+  </programme>
+  <programme start="20251213173000 +0000" stop="20251213180000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Sound Advice 4</title>
+  </programme>
+  <programme start="20251213180000 +0000" stop="20251213210000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">GNL - High School Football Replay</title>
+  </programme>
+  <programme start="20251213210000 +0000" stop="20251213213000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Chopper 5 (Fall 1)</title>
+  </programme>
+  <programme start="20251213213000 +0000" stop="20251213220000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Chopper 5 (Fall 2)</title>
+  </programme>
+  <programme start="20251213220000 +0000" stop="20251213223000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Your Life Your Health</title>
+  </programme>
+  <programme start="20251213223000 +0000" stop="20251213233000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Cool Stuff in Utah - Halloween</title>
+  </programme>
+  <programme start="20251213233000 +0000" stop="20251214003000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL 5 News at 4:30 PM</title>
+    <desc lang="en">Mike Headrick and Debbie Worthen bring you up to the minute on breaking local news as well as national and international headlines, along with updates on the topics dominating dinner table conversations everywhere from family finances to health and entertainment reports.</desc>
+  </programme>
+  <programme start="20251214003000 +0000" stop="20251214010000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Rosenesque - Rosenesque Art</title>
+  </programme>
+  <programme start="20251214010000 +0000" stop="20251214040000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">GNL - High School Football Replay</title>
+  </programme>
+  <programme start="20251214040000 +0000" stop="20251214043000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL 5 News at 9</title>
+    <desc lang="en">The day's major news events, business reports, local sports updates, weather information and tomorrow's forecast are presented by Deanie Wimmer, Mike Headrick, Debbie Worthen, Kevin Eubank and the KSL 5 News Team. Weekdays.</desc>
+  </programme>
+  <programme start="20251214043000 +0000" stop="20251214050000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News at 9 (Replay)</title>
+  </programme>
+  <programme start="20251214050000 +0000" stop="20251214053000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News at 9 (Replay)</title>
+  </programme>
+  <programme start="20251214053000 +0000" stop="20251214060000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News at 10PM (Repeat)</title>
+    <desc lang="en">The day's major news events, business reports, local sports updates, weather information and tomorrow's forecast are presented by Deanie Wimmer, Mike Headrick, Debbie Worthen, Kevin Eubank and the KSL 5 News Team. Weekdays.</desc>
+  </programme>
+  <programme start="20251214060000 +0000" stop="20251214063000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News at 10PM (Replay)</title>
+    <desc lang="en">The day's major news events, business reports, local sports updates, weather information and tomorrow's forecast are presented by Deanie Wimmer, Mike Headrick, Debbie Worthen, Kevin Eubank and the KSL 5 News Team. Weekdays.</desc>
+  </programme>
+  <programme start="20251214063000 +0000" stop="20251214070000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News at 10PM (Replay)</title>
+    <desc lang="en">The day's major news events, business reports, local sports updates, weather information and tomorrow's forecast are presented by Deanie Wimmer, Mike Headrick, Debbie Worthen, Kevin Eubank and the KSL 5 News Team. Weekdays.</desc>
+  </programme>
+  <programme start="20251214070000 +0000" stop="20251214073000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News at 10PM (Replay)</title>
+    <desc lang="en">The day's major news events, business reports, local sports updates, weather information and tomorrow's forecast are presented by Deanie Wimmer, Mike Headrick, Debbie Worthen, Kevin Eubank and the KSL 5 News Team. Weekdays.</desc>
+  </programme>
+  <programme start="20251214073000 +0000" stop="20251214080000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News at 10PM (Replay)</title>
+    <desc lang="en">The day's major news events, business reports, local sports updates, weather information and tomorrow's forecast are presented by Deanie Wimmer, Mike Headrick, Debbie Worthen, Kevin Eubank and the KSL 5 News Team. Weekdays.</desc>
+  </programme>
+  <programme start="20251214080000 +0000" stop="20251214083000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News at 10PM (Nested)</title>
+    <desc lang="en">The day's major news events, business reports, local sports updates, weather information and tomorrow's forecast are presented by Deanie Wimmer, Mike Headrick, Debbie Worthen, Kevin Eubank and the KSL 5 News Team. Weekdays.</desc>
+  </programme>
+  <programme start="20251214083000 +0000" stop="20251214090000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News at 10PM (Replay)</title>
+    <desc lang="en">The day's major news events, business reports, local sports updates, weather information and tomorrow's forecast are presented by Deanie Wimmer, Mike Headrick, Debbie Worthen, Kevin Eubank and the KSL 5 News Team. Weekdays.</desc>
+  </programme>
+  <programme start="20251214090000 +0000" stop="20251214120000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">GNL - High School Football Replay</title>
+  </programme>
+  <programme start="20251214123000 +0000" stop="20251214130000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News at 10PM (Replay)</title>
+  </programme>
+  <programme start="20251214130000 +0000" stop="20251214140000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Wonderama</title>
+    <desc lang="en">Wonderama is a fun and interactive kids TV show. With exciting talent, music, messy games, and more!</desc>
+  </programme>
+  <programme start="20251214140000 +0000" stop="20251214143000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Get Gephardt</title>
+  </programme>
+  <programme start="20251214143000 +0000" stop="20251214150000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Get Gephardt</title>
+  </programme>
+  <programme start="20251214150000 +0000" stop="20251214153000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Get Gephardt</title>
+  </programme>
+  <programme start="20251214153000 +0000" stop="20251214160000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Get Gephardt</title>
+  </programme>
+  <programme start="20251214160000 +0000" stop="20251214163000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Sunday Edition</title>
+    <desc lang="en">Deanie Wimmer hosts this weekly discussion on the topics that will build up, inform, and celebrate Utah families and communities.</desc>
+  </programme>
+  <programme start="20251214163000 +0000" stop="20251214170000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Music &amp; The Spoken Word</title>
+    <desc lang="en">Broadcast weekly from the Salt Lake Tabernacle in Salt Lake City, Utah, the program primarily features performances of music by Tabernacle Choir —often accompanied by the Salt Lake Tabernacle organ and the Orchestra at Temple Square.</desc>
+  </programme>
+  <programme start="20251214170000 +0000" stop="20251214180000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Replay: Sunday Edition</title>
+  </programme>
+  <programme start="20251214180000 +0000" stop="20251214210000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">GNL - High School Football Replay</title>
+  </programme>
+  <programme start="20251214210000 +0000" stop="20251214220000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Temples Dot The Land</title>
+  </programme>
+  <programme start="20251214220000 +0000" stop="20251214230000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Breaking Barriers</title>
+  </programme>
+  <programme start="20251214230000 +0000" stop="20251214233000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL 5 News at 4:30 PM</title>
+    <desc lang="en">The day's top news items presented by Garna Mejia, Ashley Moser and Dan Rascon, along with the sports scores and the latest weather report from Kristen Van Dyke. Saturdays/Sundays</desc>
+  </programme>
+  <programme start="20251214233000 +0000" stop="20251215003000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Replay: Sunday Edition</title>
+  </programme>
+  <programme start="20251215003000 +0000" stop="20251215010000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Chopper 5 (Fall 1)</title>
+  </programme>
+  <programme start="20251215010000 +0000" stop="20251215040000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">GNL - High School Football Replay</title>
+  </programme>
+  <programme start="20251215043000 +0000" stop="20251215050000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL NFL Edition</title>
+  </programme>
+  <programme start="20251215050000 +0000" stop="20251215060000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL 5 News Sunday at 10 PM</title>
+    <desc lang="en">The day's top news items presented by Garna Mejia, Ashley Moser and Dan Rascon, along with the sports scores and the latest weather report from Kristen Van Dyke. Saturdays/Sundays</desc>
+  </programme>
+  <programme start="20251215060000 +0000" stop="20251215070000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News Sunday at 10PM (Repeat)</title>
+    <desc lang="en">The day's major news events, business reports, local sports updates, weather information and tomorrow's forecast are presented by Deanie Wimmer, Mike Headrick, Debbie Worthen, Kevin Eubank and the KSL 5 News Team. Weekdays.</desc>
+  </programme>
+  <programme start="20251215070000 +0000" stop="20251215080000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News Sunday at 10PM (Repeat)</title>
+  </programme>
+  <programme start="20251215080000 +0000" stop="20251215090000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News Sunday at 10PM (Repeat)</title>
+  </programme>
+  <programme start="20251215090000 +0000" stop="20251215093000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Rosenesque - History</title>
+  </programme>
+  <programme start="20251215093000 +0000" stop="20251215100000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Rosenesque - Family Friends &amp; Loved Ones</title>
+  </programme>
+  <programme start="20251215100000 +0000" stop="20251215103000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Rosenesque - Everybody Dance</title>
+  </programme>
+  <programme start="20251215103000 +0000" stop="20251215110000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Rosenesque - Carnival Of The Animals</title>
+  </programme>
+  <programme start="20251215110000 +0000" stop="20251215113000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Rosenesque - Rosenesque Art</title>
+  </programme>
+  <programme start="20251215113000 +0000" stop="20251215120000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">LIVE: KSL 5 News at 4:30 AM</title>
+    <desc lang="en">KSL 5 News at LIVE at 4:30 AM</desc>
+  </programme>
+  <programme start="20251215120000 +0000" stop="20251215130000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">LIVE: KSL 5 News Today at 5 AM</title>
+    <desc lang="en">Start your week day with the KSL TODAY team. Lori and Tamara help you prepare for the day ahead, and Matt keeps you informed on the weather so you Know Before You Go!</desc>
+  </programme>
+  <programme start="20251215130000 +0000" stop="20251215140000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">LIVE: KSL 5 News Today at 6 AM</title>
+    <desc lang="en">KSL 5 News LIVE at 6AM</desc>
+  </programme>
+  <programme start="20251215140000 +0000" stop="20251215150000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News Today (Nested)</title>
+    <desc lang="en">Start your week day with the KSL TODAY team. Lori and Tamara help you prepare for the day ahead, and Matt keeps you informed on the weather so you Know Before You Go!</desc>
+  </programme>
+  <programme start="20251215150000 +0000" stop="20251215160000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News Today (Replay)</title>
+    <desc lang="en">Start your week day with the KSL TODAY team. Lori and Tamara help you prepare for the day ahead, and Matt keeps you informed on the weather so you Know Before You Go!</desc>
+  </programme>
+  <programme start="20251215160000 +0000" stop="20251215170000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Cool Stuff in Utah - Entertainment</title>
+  </programme>
+  <programme start="20251215170000 +0000" stop="20251215173000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Get Gephardt</title>
+  </programme>
+  <programme start="20251215173000 +0000" stop="20251215180000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Get Gephardt</title>
+  </programme>
+  <programme start="20251215180000 +0000" stop="20251215183000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Get Gephardt</title>
+  </programme>
+  <programme start="20251215183000 +0000" stop="20251215190000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Get Gephardt</title>
+  </programme>
+  <programme start="20251215190000 +0000" stop="20251215200000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">LIVE: The Noon Show</title>
+    <desc lang="en">A comprehensive look at local, statewide, and national news events with Brooke Walker, Tamara Vaifanua, and Matt Johnson, along with updates on sports and your weather forecast.</desc>
+  </programme>
+  <programme start="20251215200000 +0000" stop="20251215210000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Replay: The Noon Show</title>
+  </programme>
+  <programme start="20251215210000 +0000" stop="20251215220000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">The Drew Barrymore Show</title>
+    <desc lang="en">Drew Barrymore presents human-interest stories, celebrity guests, lifestyle segments and field pieces, all driven by her infectious brand of humor, optimism and love for life.</desc>
+  </programme>
+  <programme start="20251215220000 +0000" stop="20251215230000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">The Kelly Clarkson Show</title>
+  </programme>
+  <programme start="20251215230000 +0000" stop="20251216000000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">LIVE: KSL News at 4PM</title>
+    <desc lang="en">Mike Headrick and Debbie Worthen bring you up to the minute on breaking local news as well as national and international headlines, along with updates on the topics dominating dinner table conversations everywhere from family finances to health and entertainment reports.</desc>
+  </programme>
+  <programme start="20251216000000 +0000" stop="20251216003000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">LIVE: KSL 5 News at 5 PM</title>
+    <desc lang="en">The day's top news items are presented by Mike Headrick and Debbie Worthen including local, national and international headlines and their impact here at home. Kevin Eubank also tracks the forecast and the chance it could disrupt your plans. Weekdays.</desc>
+  </programme>
+  <programme start="20251216003000 +0000" stop="20251216010000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News This Evening</title>
+  </programme>
+  <programme start="20251216010000 +0000" stop="20251216020000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">LIVE: KSL 5 News at 6 PM</title>
+    <desc lang="en">The day's top news items are presented by Deanie Wimmer, Mike Headrick, along with the KSL Sports team celebrating the incredible achievements of Utah athletes locally and professionally. We also get the latest weather report from Kevin Eubank. Weekdays.</desc>
+  </programme>
+  <programme start="20251216020000 +0000" stop="20251216030000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">KSL News Tonight (Nested)</title>
+  </programme>
+  <programme start="20251216030000 +0000" stop="20251216033000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Sound Advice</title>
+  </programme>
+  <programme start="20251216033000 +0000" stop="20251216040000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Sound Advice</title>
+    <desc lang="en">Episode 2</desc>
+  </programme>
+  <programme start="20251216040000 +0000" stop="20251216043000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Sound Advice</title>
+  </programme>
+  <programme start="20251216043000 +0000" stop="20251216050000 +0000" channel="4c674289-8bca-4dae-a7ee-1c8338d44961">
+    <title lang="en">Sound Advice</title>
+  </programme>
+</tv>
