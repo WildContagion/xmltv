@@ -1,74 +1,78 @@
-# .gitlab-ci.yml
-
-# Define the stages (optional but good practice)
+# Define the stages for your CI/CD pipeline
 stages:
-  - build
-  - deploy
+  - generate
+  - deploy # Keeping a deploy stage separate for future actions like serving the guide
 
-# Define a cache for Python dependencies
-cache:
-  paths:
-    - .venv/
+# 1. Define the base environment for the job
+image: python:3.10-slim
 
-# --- Job to Load and Generate XMLTV ---
-xmltv_generator:
-  stage: build
+# 2. Define the job
+xmltv_generator_job:
+  stage: generate
   
-  # Use a suitable Docker image with Python 3.10
-  image: python:3.10-slim
+  # 3. Cache the pip dependencies to speed up subsequent runs
+  cache:
+    key: ${CI_COMMIT_REF_SLUG}
+    paths:
+      - .cache/pip
   
-  # Control when the job runs
+  # 4. Define when this job should run (Triggers)
   rules:
-    # 1. Run on a schedule (cron equivalent)
+    # Schedule: Equivalent to 'cron: "0 4 * * *"' in GitHub Actions
     - if: $CI_PIPELINE_SOURCE == "schedule"
-    # 2. Run on manual workflow_dispatch (equivalent to a manual trigger)
-    - if: $CI_PIPELINE_SOURCE == "web"
-    # 3. Run on push to main branch, only if paths are modified
-    - if: $CI_COMMIT_BRANCH == "main" && ($CI_COMMIT_BEFORE_SHA != "0000000000000000000000000000000000000000" && changes)
-      changes:
-        - '.gitlab-ci.yml'
+      when: always
       
-  # Define the necessary commands to run
+    # Workflow_dispatch / Manual: Allows manual run through the UI
+    - if: $CI_PIPELINE_SOURCE == "web"
+      when: always
+      
+    # Push to 'main' branch, but only if paths match (The path filtering is a bit complex in pure rules, 
+    # but $CI_COMMIT_BRANCH == "main" is the basic check)
+    - if: $CI_COMMIT_BRANCH == "main"
+      changes:
+        - '.gitlab-ci.yml' # Check for changes in this specific file
+        - 'scripts/*'
+        - 'channels/**/*'
+      when: always
+      
+    # If no rule matches, skip the job
+    - when: never
+      
+  # 5. The actual execution steps
+  before_script:
+    # Setup pip cache directory (for the shared 'cache' block)
+    - export PIP_CACHE_DIR=".cache/pip"
+    - mkdir -p $PIP_CACHE_DIR
+
   script:
-    - echo "Setting up Python environment and dependencies..."
-    # Set up a virtual environment and use the cache
-    - python -m venv .venv
-    - source .venv/bin/activate
-    
-    # Install dependencies
-    - pip install --upgrade pip
+    - echo "Installing dependencies..."
     - pip install -r requirements.txt
-   
-    echo "Executing Python scripts to generate XMLTV files..."
-    # Execute Python scripts
+    
+    # Run the generation scripts
+    - echo "Executing XMLTV generation scripts..."
     - python ./scripts/gracenote_to_xmltv.py ./channels/gracenote/gracenote.channels.xml -o ./guide/gracenote.xml
     - python ./scripts/gracenote_to_xmltv.py ./channels/gracenote/USA-C-BAND-DEFAULT.channels.xml -o ./guide/USA-C-BAND-DEFAULT.xml
     - python ./scripts/gracenote_to_xmltv.py ./channels/gracenote/USA-GNSTR-DEFAULT.channels.xml -o ./guide/USA-GNSTR-DEFAULT.xml
     
-    # Gzip the main file
+    # Compress the main guide file
+    - echo "Compressing guide file..."
     - gzip -c ./guide/gracenote.xml > ./guide/gracenote.xml.gz
+
+    # --- Git Commit/Push Section (Alternative/Advanced) ---
+    # WARNING: This requires a Gitlab Deploy Token or user to be configured 
+    # to push back to the repository. The preferred GitLab method is to use 
+    # artifacts or a separate deployment job.
+    # 
+    # - echo "Configuring Git and pushing changes..."
+    # - git config user.name "gitlab-ci[bot]"
+    # - git config user.email "gitlab-ci[bot]@users.noreply.gitlab.com"
+    # - git remote set-url origin "https://oauth2:${CI_JOB_TOKEN}@${CI_SERVER_HOST}/${CI_PROJECT_PATH}.git"
+    # - git add --force ./guide
+    # - git commit -m "Update Gracenote XMLTV" || echo "No changes to commit"
+    # - git push origin $CI_COMMIT_BRANCH
     
-    echo "Committing and pushing changes..."
-    # The following steps require you to configure a **CI/CD Access Token** # with `write_repository` permissions for the GitLab user associated with the token.
-    # The token should be stored in a CI/CD Variable named `GITLAB_PUSH_TOKEN` or similar.
-    # We will use the built-in $CI_JOB_TOKEN for read access, but a dedicated token is better for push.
-    # Assuming you set up a variable like $GITLAB_PUSH_TOKEN
-    
-    # Configure Git
-    - git config --global user.name 'gitlab-ci[bot]'
-    - git config --global user.email 'gitlab-ci[bot]@users.noreply.gitlab.com'
-    
-    # Ensure the repository URL uses the token for pushing
-    - REMOTE_URL="https://Arkina1234:${GITLAB_PUSH_TOKEN}@${CI_SERVER_HOST}/${CI_PROJECT_PATH}.git"
-    
-    # Add, Commit, and Push
-    - git add --force ./guide
-    - git commit -m "Update Gracenote XMLTV [skip ci]" || echo "No changes to commit"
-    # The [skip ci] prevents an infinite loop of pipeline triggers
-    - git push "${REMOTE_URL}" HEAD:main
-    
-  # Define which files to save as artifacts (optional, but good for inspection)
+  # 6. Store the generated files as artifacts for download or use in later stages
   artifacts:
     paths:
       - ./guide/
-    expire_in: 1 day
+    expire_in: 1 week # How long to keep the downloadable files
